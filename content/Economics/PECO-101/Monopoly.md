@@ -2,7 +2,7 @@
 title: Monopoly
 draft:
 ---
-# Monopoly Vs Competitive Market Profits
+# Profits from Monopolist Market
 
 Let $P = 100 - 4q$ be demand function
 
@@ -29,6 +29,8 @@ $$
 Max $\Pi = 60 \times 10 - \left[ 50 + 20 \times 10 \right] = \fbox{350}$ 
 
 Thus, the monopolist have profit of $350$ by selling opt o/p of 10 units at a price of $50$ per unit.
+
+## Comparison with a competitive firm 
 
 Suppose, the firm is a competitive one, then, it follows a rule $\fbox{MC = P}$
 
