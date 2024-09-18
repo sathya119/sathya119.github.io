@@ -1,5 +1,5 @@
 ---
-title: PECO-102 Macroeconomic Theory
+title: PECO-102
 tags:
   - economics
   - PECO-102
