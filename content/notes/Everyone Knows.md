@@ -1,0 +1,1 @@
+The thing is everyone knows but very few people talk about it

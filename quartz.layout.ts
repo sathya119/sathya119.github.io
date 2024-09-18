@@ -1,6 +1,7 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { ColorScheme } from "./quartz/util/theme"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -41,8 +42,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    // Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({ folderClickBehavior: "link", title: "Everything" })),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        linkToMore: "notes" as SimpleSlug,
+        title: "Recent writing",
+        limit: 4,
+        showTags: false,
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
@@ -58,8 +66,21 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.Darkmode(),
+    Component.DesktopOnly(
+      Component.Explorer({
+        folderClickBehavior: "link",
+        // useSavedState: true,
+        title: "Everything",
+        folderDefaultState: "collapsed",
+      }),
+    ),
   ],
-  right: [],
+  right: [
+    Component.RecentNotes({
+      title: "Recent writing",
+      limit: 8,
+      showTags: false,
+    }),
+  ],
 }

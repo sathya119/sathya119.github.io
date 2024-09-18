@@ -1,6 +1,8 @@
 ---
 title: Monopoly
-draft:
+draft: false
+tags:
+  - PECO101
 ---
 # Profits from Monopolist Market
 

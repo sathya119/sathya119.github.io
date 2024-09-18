@@ -87,6 +87,7 @@ export default ((userOpts?: Partial<Options>) => {
       const tree = ExplorerNode({ node: fileTree, opts, fileData })
       component = (
         <div class={classNames(displayClass, "explorer")}>
+          {/* I don't want the explorer heading to be seen */}
           <button
             type="button"
             id="explorer"

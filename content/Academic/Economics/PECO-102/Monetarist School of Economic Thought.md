@@ -1,7 +1,7 @@
 ---
 tags:
   - economics
-  - PECO-102
+  - PECO102
 draft: false
 ---
 # Background
