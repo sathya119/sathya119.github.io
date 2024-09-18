@@ -2,8 +2,8 @@
 tags:
   - economics
   - PECO-102
-cssclasses: []
 title: IS-LM Framework
+draft: false
 ---
 # Background
 - IS -> Goods market (borrowing) (commodity)
