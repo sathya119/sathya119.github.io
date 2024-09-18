@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - The Art of Conducting
+    - Transposition
   ignoredFiles: []
 title: Music
 ---
