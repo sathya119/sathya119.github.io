@@ -2,7 +2,7 @@
 tags:
   - economics
   - PECO-102
-draft: true
+draft: false
 ---
 # Background
 > NAIRU: Non Accelerating 

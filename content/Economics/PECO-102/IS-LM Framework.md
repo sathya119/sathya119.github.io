@@ -192,7 +192,7 @@ $$
 r \uparrow \implies P_B \downarrow \implies M^d \downarrow
 $$
 
-![[IS-LM Framework 2024-09-10 10.35.02.excalidraw]]
+![[IS-LM-Framework-2024-09-10-10.35.02.excalidraw.light.svg]]
 
 **Liquidity Trap** is a situation where the interest rates don’t drop beyond this point. Any amount of money that you try to pump in is getting trapped.
 
@@ -235,7 +235,7 @@ $$
 >  The four quadrant approach gives us the money market equilibrium and thereby helps us to derive the $LM$ curve.
 >  - The `SE` quadrant reflects the transaction demand for money
 
-![[IS-LM Framework 2024-09-10 11.17.57.excalidraw]]
+![[IS-LM-Framework-2024-09-10-11.17.57.excalidraw.light.svg]]
 
 # Joint Equilibrium
 
@@ -247,7 +247,7 @@ $$
 $$
 mm/p = l(r) + k(y_+)
 $$
-![[IS-LM Framework 2024-09-13 10.02.49.excalidraw]]
+![[IS-LM-Framework-2024-09-13-10.02.49.excalidraw.light.svg]]
 ## Effectiveness of the policies
 
 > [!NOTE] Motives
@@ -257,18 +257,18 @@ $$
 > [!important] Assumption
 > We assume a closed economy
 
-![[IS-LM Framework 2024-09-13 10.07.31.excalidraw]]
+![[IS-LM-Framework-2024-09-13-10.07.31.excalidraw.light.svg]]
 
 $$
 r\downarrow \implies i \uparrow \implies y \uparrow \implies r \uparrow
 $$
 
-![[IS-LM Framework 2024-09-13 10.21.27.excalidraw]]
+![[IS-LM-Framework-2024-09-13-10.21.27.excalidraw.light.svg]]
 
 > [!NOTE] Scenario
 > What if your investment is not so sensitive?
-> ![[IS-LM Framework 2024-09-13 10.36.33.excalidraw.light.svg]]
-
+> ![[IS-LM-Framework-2024-09-13-10.36.33.excalidraw.light.svg]]
+[[]()]()
 
 > [!NOTE] Effectiveness of the Fiscal Policy taking into account the slope of the $LM$ curve
 > ![[IS-LM Framework 2024-09-13 10.47.57.excalidraw.light.svg]]
