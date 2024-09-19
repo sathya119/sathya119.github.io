@@ -1,7 +1,7 @@
 ---
 title: Hursh Gupta's Digital Garden
 ---
-![[digital-garden-involving-academics--music--experim.svg]]
+![[garden.svg]]
 
 This is a place where I share my thoughts and ideas. It's like a personal library, a digital sketchbook, and a thought laboratory all rolled into one.
 
