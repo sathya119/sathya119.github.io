@@ -8,4 +8,6 @@ longform:
     - Posting with Quartz
     - Svelte.js
   ignoredFiles: []
+title: LABS
 ---
+This is where I write about all my cooking (experiments). :BoBxsFlask:
