@@ -47,6 +47,7 @@ Conclusion: The central policy conclusion is, *the stability in the growth of mo
 > always out of 1000
 - to understand the NRT we will be using the [[Phillips Curve]]
 ![[Pasted image 20240917104930.png]]
+
 Natural rate of employment is exogenous
 The **first part of the story**: How the phillips curve is downward sloping
 - Unemployment was at 6%, and inflation was 0%

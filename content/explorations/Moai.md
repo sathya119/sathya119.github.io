@@ -1,7 +1,8 @@
 ---
-title: "Moai"
+title: Moai
 draft: false
 tags:
+  - random
 ---
 I found this emoji, that we call moai: 🗿  and I used it quite a lot, perhaps because I was highly influenced by my friend who too used it a lot.
 

@@ -1,0 +1,3 @@
+Depending on context it can mean different things...
+
+Concert note means the note that is not-transposed, one that sounds *real*.

@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Moai
+    - CSS Display Stuff
   ignoredFiles: []
 title: Explorations
 ---

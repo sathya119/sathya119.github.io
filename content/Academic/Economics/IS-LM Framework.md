@@ -267,7 +267,6 @@ $$
 > [!NOTE] Scenario
 > What if your investment is not so sensitive?
 > ![[IS-LM-Framework-2024-09-13-10.36.33.excalidraw.light.svg]]
-[[]()]()
 
 > [!NOTE] Effectiveness of the Fiscal Policy taking into account the slope of the $LM$ curve
 > ![[IS-LM Framework 2024-09-13 10.47.57.excalidraw.light.svg]]

@@ -3,7 +3,7 @@ title: Hursh Gupta's Digital Garden
 ---
 ![[garden.svg]]
 
-This is a place where I share my thoughts and ideas. It's like a personal library, a digital sketchbook, and a thought laboratory all rolled into one.
+A place where I share my thoughts and ideas. It's like a personal library, a digital sketchbook, and a thought laboratory all rolled into one.
 
 You'll find notes from my studies in economics and actuarial science. These are the foundations of my knowledge. I studied these subjects in depth and learned a lot about how the world works. For example, I learned about economic theory, financial modeling, and risk management.
 

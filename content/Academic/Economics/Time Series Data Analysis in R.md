@@ -63,9 +63,9 @@ df_nodate = df[, -c(1,5,9,13)]
 corrplot(cor_df_nodate, type="upper", order="h)
 ```
 
-`cbind` does a sort of column bind, so that information is placed in a single column^[think of flex-col, there is also `rbind`
-
+`cbind` does a sort of column bind, so that information is placed in a single column[^1]
 `df_nodate` because correlation works only with numerical values, we will have to remove any dates... 1, 2.3.4, 5 , 6.7.8, 9 , 10.11.12, 13, 14.15.16
 
 `corrplot` is used to create a correlation plot.
 
+[^1]:think of flex-col, there is also `rbind` for rows
