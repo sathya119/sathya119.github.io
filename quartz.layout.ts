@@ -45,7 +45,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer({ folderClickBehavior: "link", title: "Everything" })),
     Component.DesktopOnly(
       Component.RecentNotes({
-        linkToMore: "notes" as SimpleSlug,
+        linkToMore: "thoughts" as SimpleSlug,
         title: "Recent writing",
         limit: 4,
         showTags: false,
