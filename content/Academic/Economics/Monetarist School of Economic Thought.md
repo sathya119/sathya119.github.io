@@ -1,6 +1,5 @@
 ---
 tags:
-  - economics
   - PECO102
 draft: false
 ---

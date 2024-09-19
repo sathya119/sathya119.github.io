@@ -2,8 +2,8 @@
 speaker: Sai Suraj
 title: Market Differentiation
 tags:
-  - markets
   - PECO106
+  - student-lecture
 ---
 # Factors Influencing Market Structure
 
