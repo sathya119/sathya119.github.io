@@ -6,5 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - Posting with Quartz
+    - Svelte.js
   ignoredFiles: []
 ---
