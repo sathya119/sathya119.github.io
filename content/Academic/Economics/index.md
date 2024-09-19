@@ -11,4 +11,5 @@ longform:
     - Monetarist School of Economic Thought
     - Time Series Data Analysis in R
   ignoredFiles: []
+title: Economics
 ---
