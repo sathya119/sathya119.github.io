@@ -1,3 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// #quartz-body > div.center > article > p {
+//   width: 100%;
+// }
+
+// #quartz-body > div.center > article > p > img {
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+div.table-container > table {
+  margin: 0 auto;
+}

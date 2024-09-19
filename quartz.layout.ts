@@ -42,14 +42,20 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer({ folderClickBehavior: "link", title: "Everything" })),
+    Component.DesktopOnly(
+      Component.Explorer({
+        folderClickBehavior: "link",
+        title: "Everything",
+        useSavedState: false,
+      }),
+    ),
     Component.DesktopOnly(
       Component.RecentNotes({
         linkToMore: "thoughts" as SimpleSlug,
         filter: (f) =>
           (f.slug?.startsWith("thoughts") ||
-            // f.slug?.startsWith("LABS") ||
-            // f.slug?.startsWith("explorations") ||
+            f.slug?.startsWith("LABS") ||
+            f.slug?.startsWith("explorations") ||
             f.slug?.startsWith("Music")) ??
           false,
         title: "Recent writing",
@@ -75,12 +81,12 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
+    Component.Search({ enablePreview: true }),
     // Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "link",
-        // useSavedState: true,
+        useSavedState: false,
         title: "Everything",
         folderDefaultState: "collapsed",
       }),
@@ -91,7 +97,7 @@ export const defaultListPageLayout: PageLayout = {
       filter: (f) =>
         (f.slug?.startsWith("thoughts") ||
           f.slug?.startsWith("LABS") ||
-          // f.slug?.startsWith("explorations") ||
+          f.slug?.startsWith("explorations") ||
           f.slug?.startsWith("Music")) ??
         false,
       title: "Recent writing",
