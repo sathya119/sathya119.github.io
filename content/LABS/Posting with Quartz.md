@@ -21,6 +21,8 @@ As you might have noticed, this site has been built using [[Quartz]], which esse
 
 ---
 
+**Problem:** When I try to push to the repo using my Obsidian script, the build doesn’t show up for some odd reason.
+
 # Interesting Tips
 
 - Use [[longform]] to create different folders and write using them.
