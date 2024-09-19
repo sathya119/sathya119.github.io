@@ -10,4 +10,4 @@ longform:
   ignoredFiles: []
 title: LABS
 ---
-This is where I write about all my cooking (experiments). :BoBxsFlask:
+This is where I write about all my cooking (experiments). 🔬

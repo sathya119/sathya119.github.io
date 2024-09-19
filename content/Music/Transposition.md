@@ -4,9 +4,13 @@ draft: false
 tags:
 ---
 > **Clarinets** are in $B^\flat$, **Trumpets** and **Tenors (Sax)** too
+> 
 > **Bases**^[Trombones, Euphonium, Tuba, Sousaphone] mostly are $C$ but there’s no rule
+> 
 > Because **Bari Sax**, though a base is $E^\flat$ with a treble clef
+> 
 > $E^\flat$ also is **Alto Sax**, with a sweet flow
+> 
 > Not as sweet as the **Flutes** and **Piccolos** in $C$ though
 
 As we have seen, there are 3 primary transposition $C$, $B^\flat$ and $E^\flat$^[though, there is also the French Horn that has an $F$ transposition].
@@ -35,4 +39,4 @@ Gb Gb G A A G Gb E D D A Gb Gb E E
 
 Each note has just been transposed by 2 hours clockwise, e.g. $E \to G\flat$ 
 
-We can do the same for the Alto Sax, but I suggest you do it and try it out to see if you got it right.
+We can do the same for the Alto Sax, but I suggest you do it and try it out to see if you got it right[]().

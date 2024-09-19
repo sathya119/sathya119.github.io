@@ -46,6 +46,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
         linkToMore: "thoughts" as SimpleSlug,
+        filter: (f) =>
+          (f.slug?.startsWith("thoughts") ||
+            f.slug?.startsWith("LABS") ||
+            f.slug?.startsWith("explorations") ||
+            f.slug?.startsWith("Music")) ??
+          false,
         title: "Recent writing",
         limit: 4,
         showTags: false,
@@ -83,7 +89,7 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.RecentNotes({
       title: "Recent writing",
-      limit: 8,
+      limit: 10,
       showTags: false,
     }),
   ],
