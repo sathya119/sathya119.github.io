@@ -50,6 +50,22 @@ dev.off()
 
 `def.off()` is used to signify that there has been an end of input into the *png* file, more like a `flush` function that is used in file handling.
 
+## Correlation plots
 
+```r title="combine.r" {6,8}
+df <- as.data.frame(do.call(cbind,data))
+names(df) <- sub(" .*", "", names(df))
+summary(df)
+stargazer(data.frame(df),type="text", summary=TRUE)
 
+df_nodate = df[, -c(1,5,9,13)]
+(cor_df_nodate <- round(cor(df_nodate),2))
+corrplot(cor_df_nodate, type="upper", order="h)
+```
+
+`cbind` does a sort of column bind, so that information is placed in a single column^[think of flex-col, there is also `rbind`]
+
+`df_nodate` because correlation works only with numerical values, we will have to remove any dates... 1, 2.3.4, 5 , 6.7.8, 9 , 10.11.12, 13, 14.15.16
+
+`corrplot` is used to create a correlation plot.
 
