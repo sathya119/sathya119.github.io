@@ -15,10 +15,10 @@ description: Principles that guide the ratemaking process
 2. A rate ==provides for all costs== associated with transfer of risk [^sufficiency]
 3. A rate provides for all costs  associated with ==an individual risk== [^equity]
 4. A rate should be: [^actuarially_sound_rates]
-	 ✅reasonable
-	❌ excessive
-	❌ inadequate
-	❌ unfairly discriminatory
+	-  ✅reasonable
+	- ❌ excessive
+	- ❌ inadequate
+	- ❌ unfairly discriminatory
 
 [^prospective]: the estimation/development of premium happens before the  transfer of risk happens so it is **prospective**. Historical data **aids** in figuring out future experiences and is used so that rates for the future can be developed and not for creating rates for the past. This is why we shouldn’t overly rely on ==historical data==, its just a guide... not the solution.
 
