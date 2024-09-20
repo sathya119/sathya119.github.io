@@ -45,14 +45,23 @@ description: Principles that guide the ratemaking process
 5. Adjustments to Data:
 	1. should be adjusted to express any historical changes in cost between the historical period from which the data is being taken and period when the rates will be in effect
 6. Homogeneity:
+	1. organize into similar groups to improve accuracy
+	2. groups should have enough number to maintain credibility
+	3. balance both
 7. Credibility:
-8. ==Classification Plans==:
-9. Individual Risk Rating:
-10. Actuarial Judgement:
+	1. “predictive value attached to the dataset”
+	2. increase by **make groupings homogenous**   or **increase group size**
+	3. group should be big enough to be statistically reliable but should have homogeneity
+8. ==Classification Plans==: #doubt
+10. Individual Risk Rating:
+	1. If individual risk experience is sufficiently credible, impact of group’s credibility should be given less weightage and the premium should reflect more of individual experience
+11. Actuarial Judgement:
+	1. informed
+	2. documented and available for disclosure
 
 
 
-[^prospective]: the estimation/development of premium happens before the  transfer of risk happens so it is **prospective**. Historical data **aids** in figuring out future experiences and is used so that rates for the future can be developed and not for creating rates for the past. This is why we shouldn’t overly rely on ==historical data==, its just a guide... not the solution.
+[^prospective]: The estimation/development of premium happens before the  transfer of risk happens so it is **prospective**. Historical data **aids** in figuring out future experiences and is used so that rates for the future can be developed and not for creating rates for the past. This is why we shouldn’t overly rely on ==historical data==, its just a guide... not the solution.
 
 [^sufficiency]: This ensures that the [[Fundamental Insurance Equation]] is balanced at an **Aggregate level** so that the company is financially sound
 
