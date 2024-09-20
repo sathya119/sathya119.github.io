@@ -3,6 +3,7 @@ title: Monopoly
 draft: false
 tags:
   - PECO101
+date: 2024-09-16
 ---
 # Profits from Monopolist Market
 

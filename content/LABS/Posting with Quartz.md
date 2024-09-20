@@ -4,6 +4,7 @@ draft: false
 tags:
   - publishing
   - obsidian
+date: 2024-09-17
 ---
 As you might have noticed, this site has been built using [[Quartz]], which essentially takes my Obsidian Vault and organizes all the notes in an easy to navigate website manner.
 

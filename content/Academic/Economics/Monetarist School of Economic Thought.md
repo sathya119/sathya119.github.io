@@ -2,6 +2,7 @@
 tags:
   - PECO102
 draft: false
+date: 2024-09-17
 ---
 # Background
 > NAIRU: Non Accelerating 

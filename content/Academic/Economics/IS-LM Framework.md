@@ -3,6 +3,7 @@ tags:
   - PECO102
 title: IS-LM Framework
 draft: false
+date: 2024-09-12
 ---
 # Background
 - IS -> Goods market (borrowing) (commodity)

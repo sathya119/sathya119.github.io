@@ -10,4 +10,4 @@ longform:
   ignoredFiles: []
 title: LABS
 ---
-This is where I write about all my cooking (experiments). 🔬
+![[experiments--learning--laboratory.svg]]

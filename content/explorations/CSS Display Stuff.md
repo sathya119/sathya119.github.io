@@ -3,6 +3,8 @@ title: CSS Display Stuff
 draft: false
 tags:
   - web-dev
+date: 2024-09-18
+description: A quick reference for the difference Display types. The key takeaways are useful to know when to use which.
 ---
 
 | Display        | Property                                                                                                                                              |

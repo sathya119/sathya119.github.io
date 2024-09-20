@@ -10,3 +10,4 @@ longform:
   ignoredFiles: []
 title: Music
 ---
+![[music--piano--musical-conducting--trumpet--orchest.svg]]

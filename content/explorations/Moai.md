@@ -3,6 +3,7 @@ title: Moai
 draft: false
 tags:
   - random
+date: 2024-09-16
 ---
 I found this emoji, that we call moai: 🗿  and I used it quite a lot, perhaps because I was highly influenced by my friend who too used it a lot.
 

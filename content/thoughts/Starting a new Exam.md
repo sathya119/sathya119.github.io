@@ -3,6 +3,7 @@ title: Starting a new Exam
 draft: false
 tags:
   - actuaries
+date: 2024-09-18
 ---
  The progression of questions in one’s mind as he/she starts a new Actuarial #exam
 ## Questions I get before I start a new exam

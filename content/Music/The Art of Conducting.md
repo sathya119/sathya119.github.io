@@ -1,7 +1,8 @@
 ---
 title: The Art of Conducting
 draft: false
-tags:
+tags: 
+date: 2024-09-11
 ---
 # History
 ## Two Schools of Thought

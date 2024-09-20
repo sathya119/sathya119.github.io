@@ -1,7 +1,8 @@
 ---
 title: Transposition
 draft: false
-tags:
+tags: 
+date: 2024-09-14
 ---
 > **Clarinets** are in $B^\flat$, **Trumpets** and **Tenors (Sax)** too
 > 

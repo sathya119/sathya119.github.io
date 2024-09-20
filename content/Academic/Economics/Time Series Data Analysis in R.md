@@ -4,6 +4,7 @@ draft: false
 tags:
   - PECO104
   - time-series
+date: 2024-09-19
 ---
 # #automation Importing multiple sheets
 

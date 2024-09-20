@@ -5,9 +5,9 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
+    - IS-LM Framework
     - Monopoly
     - Market Differentiation
-    - IS-LM Framework
     - Monetarist School of Economic Thought
     - Time Series Data Analysis in R
     - Growth Theories & Models

@@ -10,3 +10,4 @@ longform:
   ignoredFiles: []
 title: Explorations
 ---
+![[exploration-adventure-mystry.svg]]
