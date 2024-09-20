@@ -13,7 +13,7 @@ description: Principles that guide the ratemaking process
 
 1. A rate is an **estimate** of **expected value** of ==future costs==.[^prospective]
 2. A rate ==provides for all costs== associated with transfer of risk [^sufficiency]
-3. A rate ==provides for all costs== associated with ==an individual risk== [^equity]
+3. A rate provides for all costs  associated with ==an individual risk== [^equity]
 4. A rate should be:
 	- [p] reasonable
 	- [c] excessive
