@@ -15,10 +15,42 @@ description: Principles that guide the ratemaking process
 2. A rate ==provides for all costs== associated with transfer of risk [^sufficiency]
 3. A rate provides for all costs  associated with ==an individual risk== [^equity]
 4. A rate should be: [^actuarially_sound_rates]
-	-  ✅reasonable
-	- ❌ excessive
-	- ❌ inadequate
-	- ❌ unfairly discriminatory
+	 ✅reasonable
+	❌ excessive
+	❌ inadequate
+	❌ unfairly discriminatory
+
+
+
+> [!example] #pneumonic Remember Considerations
+> “Every Day Order Ice-cream And Have Creamy Chocolate Inside Always”
+> 
+> (highlights below are those which are hard to remember)
+
+# Considerations
+
+1. Exposure Unit: 
+	1. Commensurate with risk
+	2. Practical
+	3. Verifiable
+2. [[Actuarial Past Data|Data]]:
+	1. Should provide a decent idea about the future
+	2. Relevant data includes P.E.L.E. (see [[Actuarial Past Data]])
+	3. The data is useful for discerning general trends in the claim frequencies, costs, expenses etc.
+3. [[Organization of Data]]:
+	1. choice of how data is organized is decided by the **availability**, **clarity** and **simplicity** of data. Also on the nature of insurance coverage
+4. Influences of Data:
+	1. what are the internal influences on data
+	2. what are the external influences on data
+5. Adjustments to Data:
+	1. should be adjusted to express any historical changes in cost between the historical period from which the data is being taken and period when the rates will be in effect
+6. Homogeneity:
+7. Credibility:
+8. ==Classification Plans==:
+9. Individual Risk Rating:
+10. Actuarial Judgement:
+
+
 
 [^prospective]: the estimation/development of premium happens before the  transfer of risk happens so it is **prospective**. Historical data **aids** in figuring out future experiences and is used so that rates for the future can be developed and not for creating rates for the past. This is why we shouldn’t overly rely on ==historical data==, its just a guide... not the solution.
 
