@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-09-20T03:48:30.223Z",
-      "total": 879,
+      "total": 1188,
       "drafts": {
         "content/thoughts/index.md": {
           "total": 0,
@@ -37,8 +37,13 @@
           }
         },
         "content/Academic/Actuarial Science/index.md": {
-          "total": 0,
-          "scenes": {}
+          "total": 309,
+          "scenes": {
+            "!Exam 5": 10,
+            "Ratemaking": 68,
+            "Reserving": 0,
+            "Ratemaking Principles": 231
+          }
         },
         "content/Academic/Economics/index.md": {
           "total": 879,

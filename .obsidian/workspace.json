@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Academic/Actuarial Science/index.md",
+                "file": "content/Academic/Actuarial Science/Ratemaking Principles.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Academic/Actuarial Science/index.md",
+                "file": "content/Academic/Actuarial Science/Ratemaking Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Academic/Actuarial Science/index.md",
+                "file": "content/Academic/Actuarial Science/Ratemaking Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Academic/Actuarial Science/index.md"
+                "file": "content/Academic/Actuarial Science/Ratemaking Principles.md"
               }
             }
           }
@@ -161,8 +160,21 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "560880055fbf6258",
+  "active": "7e5c651ea6b596e2",
   "lastOpenFiles": [
+    "content/Academic/Actuarial Science/Ratemaking.md",
+    "content/Academic/Actuarial Science/Ratemaking Principles.md",
+    "content/Academic/Actuarial Science/!Exam 5.md",
+    "content/Academic/Actuarial Science/Reserving.md",
+    "content/notes/mapping.md",
+    "content/thoughts/index.md",
+    "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.md",
+    "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.light.svg",
+    "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.dark.svg",
+    "content/Academic/Actuarial Science/index.md",
+    "content/Academic/Actuarial Science/Untitled.md",
+    "content/Academic/Economics/Growth Theories & Models.md",
+    "content/Academic/Economics/index.md",
     "content/LABS/index.md",
     "content/Music/index.md",
     "content/attachments/music--piano--musical-conducting--trumpet--orchest.svg",
@@ -171,7 +183,6 @@
     "content/attachments/exploration-adventure-mystry.svg",
     "content/explorations/CSS Display Stuff.md",
     "content/explorations/Moai.md",
-    "content/thoughts/index.md",
     "content/thoughts/Starting a new Exam.md",
     "content/Music/Transposition.md",
     "content/Music/The Art of Conducting.md",
@@ -182,15 +193,6 @@
     "content/Academic/Economics/IS-LM Framework.md",
     "content/Academic/Economics/Monetarist School of Economic Thought.md",
     "content/Academic/Economics/Time Series Data Analysis in R.md",
-    "content/Academic/Economics/Growth Theories & Models.md",
-    "content/Academic/Economics/SEMINAR Simulating India's Investment Function.md",
-    "content/Academic/Economics/test.md",
-    "templates/note.md",
-    "content/index.md",
-    "node_modules/speech-rule-engine/node_modules/commander/Readme.md",
-    "docs/features/callouts.md",
-    "docs/features/breadcrumbs.md",
-    "docs/features/backlinks.md",
     "public/attachments/Growth-Theories--and--Models-2024-09-20-11.29.05.excalidraw.light.svg",
     "public/attachments/Growth-Theories--and--Models-2024-09-20-11.29.05.excalidraw.dark.svg",
     "content/attachments/Growth Theories & Models 2024-09-20 11.29.05.excalidraw.light.svg",
@@ -205,8 +207,6 @@
     "public/Academic/Economics.html",
     "public/tags/excalidraw.html",
     "public/attachments/index.html",
-    "public/attachments/garden.svg",
-    "content/attachments/garden.svg",
-    "content/attachments/digital-garden-involving-academics--music--experim.svg"
+    "public/attachments/garden.svg"
   ]
 }
