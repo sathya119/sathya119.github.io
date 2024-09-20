@@ -1,6 +1,6 @@
 ---
 title: Ratemaking
-draft: true
+draft: false
 tags: 
 date: 2024-09-20
 ---
