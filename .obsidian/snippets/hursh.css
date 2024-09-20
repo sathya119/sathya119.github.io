@@ -1,0 +1,17 @@
+body {
+  --h1-line-height: 4rem;
+  --h2-line-height: 3.5rem;
+  --h3-line-height: 3rem;
+}
+
+wbr {
+  page-break-after: always;
+}
+
+.excalidraw-svg {
+  margin: auto;
+}
+
+.image-embed {
+  margin: auto;
+}
