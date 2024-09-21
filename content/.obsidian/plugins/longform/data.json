@@ -1,0 +1,315 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Academic/Economics/index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2024-09-21T02:58:11.931Z",
+      "total": 0,
+      "drafts": {
+        "content/thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0
+          }
+        },
+        "content/Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0
+          }
+        },
+        "content/explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0
+          }
+        },
+        "content/LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0
+          }
+        },
+        "content/Academic/Economics/index.md": {
+          "total": 450,
+          "scenes": {
+            "IS-LM Framework": 0,
+            "Monopoly": 0,
+            "Market Differentiation": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Time Series Data Analysis in R": 0,
+            "Growth Theories & Models": 0,
+            "Simulating India's Investment Function": 1,
+            "Duopoly Markets": 389,
+            "Roles of Operations of Banks": 60
+          }
+        },
+        "content/Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "!Exam 5": 0,
+            "Ratemaking": 0,
+            "Reserving": 0,
+            "Ratemaking Principles": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 0,
+          "scenes": {
+            "IS-LM Framework": 0,
+            "Monopoly": 0,
+            "Market Differentiation": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Time Series Data Analysis in R": 0,
+            "Growth Theories & Models": 0,
+            "Simulating India's Investment Function": 0,
+            "Duopoly Markets": 0,
+            "Roles of Operations of Banks": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "!Exam 5": 0,
+            "Ratemaking": 0,
+            "Reserving": 0,
+            "Ratemaking Principles": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-09-20T03:48:30.223Z",
+      "total": 1441,
+      "drafts": {
+        "content/thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0
+          }
+        },
+        "content/Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0
+          }
+        },
+        "content/LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0
+          }
+        },
+        "content/explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0
+          }
+        },
+        "content/Academic/Actuarial Science/index.md": {
+          "total": 562,
+          "scenes": {
+            "!Exam 5": 10,
+            "Ratemaking": 68,
+            "Reserving": 0,
+            "Ratemaking Principles": 484
+          }
+        },
+        "content/Academic/Economics/index.md": {
+          "total": 879,
+          "scenes": {
+            "IS-LM Framework": 0,
+            "Monopoly": 0,
+            "Market Differentiation": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Time Series Data Analysis in R": 0,
+            "Growth Theories & Models": 873,
+            "SEMINAR Simulating India's Investment Function": 6
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-09-19T04:58:18.085Z",
+      "total": 5636,
+      "drafts": {
+        "content/explorations/index.md": {
+          "total": 227,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 227
+          }
+        },
+        "content/Music/index.md": {
+          "total": 358,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 358
+          }
+        },
+        "content/LABS/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/LABS/index.md": {
+          "total": 217,
+          "scenes": {
+            "Posting with Quartz": 205,
+            "Svelte.js": 12
+          }
+        },
+        "content/Academic/Actuarial Science/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/thoughts/Index.md": {
+          "total": 586,
+          "scenes": {
+            "Starting a new Exam": 586
+          }
+        },
+        "content/thoughts/index.md": {
+          "total": 586,
+          "scenes": {
+            "Starting a new Exam": 586
+          }
+        },
+        "content/Academic/Economics/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/Academic/Economics/index.md": {
+          "total": 4248,
+          "scenes": {
+            "Monopoly": 700,
+            "Market Differentiation": 349,
+            "IS-LM Framework": 1819,
+            "Monetarist School of Economic Thought": 1027,
+            "Time Series Data Analysis in R": 353
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-09-18T10:04:10.094Z",
+      "total": 306,
+      "drafts": {
+        "content/explorations/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/explorations/index.md": {
+          "total": 140,
+          "scenes": {
+            "Moai": 140
+          }
+        },
+        "content/Music/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "content/Music/index.md": {
+          "total": 166,
+          "scenes": {
+            "The Art of Conducting": 154,
+            "Transposition": 12
+          }
+        }
+      }
+    },
+    {
+      "start": "2024-09-17T11:00:41.877Z",
+      "total": 0,
+      "drafts": {}
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": "templates/note.md",
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

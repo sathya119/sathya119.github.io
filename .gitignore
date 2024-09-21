@@ -9,8 +9,3 @@ private/
 .replit
 replit.nix
 
-
-content/.obsidian/plugins
-content/.obsidian/icons
-!content/.obsidian/**/*.json
-!content/.obsidian/snippets/**
