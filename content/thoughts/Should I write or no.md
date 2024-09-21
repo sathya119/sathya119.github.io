@@ -5,7 +5,7 @@ tags:
   - actuaries
 date: 2024-09-21
 ---
-How to decide whether you should attempt an exam in this diet or not?
+How to decide whether you should attempt an exam in this [[diet]] or not?
 
 
 > [!TIP]- It’s not intuitive.
