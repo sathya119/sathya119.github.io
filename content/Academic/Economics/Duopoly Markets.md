@@ -70,6 +70,7 @@ Let $c_1 = 5q_1$ ;$\quad c_2 = 0.5q_2^2$ be the cost function
 > $$
 > 100 - 0.5q_1 - 0.5q_2 = 5 \implies q_1 + q_2 = 190
 > $$
+> 
 > $$
 > 100 - 0.5q_1 - 0.5q_2 = q_2 \implies q_1 + 3q_2 = 200
 > $$
@@ -77,11 +78,13 @@ Let $c_1 = 5q_1$ ;$\quad c_2 = 0.5q_2^2$ be the cost function
 > This gives us $q_2 = 5$ and $q_1 = 185$
 > 
 >  $$ R_1 = p\cdot q_1 = 100q_1 - 0.5 q_1^2 - 0.5q_2q_1 = 925 $$
+>  
 >  $$ R_2 = p\cdot q_2 = 100q_2 - 0.5 q_1q_2 - 0.5q_2^2 = 25$$
 >  
 >  So, the max profit is:
 >  
 >  $$\Pi_1 = 925 - 5\times185 = \boxed{0}$$
+>  
 >  $$\Pi_2 = 25 - 0.5\times25 = \boxed{12.5}$$
 
 
