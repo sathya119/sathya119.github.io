@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Academic/Economics/index.md",
+  "selectedDraftVaultPath": "thoughts/index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2024-09-21T02:58:11.931Z",
-      "total": 0,
+      "total": 31,
       "drafts": {
         "content/thoughts/index.md": {
           "total": 0,
@@ -60,9 +60,10 @@
           }
         },
         "thoughts/index.md": {
-          "total": 0,
+          "total": 31,
           "scenes": {
-            "Starting a new Exam": 0
+            "Starting a new Exam": 0,
+            "Should I write or no": 31
           }
         },
         "Music/index.md": {

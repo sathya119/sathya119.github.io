@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46d29686937a0768",
+        "id": "f30019d6f11a87d5",
         "type": "tabs",
         "children": [
           {
-            "id": "01e2ce1611593b05",
+            "id": "fedfa236d6695376",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "281d992ed8831303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/Should I write or no.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "thoughts/Should I write or no.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "thoughts/Should I write or no.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "thoughts/Should I write or no.md"
               }
             }
           }
@@ -149,6 +163,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,15 +176,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ebc7f06b4cb5c3b",
+  "active": "281d992ed8831303",
   "lastOpenFiles": [
+    "thoughts/index.md",
+    "thoughts/Should I write or no.md",
+    "thoughts/Teaching a friend.md",
+    "templates/note.md",
+    "templates",
     "Academic/Economics/Roles of Operations of Banks.md",
+    "index.md",
     "Academic/Economics/index.md",
     "Academic/Actuarial Science/Ratemaking Principles.md",
     "Academic/Actuarial Science/Reserving.md",
     "Academic/Actuarial Science/Ratemaking.md",
     "Academic/Actuarial Science/index.md",
-    "index.md",
     "content/Academic/Economics.md",
     "content/notes/Security.md",
     "public/attachments/music--piano--musical-conducting--trumpet--orchest.svg",
@@ -179,7 +204,6 @@
     "public/notes/equity.html",
     "public/notes/creditor.html",
     "public/notes/Underwriting.html",
-    "public/notes/Total-Limits-Loss.html",
     "content/notes/Financial Instrument.md",
     "content/notes/creditor.md",
     "content/notes/Investment Banking.md",
@@ -193,10 +217,6 @@
     "content/notes/Financial Services Industry.md",
     "content/Academic/Economics/Simulating India's Investment Function.md",
     "content/Academic/Economics 2.md",
-    "content/Academic/Economics/Duopoly Markets.md",
-    "content/Academic/Economics 1.md",
-    "content/Academic/Economics/#PRESENTATIONS Roles of operations of Banks and Insurance Companies, Process Technology.md",
-    "content/index.md",
     "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.light.svg",
     "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.dark.svg",
     "content/attachments/music--piano--musical-conducting--trumpet--orchest.svg",
