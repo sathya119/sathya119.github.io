@@ -7,6 +7,7 @@ longform:
   scenes:
     - The Art of Conducting
     - Transposition
+    - Exercises for Band
   ignoredFiles: []
 title: Music
 ---

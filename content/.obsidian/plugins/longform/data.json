@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-09-21T02:58:11.931Z",
-      "total": 1382,
+      "total": 1945,
       "drafts": {
         "content/thoughts/index.md": {
           "total": 0,
@@ -60,17 +60,17 @@
           }
         },
         "thoughts/index.md": {
-          "total": 31,
+          "total": 0,
           "scenes": {
-            "Starting a new Exam": 0,
-            "Should I write or no": 31
+            "Starting a new Exam": 0
           }
         },
         "Music/index.md": {
-          "total": 0,
+          "total": 6,
           "scenes": {
             "The Art of Conducting": 0,
-            "Transposition": 0
+            "Transposition": 0,
+            "Exercises for Band": 6
           }
         },
         "LABS/index.md": {
@@ -132,18 +132,21 @@
           }
         },
         "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 1351,
+          "total": 1939,
           "scenes": {
             "Ratemaking": 68,
             "Reserving": 0,
             "Ratemaking Principles": 484,
-            "Should you go for negative profit in FIE": 70,
+            "Should you go for negative profit in FIE": 72,
             "Trending in Ratemaking": 24,
             "Expenses and Profits": 36,
             "Ratemaking Methods": 0,
             "Reporting Pattern": 252,
             "Fundamental Insurance Equation": 11,
-            "Development": 406
+            "Insurance Basics": 160,
+            "Development": 489,
+            "Overall Rate Level Indications": 247,
+            "Risk Classification": 96
           }
         }
       }

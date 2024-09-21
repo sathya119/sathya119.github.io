@@ -70,9 +70,23 @@ That’s all! That’s the development triangle.
 
 ## Reading the Development Triangle
 
-- If we want to look at all claims that happened a/o a specific year, let’s say 2021, then all we need to do is **read the upward sloping diagonal** 
+- If we want to look at all claims that happened a/o a specific year, let’s say 2027, then all we need to do is **read the upward sloping diagonal** 
 	- which in this case are `112 150 152 180`
-	- note that these are cumulative values, so summing them up will give
+	- note that these are cumulative values, so summing them up will give us the total losses a/o a 2027
 
+## Triangles that can be derived
 
-[^changes]: class of business written, policy provisions, claims management philosophy, social and economic environments
+- Incremental Paid claims:
+	- Add up the CY paid for each transaction in the year
+- Cumulative Paid Claims
+	- Cumulatively add through a given year (from the previous result)
+- Cumulative Reported Claims
+	- Add Cumulative Paid claims + Year End Case Reserves
+- Cumulative Reported Claim Count
+	- Just count them
+- Cumulative Closed Claim Count
+	- Just invert it...
+
+We can also perform [[Diagnostics using Development Triangles]]
+
+[^changes]: class of business written, policy provisions, claims management philosophy, social and economic environment

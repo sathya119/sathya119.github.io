@@ -14,11 +14,14 @@ longform:
     - Ratemaking Methods
     - Reporting Pattern
     - Fundamental Insurance Equation
+    - Insurance Basics
     - Development
+    - Overall Rate Level Indications
+    - Risk Classification
   sceneTemplate: templates/exam5 note.md
   ignoredFiles:
     - index
-title: Exam 5
+title: "!Exam 5"
 tags:
   - actuarialExam
 ---
