@@ -12,6 +12,7 @@ longform:
     - Time Series Data Analysis in R
     - Growth Theories & Models
     - SEMINAR Simulating India's Investment Function
+    - Duopoly Markets
   ignoredFiles: []
 title: Economics
 ---

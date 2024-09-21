@@ -2,4 +2,6 @@
 tags:
   - "#EXAM5"
 ---
-Something...
+Losses that have not been capped, or ground-up losses are referred to as total limits loss.
+
+See also [[Basic Limits Loss]]
