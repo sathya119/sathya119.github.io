@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "ebc987e539fb2a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "46d29686937a0768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01e2ce1611593b05",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6b41e16005a5560",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfdfe25f81757d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ebc7f06b4cb5c3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e44244526188bed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "560880055fbf6258",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "7de75e0a52d49db2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "right": {
+    "id": "5390f986a74ef251",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0e6b56609eeebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f65aceb93d8f863",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46886fee1d4722e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42ff1d5eaf7f56fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16f51fd493874b66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "5ebc7f06b4cb5c3b",
+  "lastOpenFiles": [
+    "Academic/Economics/Roles of Operations of Banks.md",
+    "Academic/Economics/index.md",
+    "Academic/Actuarial Science/Ratemaking Principles.md",
+    "Academic/Actuarial Science/Reserving.md",
+    "Academic/Actuarial Science/Ratemaking.md",
+    "Academic/Actuarial Science/index.md",
+    "index.md",
+    "content/Academic/Economics.md",
+    "content/notes/Security.md",
+    "public/attachments/music--piano--musical-conducting--trumpet--orchest.svg",
+    "public/attachments/exploration-adventure-mystry.svg",
+    "public/attachments/experiments--learning--laboratory.svg",
+    "public/tags/finance.html",
+    "public/tags/SEMINAR.html",
+    "public/tags/PECO105.html",
+    "public/tags/doubt.html",
+    "public/tags/pneumonic.html",
+    "public/tags/EXAM5.html",
+    "public/notes/equity.html",
+    "public/notes/creditor.html",
+    "public/notes/Underwriting.html",
+    "public/notes/Total-Limits-Loss.html",
+    "content/notes/Financial Instrument.md",
+    "content/notes/creditor.md",
+    "content/notes/Investment Banking.md",
+    "content/notes/Underwriting.md",
+    "content/Academic/Economics/Roles of Operations of Banks.md",
+    "content/notes/Financial Capital.md",
+    "content/notes/Real Capital.md",
+    "content/notes/Foreign Exchanges.md",
+    "content/notes/Human Capital.md",
+    "content/notes/equity.md",
+    "content/notes/Financial Services Industry.md",
+    "content/Academic/Economics/Simulating India's Investment Function.md",
+    "content/Academic/Economics 2.md",
+    "content/Academic/Economics/Duopoly Markets.md",
+    "content/Academic/Economics 1.md",
+    "content/Academic/Economics/#PRESENTATIONS Roles of operations of Banks and Insurance Companies, Process Technology.md",
+    "content/index.md",
+    "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.light.svg",
+    "content/attachments/Ratemaking 2024-09-20 15.07.18.excalidraw.dark.svg",
+    "content/attachments/music--piano--musical-conducting--trumpet--orchest.svg",
+    "content/attachments/experiments--learning--laboratory.svg",
+    "content/attachments/exploration-adventure-mystry.svg",
+    "public/attachments/Growth-Theories--and--Models-2024-09-20-11.29.05.excalidraw.light.svg",
+    "public/attachments/Growth-Theories--and--Models-2024-09-20-11.29.05.excalidraw.dark.svg"
+  ]
+}

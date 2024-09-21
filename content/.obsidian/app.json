@@ -1,0 +1,17 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "userIgnoreFilters": [
+    "docs/",
+    "node_modules/",
+    "quartz/",
+    "content/attachments/",
+    "public/attachments/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showLineNumber": true,
+  "showRibbon": false,
+  "promptDelete": false
+}

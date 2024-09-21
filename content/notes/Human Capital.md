@@ -1,0 +1,1 @@
+Skills and knowledge possessed by individuals that contribute to economic production.
