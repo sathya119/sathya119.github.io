@@ -9,6 +9,11 @@ longform:
     - Ratemaking
     - Reserving
     - Ratemaking Principles
+    - Should you go for negative profit in FIE
+    - Trending in Ratemaking
+    - Expenses and Profits
+    - Ratemaking Methods
+    - Reporting Pattern
   ignoredFiles: []
 title: Actuarial Science
 ---

@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "thoughts/index.md",
+  "selectedDraftVaultPath": "Academic/Actuarial Science/index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2024-09-21T02:58:11.931Z",
-      "total": 31,
+      "total": 414,
       "drafts": {
         "content/thoughts/index.md": {
           "total": 0,
@@ -102,12 +102,17 @@
           }
         },
         "Academic/Actuarial Science/index.md": {
-          "total": 0,
+          "total": 383,
           "scenes": {
             "!Exam 5": 0,
             "Ratemaking": 0,
             "Reserving": 0,
-            "Ratemaking Principles": 0
+            "Ratemaking Principles": 0,
+            "Should you go for negative profit in FIE": 70,
+            "Trending in Ratemaking": 24,
+            "Expenses and Profits": 36,
+            "Ratemaking Methods": 0,
+            "Reporting Pattern": 253
           }
         }
       }

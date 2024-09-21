@@ -14,4 +14,3 @@ How to decide whether you should attempt an exam in this [[diet]] or not?
 $$
 -b \pm \sqrt{b^2 - 4ac}
 $$
-
