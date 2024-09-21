@@ -8,7 +8,7 @@ date: 2024-09-20
 
 - [[Total Limits Loss]] and [[Basic Limits Loss Trend]]
 - [[Expense Ratio]],  [[direct premium]] 
-- [[Bornheutter-Ferguson Technique]] (calculation of indicated rate changes)
+- [[Bornhuetter-Ferguson Technique]] (calculation of indicated rate changes)
 - [[finding rating factors]]
 - [[Rate Relatives produced by GLM]]
 - [[coinsurance provisions]]

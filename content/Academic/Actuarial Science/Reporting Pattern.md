@@ -1,7 +1,8 @@
 ---
 title: Reporting Pattern
 draft: false
-tags: 
+tags:
+  - EXAM5
 date: 2024-09-21
 section: "5.1"
 ---
