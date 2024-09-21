@@ -15,19 +15,19 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "651cf0363bd42f23",
+            "id": "52da13ca838f2b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Actuarial Science/Exam 5.md",
+                "file": "Academic/Actuarial Science/Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Actuarial Science/Exam 5.md",
+                "file": "Academic/Actuarial Science/Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Actuarial Science/Exam 5.md",
+                "file": "Academic/Actuarial Science/Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Actuarial Science/Exam 5.md"
+                "file": "Academic/Actuarial Science/Development.md"
               }
             }
           }
@@ -177,25 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "651cf0363bd42f23",
+  "active": "52da13ca838f2b19",
   "lastOpenFiles": [
+    "Academic/Actuarial Science/Development.md",
     "index.md",
+    "Academic/Actuarial Science/index.md",
+    "notes/valuation date.md",
+    "Academic/Actuarial Science/!Exam 5.md",
+    "Academic/Actuarial Science/Reporting Pattern.md",
     "Academic/Actuarial Science/Fundamental Insurance Equation.md",
-    "Academic/Actuarial Science/Exam 5.md",
     "notes/Policies, Coverages & Claims.md",
     "explorations/CSS Display Stuff.md",
     "explorations/index.md",
     "Academic/Actuarial Science/Trending in Ratemaking.md",
-    "Academic/Actuarial Science/Development.md",
     "templates/exam5 note.md",
     "Academic/Actuarial Science/Ratemaking.md",
     "Academic/Actuarial Science/Ratemaking Methods.md",
-    "Academic/Actuarial Science/index.md",
     "Academic/Actuarial Science/Untitled.md",
-    "Academic/Actuarial Science/!Exam 5.md",
     "Academic/Actuarial Science/Evaluating Reserving Techniques.md",
     "notes/Bornhuetter-Ferguson Technique.md",
-    "Academic/Actuarial Science/Reporting Pattern.md",
     "attachments/Reporting Pattern 2024-09-21 15.43.52.excalidraw.md",
     "attachments/Pasted image 20240917104930.png",
     "attachments/Pasted Image 20240921154744_381.png",
@@ -209,7 +209,6 @@
     "thoughts/Should I write or no.md",
     "notes/diet.md",
     "thoughts/index.md",
-    "thoughts/Teaching a friend.md",
     "templates",
     "public/attachments/music--piano--musical-conducting--trumpet--orchest.svg",
     "public/attachments/exploration-adventure-mystry.svg",

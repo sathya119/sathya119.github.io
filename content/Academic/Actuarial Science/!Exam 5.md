@@ -14,12 +14,14 @@ longform:
     - Ratemaking Methods
     - Reporting Pattern
     - Fundamental Insurance Equation
+    - Development
   sceneTemplate: templates/exam5 note.md
   ignoredFiles:
     - index
 title: Exam 5
+tags:
+  - actuarialExam
 ---
-
 There are two parts to this exam, [[Ratemaking]] and [[Reserving]].
 
 # Syllabus Coverage
