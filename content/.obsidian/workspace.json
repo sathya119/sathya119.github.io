@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,13 +100,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "5390f986a74ef251",
@@ -191,15 +189,15 @@
   },
   "active": "e29ae5ca5597687a",
   "lastOpenFiles": [
-    "Academic/Actuarial Science/!Exam 5.md",
+    "notes/Untitled.md",
     "Academic/Actuarial Science/Traditional Risk Classification.md",
+    "Academic/Actuarial Science/!Exam 5.md",
     "Academic/Actuarial Science/Risk Classification.md",
     "index.md",
     "Academic/Actuarial Science/Overall Rate Level Indications.md",
     "Academic/Actuarial Science/Development.md",
     "Academic/Actuarial Science/Insurance Basics.md",
     "notes/Loss Ratio Method.md",
-    "notes/Untitled.md",
     "notes/Pure Premium Method.md",
     "notes/Underwriting Expenses.md",
     "Music/Exercises for Band.md",

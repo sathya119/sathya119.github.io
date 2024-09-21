@@ -18,6 +18,7 @@ longform:
     - Development
     - Overall Rate Level Indications
     - Risk Classification
+    - Traditional Risk Classification
   sceneTemplate: templates/exam5 note.md
   ignoredFiles:
     - index

@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-09-21T02:58:11.931Z",
-      "total": 1945,
+      "total": 2050,
       "drafts": {
         "content/thoughts/index.md": {
           "total": 0,
@@ -132,7 +132,7 @@
           }
         },
         "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 1939,
+          "total": 2044,
           "scenes": {
             "Ratemaking": 68,
             "Reserving": 0,
@@ -146,7 +146,8 @@
             "Insurance Basics": 160,
             "Development": 489,
             "Overall Rate Level Indications": 247,
-            "Risk Classification": 96
+            "Risk Classification": 96,
+            "Traditional Risk Classification": 105
           }
         }
       }
