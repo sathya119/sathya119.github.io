@@ -2,7 +2,7 @@
 title: Hursh Gupta's Digital Garden
 ---
 ![[garden.svg]]
-
+[]()
 A place where I share my thoughts and ideas. It's like a personal library, a digital sketchbook, and a thought laboratory all rolled into one.
 
 You'll find notes from my studies in [[Academic/Economics/index|economics]] and [[Academic/Actuarial Science/index|actuarial science]]. I study these subjects in depth and learn to look at the world through these lenses.

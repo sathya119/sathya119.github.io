@@ -63,9 +63,10 @@ $P = 100 - 0.5[q_1 + q_2]$ be the demand function
 Let $c_1 = 5q_1$ ;$\quad c_2 = 0.5q_2^2$ be the cost function
 
 
-> [!QUESTION] Find the Max profit for both duopolists
+> [!QUESTION]- Find the Max profit for both duopolists
+> Hint:  use $MC=P$ to find $q_1$ and $q_2$ then use $R$ and $c$ to find $\Pi$ for both firms
 
-> [!success] Solution
+> [!success]- Solution
 > By the profit max rule $MC = P$, we get
 > $$
 > 100 - 0.5q_1 - 0.5q_2 = 5 \implies q_1 + q_2 = 190
