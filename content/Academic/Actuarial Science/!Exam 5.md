@@ -26,6 +26,7 @@ longform:
 title: "!Exam 5"
 tags:
   - actuarialExam
+date: 2024-09-20
 ---
 There are two parts to this exam, [[Ratemaking]] and [[Reserving]].
 

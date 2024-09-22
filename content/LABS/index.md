@@ -9,5 +9,6 @@ longform:
     - Svelte.js
   ignoredFiles: []
 title: LABS
+date: 2024-09-17
 ---
 ![[experiments--learning--laboratory.svg]]
