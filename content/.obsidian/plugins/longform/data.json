@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-09-22T04:13:28.543Z",
-      "total": 1362,
+      "total": 1412,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -59,7 +59,7 @@
           }
         },
         "Academic/Economics/index.md": {
-          "total": 367,
+          "total": 417,
           "scenes": {
             "IS-LM Framework": 0,
             "Monopoly": 0,
@@ -69,7 +69,7 @@
             "Growth Theories & Models": 0,
             "Simulating India's Investment Function": 0,
             "Duopoly Markets": 0,
-            "Roles of Operations of Banks": 367
+            "Roles of Operations of Banks": 417
           }
         }
       }

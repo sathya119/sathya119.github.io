@@ -47,7 +47,7 @@ Banks and Insurance companies are [[Financial Institutions]] play a key role in 
 
 To know their importance, first let’s try to visualize what would have happened in their absence:
 
-- **Without Banks,
+- **Without Banks**,
 	- borrowers would have to look for people who wish to lend money
 	- lenders would have to look for people who wish to borrow money
 	- there will be a big hassle and security issue during the transfer of money
@@ -63,10 +63,16 @@ To know their importance, first let’s try to visualize what would have happene
 - Provision of Banking Services[^1]
 	- Retail Banking:
 		- services to general public
-		- mortgages, loans, deposits, [[checking account]]
-		- 
+		- [[mortgages]], [[loans]], deposits, [[checking account]]
+		- internal operations: opening new accounts, inter-account money transfer, assist customers to manage deposits
 	- Business Banking
+		- their clients are businesses
+		- start-up loans, collecting deposits and investments
+		- more complex than retail banking <- the complexities of businesses
+		- treasury function -> managing business’ accounts receivable and payable.
 	- Investment Banking
+		- provide underwriting services: [[debt underwriting]] and [[equity underwriting]]
+		- 
 - Investment and wealth management
 - Payment Systems
 

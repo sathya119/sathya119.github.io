@@ -1,3 +1,18 @@
+# Context: Ownership
+
+Equity refers to ownership shares in the company.
+
+A company needs funds to start-up a company, they can raise funds either through [[debt]] or through selling [[equity]], i.e. by selling part of the ownership shares of the company[^stocks] to some investor, who becomes a [[shareholder]] in the company.
+
+This means that the company need not pay back the initial funds that were raised (as the [[shareholder]] already got the ownership in return of that money). The benefit that he reaps are through the **company’s success**, primarily:
+
+1. [[Dividends]]
+2. [[Capital Gains]]: The potential increase in the [[stock]]’s price, allowing the shareholder to sell their shares at a profit.
+
+- [[equity underwriting]]
+
+# Context: Selling of Company
+
 Think of equity as the value of a company in terms of money, if I were to sell everything in it.
 
 So, if at present `abc` company has 1 million worth of equipment, resources and products. Then the equity of this company would be 1 million[^1]. Let’s call them assets.
@@ -28,3 +43,4 @@ Though, we should also point out that some of the liabilities may be transferred
 [^sale]: I always thought of the word ‘sale’ as in some shopping market, where we say, this thing is being sold, or is on sale. But I think a better way to think of this is to see the pure grammatical meaning... “The selling of a company” or “Sale of a company” meaning, the act of selling that company. That’s all
 [^liabilities]: Liabilities can include some loans that the founder of `abc` had taken to start the company or to buy some machinery or to expand production. Anything that has to be paid out eventually **by the seller**
 [^transferable]: Here it means that even if I sell the company, I, the seller will still be obligated to pay out the loans, and I can’t transfer it to the buyer.
+[^stocks]: This ownership share is sold typically in the form of [[stock|stocks]]
