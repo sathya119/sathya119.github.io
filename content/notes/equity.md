@@ -26,7 +26,7 @@ $$
 Though, we should also point out that some of the liabilities may be transferred with the sale and thus it would be accounted for by deductions in the **assets** portion of the sale.
 
 > [!EXAMPLE]- Equity Example
->  Imagine a company called "Tech Solutions" is being sold. The total assets of the company (like real estate, equipment, and accounts receivable) are valued at **$1 million**. However, the company also has liabilities, such as loans or debts, amounting to **$200,000**.
+>  Imagine a company called "Tech Solutions" is being sold. The total assets of the company (like real estate, equipment, and accounts receivable) are valued at **\$1 million**. However, the company also has liabilities, such as loans or debts, amounting to **\$200,000**.
 >  
 >  Now, in the sale agreement, the buyer will not take over $100,000 of the company's debt (this debt stays with the seller). This means the buyer will only take on $100,000 of liabilities.
 >  
@@ -34,9 +34,9 @@ Though, we should also point out that some of the liabilities may be transferred
 >    
 >    **Equity = Assets - Liabilities (not transferred with the sale)**
 >    
->    **Equity = $1,000,000 - $100,000 = $900,000**
+>    **Equity = \$1,000,000 - \$100,000 = \$900,000**
 >    
->    The buyer would be purchasing the company based on this equity value of **$900,000**, assuming $100,000 in liabilities remain with the seller.
+>    The buyer would be purchasing the company based on this equity value of **\$900,000**, assuming \$100,000 in liabilities remain with the seller.
 
 
 [^1]: The price I would be paid for selling this company

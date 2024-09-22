@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Academic/Economics/index.md",
+  "selectedDraftVaultPath": "LABS/index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2024-09-22T04:13:28.543Z",
-      "total": 1412,
+      "total": 1437,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -25,10 +25,11 @@
           }
         },
         "LABS/index.md": {
-          "total": 0,
+          "total": 25,
           "scenes": {
             "Posting with Quartz": 0,
-            "Svelte.js": 0
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 25
           }
         },
         "explorations/index.md": {
