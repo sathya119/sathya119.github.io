@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Music/index.md",
+  "selectedDraftVaultPath": "Academic/Economics/index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2024-09-22T04:13:28.543Z",
-      "total": 810,
+      "total": 1362,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -39,7 +39,7 @@
           }
         },
         "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 364,
+          "total": 549,
           "scenes": {
             "Ratemaking": 0,
             "Reserving": 0,
@@ -55,11 +55,11 @@
             "Risk Classification": 0,
             "Traditional Risk Classification": 0,
             "Trending in Ratemaking": 0,
-            "Chain Ladder Method": 155
+            "Chain Ladder Method": 340
           }
         },
         "Academic/Economics/index.md": {
-          "total": 0,
+          "total": 367,
           "scenes": {
             "IS-LM Framework": 0,
             "Monopoly": 0,
@@ -69,7 +69,7 @@
             "Growth Theories & Models": 0,
             "Simulating India's Investment Function": 0,
             "Duopoly Markets": 0,
-            "Roles of Operations of Banks": 0
+            "Roles of Operations of Banks": 367
           }
         }
       }
