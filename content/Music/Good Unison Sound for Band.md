@@ -1,5 +1,5 @@
 ---
-title: What's a good Unison sound for Band?
+title: How to get a Good Unison Sound in a Band?
 draft: false
 tags:
   - Brass
