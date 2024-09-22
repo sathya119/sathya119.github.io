@@ -9,7 +9,6 @@ longform:
     - Reserving
     - Ratemaking Principles
     - Should you go for negative profit in FIE
-    - Trending in Ratemaking
     - Expenses and Profits
     - Ratemaking Methods
     - Reporting Pattern
@@ -19,6 +18,8 @@ longform:
     - Overall Rate Level Indications
     - Risk Classification
     - Traditional Risk Classification
+    - Trending in Ratemaking
+    - Chain Ladder Method
   sceneTemplate: templates/exam5 note.md
   ignoredFiles:
     - index

@@ -1,12 +1,11 @@
 ---
 title: Trending in Ratemaking
-draft: true
+draft: false
 tags:
   - EXAM5
 date: 2024-09-21
 section: "2.4"
 ---
-
 We can trend three things
 
 - Loss

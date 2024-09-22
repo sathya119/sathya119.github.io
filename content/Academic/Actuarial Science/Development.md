@@ -89,4 +89,37 @@ That’s all! That’s the development triangle.
 
 We can also perform [[Diagnostics using Development Triangles]]
 
+# Developing Premiums
+
+When to develop premiums?
+- Incomplete year of data is used: (for [[Policy Year Analysis]])
+	- [[Balance Responsiveness and Stability]]
+	- written policy year takes longer to close
+	- premium data for active policies have to be developed to ultimate[^develop_premiums]
+	- **Method**: Study the historical pattern of premiums to estimate *mid-term* changes or cancellations on policy year premium
+- LOB with [[Premium Audits]]:
+	- the actual exposure for an insured is not known at the inception of the policy
+	- thus, initial premium is charged then based on estimated exposure
+	- once actual exposure is known, premium is adjusted
+
+## Historical Patterns depend on several factors
+
+#doubt
+1. types of plans available from insurer
+2. internal company policies
+3. stability of historical relationship b/w estimated premium and audited premium.
+
+## [[Calendar Year]] Data
+
+- Premium development generally won’t be necessary
+- Data at the end of CY is final.
+- If **audit patterns** change, premium development on CY data can be justified.
+
+# [[Chain Ladder Method]]
+
+
+
 [^changes]: class of business written, policy provisions, claims management philosophy, social and economic environment
+[^develop_premiums]: for newly written policies, the initial premium value is known but this value is subject to change do to a variety of reasons
+	- changes in policy
+	- cancellations in policy

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52da13ca838f2b19",
+            "id": "b53ec914867897f3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "b53ec914867897f3",
+            "id": "4dbded2c492c8bda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e29ae5ca5597687a",
+            "id": "7a2b68a887bef0e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Actuarial Science/Traditional Risk Classification.md",
+                "file": "Academic/Actuarial Science/Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "5390f986a74ef251",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Actuarial Science/Traditional Risk Classification.md",
+                "file": "attachments/Development 2024-09-22 10.17.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Actuarial Science/Traditional Risk Classification.md",
+                "file": "attachments/Development 2024-09-22 10.17.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Actuarial Science/Traditional Risk Classification.md"
+                "file": "attachments/Development 2024-09-22 10.17.59.excalidraw.md"
               }
             }
           }
@@ -187,21 +188,59 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e29ae5ca5597687a",
+  "floating": {
+    "id": "2a26476c510ec87c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aacc14d6fcdd4980",
+        "type": "window",
+        "children": [
+          {
+            "id": "27f01c0e85363e12",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca412ce43be88694",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "attachments/Development 2024-09-22 10.17.59.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ca412ce43be88694",
   "lastOpenFiles": [
-    "notes/Untitled.md",
-    "Academic/Actuarial Science/Traditional Risk Classification.md",
-    "Academic/Actuarial Science/!Exam 5.md",
-    "Academic/Actuarial Science/Risk Classification.md",
-    "index.md",
-    "Academic/Actuarial Science/Overall Rate Level Indications.md",
     "Academic/Actuarial Science/Development.md",
+    "attachments/Development 2024-09-22 10.17.59.excalidraw.md",
+    "notes/Balance Responsiveness and Stability.md",
+    "notes/Diagnostics using Development Triangles.md",
+    "Academic/Actuarial Science/!Exam 5.md",
+    "Academic/Actuarial Science/Trending in Ratemaking.md",
     "Academic/Actuarial Science/Insurance Basics.md",
+    "index.md",
+    "Academic/Actuarial Science/Traditional Risk Classification.md",
+    "notes/Untitled.md",
+    "Academic/Actuarial Science/Risk Classification.md",
+    "Academic/Actuarial Science/Overall Rate Level Indications.md",
     "notes/Loss Ratio Method.md",
     "notes/Pure Premium Method.md",
     "notes/Underwriting Expenses.md",
     "Music/Exercises for Band.md",
-    "notes/Diagnostics using Development Triangles.md",
     "Music/index.md",
     "thoughts/index.md",
     "notes/Pure Premium.md",
@@ -212,9 +251,6 @@
     "notes/Loss Adjustment Expenses.md",
     "notes/Adjusting & Other.md",
     "notes/Defence & Cost Containment.md",
-    "notes/Unallocated Loss Adjustment Expenses.md",
-    "notes/Allocated Loss Adjustment Expenses.md",
-    "notes/IBNER.md",
     "attachments/Loss 2024-09-21 20.26.52.excalidraw.light.svg",
     "attachments/Loss 2024-09-21 20.26.52.excalidraw.dark.svg",
     "attachments/Pasted image 20240917104930.png",
