@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Explorer({
         folderClickBehavior: "link",
         title: "Everything",
-        useSavedState: false,
+        useSavedState: true,
       }),
     ),
     Component.DesktopOnly(
@@ -86,7 +86,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "link",
-        useSavedState: false,
+        useSavedState: true,
         title: "Everything",
         folderDefaultState: "collapsed",
       }),
