@@ -1,1 +1,5 @@
+---
+aliases:
+  - creditors
+---
 the lender

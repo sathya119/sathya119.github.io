@@ -6,8 +6,8 @@
     "docs/",
     "node_modules/",
     "quartz/",
-    "content/attachments/",
-    "public/attachments/"
+    "public/attachments/",
+    "!**/*.md"
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",

@@ -1,0 +1,1 @@
+if the borrower fails to make payments for clearing the loan, the lender can take possession of the property through [[foreclosure]] (the process of doing so).

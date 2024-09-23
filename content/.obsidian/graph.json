@@ -1,12 +1,48 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#EXAM5  ",
+      "color": {
+        "a": 1,
+        "rgb": 6065110
+      }
+    },
+    {
+      "query": "path:\"Academic/Actuarial Science\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3129695
+      }
+    },
+    {
+      "query": "path:Academic/Economics  ",
+      "color": {
+        "a": 1,
+        "rgb": 12465975
+      }
+    },
+    {
+      "query": "[\"draft\":TRUE]",
+      "color": {
+        "a": 1,
+        "rgb": 14074460
+      }
+    },
+    {
+      "query": "path:notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 12233209
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.86439500255185,
+  "scale": 0.9427476205019432,
   "close": true
 }
