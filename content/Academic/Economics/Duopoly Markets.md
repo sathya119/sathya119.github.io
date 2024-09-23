@@ -12,7 +12,7 @@ A duopoly is a market situation where there are two sellers, for each set of act
 
 Consider some important [[Duopoly]] models:
 
-## 1. Quasi-Competitive Solution
+# 1. Quasi-Competitive Solution
 
 The market demand of the output of duopolist is a function determined by the total output of both the duopolists. Thus demand function is
 
