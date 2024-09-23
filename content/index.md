@@ -12,3 +12,9 @@ But I also [[explorations/index|explore]] other things that interest me. I write
 I also use this place to document new things that I try out. I [[LABS/index|experiment]] with different technologies and learn new skills. It's a way for me to put my knowledge into practice and create something new. For example, I might try to build a website using a new framework or learn a new programming language to optimize something I can already do. I record my failures and success alike as you tend to learn more from the prior.
 
 This digital garden is a place for me (and you) to grow and learn. I hope you enjoy [[notes/index|exploring]] it as much as I enjoy creating it. I encourage you to leave comments or ask questions. I'd love to hear your thoughts and insights.
+
+---
+
+Sometimes, you will find some notes with a [[mathpad]] where some calculations are performed. You can quickly open up [numbr.dev](https://numbr.dev/#new) to paste these calculations there to verify them (or just for fun).
+
+![[Duopoly Markets contd.#^b6f6d4]]

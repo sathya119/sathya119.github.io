@@ -133,6 +133,8 @@ pi1 = 100q1 - 0.5q1^2  - 0.5q1*q2 - 5q1
 pi2 = 100q2 - 0.5q1*q2  - q2^2
 ```
 
+^b6f6d4
+
 Thus there is [[Coward Equilibrium]].
 
 # 4. Stackelberg Model
