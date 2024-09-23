@@ -76,9 +76,11 @@ P2 = P*q2 - 0.5q2^2
 
 In this model, the basic assumption is that each [[duopolist]] will maximize his profit assuming that his rival’s actions are invariant under his own actions.
 Thus, duopolist $I$ maximizes $\Pi_1$ w.r.t $q_1$ treating $q_2$ as a parameter.
+
 Similarly, [[duopolist]] $II$ will maximize $\Pi_2$ w.r.t $q_2$ treating $q_1$ as a parameter.
 
 We maximize $\Pi_1 = R_1 - C_1$ w.r.t $q_1$, and thus $\dfrac{\partial{\Pi_1}}{\partial{q_1}} = \dfrac{\partial{R_1}}{\partial{q_1}} - \dfrac{\partial{C_1}}{\partial{q_1}} = 0$.
+
 Upon solving this, we will get solution for $q_1$ in terms of $q_2$ as $q_1 = \Phi(q_2)$.
 
 Thus, the function gives $I$’s output if $II$’s output is known. This will tell how $I$ will react for each action of $II$. Thus, it is called [[reaction function]] for $I$ . Similarly, for $II$ , $\Pi_2 = R_2 - C_2$ we get $q_2$.
@@ -141,11 +143,13 @@ Thus there is [[Coward Equilibrium]].
 Let $\Pi_1 = \Pi_1(q_1,q_2)$, $\Pi_2 = \Pi_2(q_1,q_2)$ be the  profit of the [[duopolist]]
 
 Let $q_1 = \Psi_1(q_2)$ be the [[reaction function]] of $I$
+
 $\qquad q_2 = \Psi_2(q_1)$  be the [[reaction function]] of $II$
 
 Suppose $I$ wants to be leader then, he assumes that $II$ will be following leadership of $I$.
 
 $\therefore\qquad$ $I$’s $\Pi$ function will be given
+
 $\quad\qquad \Pi_1 = \Pi_1(q_1,\Psi_2(q_1))$ which is a function of $q_1$ only
 
 $I$ will maximize this w.r.t. $q_1$ and get this leadership profit and leadership output. Similarly, $II$ will compete his leadership output and profit by assuming that $II$ is following through leadership function of $I$.
@@ -168,12 +172,15 @@ By comparing the leadership profit and followership profit, each [[duopolist]] w
 ## Example
 
 $P = 100 - 0.5[q_1 + q_2]$ be the demand function
+
 Let $c_1 = 5q_1$ ;$\quad c_2 = 0.5q_2^2$ be the cost function
 
 [[reaction function|Reaction fn.]] are $q_1 = 95 - 0.5q_2$ for $I$
+
 $\qquad\qquad\qquad\quad$  $q_2 = 50 - 0.25q_1$ for $II$
 
 $I$’s profit is $\Pi_1 = 100q_1 - 0.5q_1^2 - 0.5q_1q_2 -5q_1$
+
 If $I$ wants to be leader then $I$’s $\Pi$ will be given by
 
 $$
