@@ -22,16 +22,16 @@ $$
 
 The revenues of the duopolists are given by
 $$
-\begin{align}
+\begin{align*}
 R_1 = p\cdot q_1 &= F(q_1+q_2)q_1\\
 &=R_1(q_1,q_2)
-\end{align}
+\end{align*}
 $$
 $$
-\begin{align}
+\begin{align*}
 R_2 = p\cdot q_2 &= F(q_1+q_2)q_2\\
 &=R_2(q_1,q_2)
-\end{align}
+\end{align*}
 $$
 
 Let $c_1(q_1)$ and $c_2(q_2)$ be the cost function:
@@ -39,10 +39,10 @@ Let $c_1(q_1)$ and $c_2(q_2)$ be the cost function:
 Then profits are given by
 
 $$
-\begin{align}
+\begin{align*}
 \Pi_1 = R_1 -c_1(q_1)\\
 \Pi_2 = R_2 -c_2(q_2)
-\end{align}
+\end{align*}
 $$
 
 Here, the basic assumption is that each duopolist **maximizes** its profit by following the **competitive rule** $MC =P$
@@ -87,6 +87,3 @@ Let $c_1 = 5q_1$ ;$\quad c_2 = 0.5q_2^2$ be the cost function
 >  $$\Pi_1 = 925 - 5\times185 = \boxed{0}$$
 >  
 >  $$\Pi_2 = 25 - 0.5\times25 = \boxed{12.5}$$
-
-
-

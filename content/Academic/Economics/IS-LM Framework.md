@@ -61,12 +61,12 @@ To summarize:
 > Variation of $r$ and $y$ which equilibriates the goods market
 
 $$
-\begin{align}
+\begin{align*}
 \tag{1}
 y &= c(y - t(y)) + i + g\\
 \tag{2}
 y -c &= s(y-t(y)) + t(y) = i+g\\
-\end{align}
+\end{align*}
 $$
 
 Till now we didn’t discuss what is the **investment** (we were given, it was exogenous). But, now we will see that it is not autonomous, rather induced and it is endogenous.
@@ -84,12 +84,12 @@ r \downarrow \implies i \uparrow
 $$
 
 $$
-\begin{align}
+\begin{align*}
 \tag{4}
 y &= c(y - t(y)) + g + i(r)\\
 \tag{5}
 i(r) &= s(y) 
-\end{align}
+\end{align*}
 $$
 
 Equation (5) forms the **basis for forming the IS curve**

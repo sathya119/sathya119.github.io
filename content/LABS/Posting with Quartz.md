@@ -29,3 +29,4 @@ As you might have noticed, this site has been built using [[Quartz]], which esse
 - Use [[longform]] to create different folders and write using them.
 - Use [[shell commands]] plugin to create a shortcut that pushes new content onto [[GitHub]] and then GitHub actions will publish the changes.
 - Maybe consider removing the `README.md` from the root of your quartz folder to avoid some funny stuff showing up every time you build the site.
+- I write a lot of equations and also use the `\begin{align}` syntax for aligning multiple lines. But that causes quartz to put an equation number for every equation in the page. That’s normal behavior. So, what we can do is use `\begin{align*}` instead (this is actually a $\LaTeX$ tip).

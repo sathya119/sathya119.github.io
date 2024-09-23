@@ -18,12 +18,12 @@ $$
 MR = 100 - 8q
 $$
 $$
-\begin{align}
+\begin{align*}
 \tag{For profit Maximization}
 \therefore MR &= MC \\
 100 - 8q &= 20\\
 q &= 10
-\end{align}
+\end{align*}
 $$
 
 $$
@@ -38,11 +38,11 @@ Thus, the monopolist have profit of $350$ by selling opt o/p of 10 units at a pr
 Suppose, the firm is a competitive one, then, it follows a rule $\fbox{MC = P}$
 
 $$
-\begin{align}
+\begin{align*}
 \textrm{i.e.,  } 20 &= 100 - 4q\\
 q &= 20
 
-\end{align}
+\end{align*}
 $$
 Since the price is $P = 20$ and the quantity $q = 20$,
 
@@ -80,13 +80,13 @@ $\therefore$ $P_1 = P_2$ if $\eta_1 = \eta_2$. This price discrimination is not 
 
 Suppose $\eta_1 \neq \eta_2$ and 
 $$
-\begin{align}
+\begin{align*}
 \eta_1 &\gt \eta_2\\
 \therefore\dfrac{1}{\eta_1} &\lt \dfrac{1}{\eta_2}\\
 \therefore-\dfrac{1}{\eta_1} &\gt \dfrac{1}{\eta_2}\\
 \therefore1-\dfrac{1}{\eta_1} &\gt 1 - \dfrac{1}{\eta_2}\\
 \therefore \dfrac{P_1}{P_2} &\lt 1
-\end{align}
+\end{align*}
 $$
 
 So, $P_1 \lt P2$
@@ -98,7 +98,7 @@ $P = 100 - 4q$ and $C =  50 + 20q \implies \dfrac{dc}{dq} = MC = 20$
 suppose monopolist tries price discrimination by selling his o/p in two markets with demand function
 
 $$
-\begin{align}
+\begin{align*}
 P_1 &= 80 - 5q_1  &P_2 = 180 - 20q_2 \qquad;\quad q_1 + q_2 = q\\
 \\
 P_1 &=p_1q_1 = (80 - 5q_1) q_1 \\
@@ -106,7 +106,7 @@ P_1 &=p_1q_1 = (80 - 5q_1) q_1 \\
 \\
 P_2 &=p_2q_2 = (180 - 20q_2) q_2 \\
 &=180q_1 = 20q_2^2\\
-\end{align}
+\end{align*}
 $$
 
 $$
@@ -115,12 +115,12 @@ $$
 
 $\therefore$ For profit maximization $MR_1 = MC$ & $MR_2 = MC$
 $$
-\begin{align}
+\begin{align*}
 80 - 10q_1 = 20 \quad&;\quad180 - 40q_2 = 20\\
 \boxed{q_1 = 6}\quad&;\quad \boxed{q_2 = 4}\\
 \\
 q = 6 + 4 &= 10
-\end{align}
+\end{align*}
 $$
 $$
 P_1 = 80 - 576 = \boxed{10}\qquad;\qquad P_2 = 180 - 20\times 4 = \boxed{100}

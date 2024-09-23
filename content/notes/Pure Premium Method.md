@@ -10,12 +10,12 @@ $$
 
 From the [[Fundamental Insurance Equation]], 
 $$
-\begin{align}
+\begin{align*}
 P_I &= L + E_L + (E_F + V\cdot P_I) + Q_T \cdot P_I\\
 P_I - V\cdot P_I - Q_T\cdot P_I &= L + E_L + E_F\\
 P_I(1 - V - Q_T) &= L + E_L + E_F\\ 
 P_I &= \dfrac{L + E_L + E_F}{1 - V - Q_T}\\ 
-\end{align}
+\end{align*}
 $$
 
 Divide by the number of exposures to find the indicated average premium per exposure, $X$:

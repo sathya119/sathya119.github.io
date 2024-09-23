@@ -3,7 +3,7 @@ title: Difference Equations
 draft: false
 tags:
   - PECO103
-date: 2024-09-23
+date: 2024-09-23T09:15:00
 ---
 - [[Differential Equations]] are for continuous functions and their derivatives, $\dfrac{dy}{dt}$
 - what about discretely increasing (step-wise) functions?
@@ -64,23 +64,23 @@ By solving difference equation, our objective is to find the [[time path]]. The 
 > 2. Find the time path for the national income $y_t$ when consumption $c_t$, investments $I_t$ and $y_0$ are given as follows:[^yci]
 > 
 > $$
-> \begin{align}
+> \begin{align*}
 > \tag{2}
 > c_t &= 60 + 0.8y_{t-1}\\
 > I_t &= 50\\
 > y_0 &= 1300 \\
-> \end{align}
+> \end{align*}
 > $$
 > 
 > 3. Find the 
 >    
 > $$
-> \begin{align}
+> \begin{align*}
 > \tag{2}
 > c_t &= 0.9y_t-1 + 90\\
 > I_t &= 100\\
 > y_0 &= 1000 \\
-> \end{align}
+> \end{align*}
 > $$
 
 

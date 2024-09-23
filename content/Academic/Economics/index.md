@@ -15,6 +15,7 @@ longform:
     - Duopoly Markets
     - Roles of Operations of Banks
     - Difference Equations
+    - Duopoly Markets contd.
   ignoredFiles: []
 title: Economics
 date: 2024-09-10

@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-09-23T02:49:06.622Z",
-      "total": 549,
+      "total": 1221,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -25,9 +25,9 @@
           }
         },
         "LABS/index.md": {
-          "total": 0,
+          "total": 53,
           "scenes": {
-            "Posting with Quartz": 0,
+            "Posting with Quartz": 53,
             "Svelte.js": 0,
             "Enhancing my Digital Garden": 0
           }
@@ -60,7 +60,7 @@
           }
         },
         "Academic/Economics/index.md": {
-          "total": 549,
+          "total": 1168,
           "scenes": {
             "IS-LM Framework": 0,
             "Monopoly": 0,
@@ -69,9 +69,10 @@
             "Time Series Data Analysis in R": 0,
             "Growth Theories & Models": 0,
             "Simulating India's Investment Function": 0,
-            "Duopoly Markets": 0,
+            "Duopoly Markets": 2,
             "Roles of Operations of Banks": 46,
-            "Difference Equations": 503
+            "Difference Equations": 503,
+            "Duopoly Markets contd.": 617
           }
         }
       }
