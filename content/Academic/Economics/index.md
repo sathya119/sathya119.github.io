@@ -14,6 +14,7 @@ longform:
     - Simulating India's Investment Function
     - Duopoly Markets
     - Roles of Operations of Banks
+    - Difference Equations
   ignoredFiles: []
 title: Economics
 date: 2024-09-10

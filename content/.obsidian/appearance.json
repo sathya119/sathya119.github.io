@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "accentColor": "",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 17
 }
