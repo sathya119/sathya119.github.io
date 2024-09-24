@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Economics/Steady State - Balanced Growth Model.md",
+                "file": "Academic/Economics/Kinked Demand Curve Model.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c133777bccc9d2c6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "5390f986a74ef251",
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academic/Economics/Steady State - Balanced Growth Model.md",
+                "file": "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Academic/Economics/Steady State - Balanced Growth Model.md",
+                "file": "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Academic/Economics/Steady State - Balanced Growth Model.md"
+                "file": "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md"
               }
             }
           }
@@ -197,11 +207,17 @@
       }
     ]
   },
-  "active": "3f9e52987076bb12",
+  "active": "c133777bccc9d2c6",
   "lastOpenFiles": [
-    "notes/INADA conditions.md",
-    "Academic/Economics/Steady State - Balanced Growth Model.md",
+    "Academic/Economics/Kinked Demand Curve Model.md",
+    "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md",
+    "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.light.svg",
+    "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.dark.svg",
+    "notes/duopolist.md",
+    "Academic/Economics/Duopoly Markets contd..md",
     "attachments/Steady State - Balanced Growth Model 2024-09-24 09.50.21.excalidraw.md",
+    "Academic/Economics/Steady State - Balanced Growth Model.md",
+    "notes/INADA conditions.md",
     "attachments/Steady State - Balanced Growth Model 2024-09-24 09.19.58.excalidraw.md",
     "attachments/Steady State - Balanced Growth Model 2024-09-24 09.50.21.excalidraw.light.svg",
     "attachments/Steady State - Balanced Growth Model 2024-09-24 09.50.21.excalidraw.dark.svg",
@@ -220,21 +236,14 @@
     "templates/exam5 note.md",
     "notes/Untitled 3.md",
     "notes/Untitled 1.md",
-    "Academic/Economics/Duopoly Markets contd..md",
     "Academic/Economics/Simulating India's Investment Function.md",
     "Academic/Economics/test.md",
     "Academic/Economics/index.md",
     "Academic/Actuarial Science/Addressing Anomalies in Loss Data.md",
-    "Academic/Actuarial Science/Ratemaking Principles.md",
-    "Academic/Actuarial Science/!Exam 5.md",
-    "attachments/Development 2024-09-22 10.17.59.excalidraw.md",
-    "Academic/Actuarial Science/Development.md",
     "attachments/Loss 2024-09-21 20.26.52.excalidraw.light.svg",
     "attachments/Loss 2024-09-21 20.26.52.excalidraw.dark.svg",
     "attachments/Pasted image 20240917104930.png",
     "attachments/Pasted Image 20240921154744_381.png",
-    "attachments/Pasted Image 20240921154543_435.png",
-    "attachments/Reporting Pattern 2024-09-21 15.43.52.excalidraw.light.svg",
     "templates",
     "public/tags/finance.html",
     "public/tags/SEMINAR.html",

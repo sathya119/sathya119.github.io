@@ -17,6 +17,7 @@ longform:
     - Duopoly Markets contd.
     - India's Investment Function Simulation
     - Steady State - Balanced Growth Model
+    - Kinked Demand Curve Model
   ignoredFiles: []
 title: Economics
 date: 2024-09-10
