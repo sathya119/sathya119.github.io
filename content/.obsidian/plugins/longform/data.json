@@ -6,8 +6,82 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-09-24T02:55:53.249Z",
+      "total": 478,
+      "drafts": {
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0
+          }
+        },
+        "Academic/Actuarial Science/!Exam 5.md": {
+          "total": 0,
+          "scenes": {
+            "Ratemaking": 0,
+            "Reserving": 0,
+            "Ratemaking Principles": 0,
+            "Should you go for negative profit in FIE": 0,
+            "Expenses and Profits": 0,
+            "Ratemaking Methods": 0,
+            "Reporting Pattern": 0,
+            "Fundamental Insurance Equation": 0,
+            "Insurance Basics": 0,
+            "Development": 0,
+            "Overall Rate Level Indications": 0,
+            "Risk Classification": 0,
+            "Traditional Risk Classification": 0,
+            "Trending in Ratemaking": 0,
+            "Chain Ladder Method": 0,
+            "Addressing Anomalies in Loss Data": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 478,
+          "scenes": {
+            "IS-LM Framework": 0,
+            "Monopoly": 0,
+            "Market Differentiation": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Time Series Data Analysis in R": 0,
+            "Growth Theories & Models": 0,
+            "Duopoly Markets": 0,
+            "Roles of Operations of Banks": 0,
+            "Difference Equations": 0,
+            "Duopoly Markets contd.": 0,
+            "India's Investment Function Simulation": 0,
+            "Steady State - Balanced Growth Model": 478
+          }
+        }
+      }
+    },
+    {
       "start": "2024-09-23T02:49:06.622Z",
-      "total": 1921,
+      "total": 1941,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -40,11 +114,11 @@
           }
         },
         "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 0,
+          "total": 5,
           "scenes": {
             "Ratemaking": 0,
             "Reserving": 0,
-            "Ratemaking Principles": 0,
+            "Ratemaking Principles": 2,
             "Should you go for negative profit in FIE": 0,
             "Expenses and Profits": 0,
             "Ratemaking Methods": 0,
@@ -56,11 +130,12 @@
             "Risk Classification": 0,
             "Traditional Risk Classification": 0,
             "Trending in Ratemaking": 0,
-            "Chain Ladder Method": 0
+            "Chain Ladder Method": 0,
+            "Addressing Anomalies in Loss Data": 3
           }
         },
         "Academic/Economics/index.md": {
-          "total": 1868,
+          "total": 1883,
           "scenes": {
             "IS-LM Framework": 0,
             "Monopoly": 0,
@@ -68,7 +143,7 @@
             "Monetarist School of Economic Thought": 0,
             "Time Series Data Analysis in R": 0,
             "Growth Theories & Models": 0,
-            "Simulating India's Investment Function": 0,
+            "Simulating India's Investment Function": 15,
             "Duopoly Markets": 2,
             "Roles of Operations of Banks": 160,
             "Difference Equations": 503,

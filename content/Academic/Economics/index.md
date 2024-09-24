@@ -11,11 +11,12 @@ longform:
     - Monetarist School of Economic Thought
     - Time Series Data Analysis in R
     - Growth Theories & Models
-    - Simulating India's Investment Function
     - Duopoly Markets
     - Roles of Operations of Banks
     - Difference Equations
     - Duopoly Markets contd.
+    - India's Investment Function Simulation
+    - Steady State - Balanced Growth Model
   ignoredFiles: []
 title: Economics
 date: 2024-09-10

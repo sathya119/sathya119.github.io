@@ -9,18 +9,19 @@ description: Principles that guide the ratemaking process
 - these have been adopted by the [[Board of Directors of CAS]]
 - rates developed by insurance companies
 
-# Principles
+> [!NOTE]  Principles
+> 1. A rate is an **estimate** of **expected value** of ==future costs==.[^prospective]
+> 2. A rate ==provides for all costs== associated with transfer of risk [^sufficiency]
+> 3. A rate provides for all costs  associated with ==an individual risk== [^equity]
+> 4. A rate should be: [^actuarially_sound_rates]
+> 	 ✅reasonable
+> 	❌ excessive
+> 	❌ inadequate
+> 	❌ unfairly discriminatory
+> 
+> 
 
-1. A rate is an **estimate** of **expected value** of ==future costs==.[^prospective]
-2. A rate ==provides for all costs== associated with transfer of risk [^sufficiency]
-3. A rate provides for all costs  associated with ==an individual risk== [^equity]
-4. A rate should be: [^actuarially_sound_rates]
-	 ✅reasonable
-	❌ excessive
-	❌ inadequate
-	❌ unfairly discriminatory
-
-
+^50b953
 
 > [!example] #pneumonic Remember Considerations
 > “Every Day Order Ice-cream And Have Creamy Chocolate Inside Always”

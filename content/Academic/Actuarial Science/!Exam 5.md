@@ -20,6 +20,7 @@ longform:
     - Traditional Risk Classification
     - Trending in Ratemaking
     - Chain Ladder Method
+    - Addressing Anomalies in Loss Data
   sceneTemplate: templates/exam5 note.md
   ignoredFiles:
     - index
