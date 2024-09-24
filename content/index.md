@@ -7,13 +7,15 @@ title: Hursh Gupta's Digital Garden
 
 A place where I share my thoughts and ideas. It's like a personal library, a digital sketchbook, and a thought laboratory all rolled into one.
 
-You'll find notes from my studies in [[Academic/Economics/index|economics]] and [[Academic/Actuarial Science/index|Actuarial Science]]. I study these subjects in depth and learn to look at the world through these lenses.
+I am learning to take notes on my laptop during my [[Academic/Economics/index|economics]] classes and make them as efficient as my paper-notebook notes (and better, searchable).
 
-But I also [[explorations/index|explore]] other things that interest me. I write about [[Music/index|music]], philosophy, and technology. It's a space where I can think about different topics and share my ideas. For example, I might write about a song I really like or discuss a philosophical question that [[thoughts/index|has been on my mind]]. I might also share my thoughts on the latest technological advancements.
+At present, I am preparing for my [[Academic/Actuarial Science/index|Actuarial]] exams, and I post my understanding of its concepts here periodically, starting from [[!Exam 5|Exam 5]].
 
-I also use this place to document new things that I try out. I [[LABS/index|experiment]] with different technologies and learn new skills. It's a way for me to put my knowledge into practice and create something new. 
+Apart from these there is a vast domain of things that interest me, I [[explorations/index|explore]] them to expand my view about the world. One of my fascinations and young love, [[Music/index|music]] is something I love to write about.
 
-This digital garden is a place for me (and you) to grow and learn. I hope you enjoy [[notes/index|exploring]] it as much as I enjoy creating it. I encourage you to leave comments or ask questions. I'd love to hear your thoughts and insights.
+Whenever, I come across something new I make it a point to find out what it is and [[notes/index|note]] it down immediately as a habit. When these notes connect into ideas, I write my [[thoughts/index|thoughts]] on them.
+
+This digital garden is a place for me (and you) to grow and learn. I hope you enjoy  it as much as I enjoy creating it. I encourage you to leave comments or ask questions. I'd love to hear your thoughts and insights.
 
 ---
 
