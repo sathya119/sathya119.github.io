@@ -95,6 +95,6 @@ $\therefore$ $MR$ cannot be equated to $MC$. Thus initial position itself is the
 [^1]: can be in the form of prices
 [^2]: If I increase the price, he will not decrease the price. But if I decrease the price, he also has to decrease the price to stay in competition
 [^kink]: #doubt how does this kink arise?
-[^q>10] because of the decrease in the price
+[^q>10]:because of the decrease in the price
 
 

@@ -60,7 +60,7 @@ date: 2024-09-24 09:18
 >   
 >   In the steady-state, the positive impact of investment on $k$, just balances the negative effects of [[depreciation]] and the growth of labor force.
 >   
->   # Technical Progress and Growth
+>   ## Technical Progress and Growth
 >    ![[Steady State - Balanced Growth Model 2024-09-24 09.50.21.excalidraw.light.svg]]
 >    - With $A$ remaining unchanged, the system has a tendency to converge at $k^*$.
 >    - If there is rise in the productivity from $A \to A'$ even if $s$ unchanged, the economy will move to a new steady state, with higher $k$ and $y$.
