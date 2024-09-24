@@ -1,7 +1,8 @@
 ---
 title: Steady State / Balanced Growth Model
 draft: false
-tags: 
+tags:
+  - PECO102
 date: 2024-09-24 09:18
 ---
 # Introduction
