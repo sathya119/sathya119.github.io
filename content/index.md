@@ -1,5 +1,5 @@
 ---
-title: Hursh Gupta's Digital Garden
+title: Sai Sanjay's Brain
 ---
 ![[garden.svg]]
 

@@ -1,1 +1,0 @@
-Periodic payments made to the [[shareholder]] from the company’s profits

@@ -1,2 +1,0 @@
-- [[equity underwriting]]
-- [[debt underwriting]]

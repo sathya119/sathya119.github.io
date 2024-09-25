@@ -1,1 +1,0 @@
-The difference between [[Total Limits Loss]] and [[Basic Limits Loss]] is called excess loss.

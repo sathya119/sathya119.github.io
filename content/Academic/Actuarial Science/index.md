@@ -1,3 +1,0 @@
----
-title: Actuarial Science
----

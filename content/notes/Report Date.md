@@ -1,1 +1,0 @@
-Date at which the claim was reported.

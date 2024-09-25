@@ -1,1 +1,0 @@
-Amount the insured pays for insurance coverage.

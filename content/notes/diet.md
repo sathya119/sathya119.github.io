@@ -1,1 +1,0 @@
-A diet is a window when you can write an [[Actuarial]] exam.

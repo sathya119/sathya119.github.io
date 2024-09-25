@@ -115,12 +115,5 @@
   "content/Music": "BoBxMusic",
   "content/LABS": "BoBxsFlask",
   "content/thoughts": "BoBxConversation",
-  "content/index.md": "BoBxHomeAlt",
-  "Academic": "BoBxsGraduation",
-  "attachments": "BoBxsFile",
-  "explorations": "BoBxsTree",
-  "LABS": "BoBxsFlask",
-  "Music": "BoBxMusic",
-  "thoughts": "BoBxConversation",
-  "notes": "BoBxNote"
+  "content/index.md": "BoBxHomeAlt"
 }

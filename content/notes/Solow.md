@@ -1,1 +1,0 @@
-- was awarded the Nobel prize in 1987

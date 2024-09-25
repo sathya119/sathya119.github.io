@@ -1,2 +1,0 @@
-- highest and lowest values are excluded
-- ($\leq 3$) simply use arithmetic average
