@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2024-09-25T03:34:32.832Z",
-      "total": 541,
+      "total": 543,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -62,7 +62,7 @@
           }
         },
         "Academic/Economics/index.md": {
-          "total": 541,
+          "total": 543,
           "scenes": {
             "IS-LM Framework": 0,
             "Monopoly": 0,
@@ -77,7 +77,7 @@
             "India's Investment Function Simulation": 0,
             "Steady State - Balanced Growth Model": 0,
             "Kinked Demand Curve Model": 0,
-            "Cob-web Market Model": 541
+            "Cob-web Market Model": 543
           }
         }
       }
