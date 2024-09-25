@@ -29,9 +29,7 @@ The biggest buyer and seller -> Government
 
 ## The story of [[credit]]
 
-I feel he explained it best.
-
-![About Credit](https://youtu.be/PHe0bXAIuk0?t=208)
+I feel [he explained it best](https://hgup.github.io/explorations/Ray-Dalio's-Economic-Machine).
 
 But, I will try to summarize it to the best of my abilities:
 
