@@ -19,25 +19,25 @@ date: 2024-09-25 09:10
   Q_s &= - \gamma + \delta P_{t-1} &[\gamma,\delta > 0]\\
   \end{align*}
   $$
-	 where, $Q_d$ is quantity demanded, $Q_s$ is Quantity supplied.
-	 $\beta =$ slope of demand function
-	 $\delta =$ slope of supply function
-	 
-	 Equating $Q_d = Q_s$ we get
-	 $$
-	 \begin{align*}
-	 7\alpha - \beta P_t &= -\gamma + \delta P_{t-1}\\
-	 -\beta P_t - \delta P_{t-1}&= -\gamma  - \alpha\\
-	 -\left(\beta P_t + \gamma P_{t-1}\right) &= - (\alpha + \gamma)\\
-	 \beta P_t &= -\delta P_{t-1} + (\alpha + \gamma)\\
-	 P_t &= -\dfrac{\delta}{\beta}P_{t-1} + \left(\dfrac{\alpha + \gamma}{\beta}\right)
-	 \end{align*}
-	 $$
-	 Let $b = -\dfrac{\delta}{\beta}$ and $a = \dfrac{\alpha+\gamma}{\beta}$
-	$$
-	\tag3
-	 P_t = -b P_{t-1} + a
-	 $$ 
+ where, $Q_d$ is quantity demanded, $Q_s$ is Quantity supplied.
+ $\beta =$ slope of demand function
+ $\delta =$ slope of supply function
+ 
+ Equating $Q_d = Q_s$ we get
+ $$
+ \begin{align*}
+ 7\alpha - \beta P_t &= -\gamma + \delta P_{t-1}\\
+ -\beta P_t - \delta P_{t-1}&= -\gamma  - \alpha\\
+ -\left(\beta P_t + \gamma P_{t-1}\right) &= - (\alpha + \gamma)\\
+ \beta P_t &= -\delta P_{t-1} + (\alpha + \gamma)\\
+ P_t &= -\dfrac{\delta}{\beta}P_{t-1} + \left(\dfrac{\alpha + \gamma}{\beta}\right)
+ \end{align*}
+ $$
+ Let $b = -\dfrac{\delta}{\beta}$ and $a = \dfrac{\alpha+\gamma}{\beta}$
+$$
+\tag3
+ P_t = -b P_{t-1} + a
+ $$ 
 So, (3) is a [[First Order Linear Difference Equation|FOLDE]] and thus, the general solution for (3) is,
 $$
 \begin{align*}

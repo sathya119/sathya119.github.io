@@ -1,6 +1,6 @@
 ---
 title: Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation
-draft: false
+draft: true
 tags: 
 date: 2024-09-24 18:05
 ---
