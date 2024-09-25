@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/String Theory.md",
+                "file": "Physics/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/String Theory.md",
+                "file": "Physics/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/String Theory.md",
+                "file": "Physics/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/String Theory.md"
+                "file": "Physics/index.md"
               }
             }
           }
@@ -190,8 +189,8 @@
   },
   "active": "35a931303519d2fc",
   "lastOpenFiles": [
-    "Physics/Elementary Particle Theory.md",
     "Physics/String Theory.md",
+    "Physics/Elementary Particle Theory.md",
     "Physics/index.md",
     "templates/note.md",
     "templates",

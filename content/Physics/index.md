@@ -7,5 +7,6 @@ longform:
     - String Theory
     - Elementary Particle Theory
   ignoredFiles: []
+title: Physics
 ---
 All things Physics.
