@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Academic/Economics/index.md",
+  "selectedDraftVaultPath": "explorations/index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2024-09-25T03:34:32.832Z",
-      "total": 543,
+      "total": 1063,
       "drafts": {
         "thoughts/index.md": {
           "total": 0,
@@ -34,10 +34,11 @@
           }
         },
         "explorations/index.md": {
-          "total": 0,
+          "total": 520,
           "scenes": {
             "Moai": 0,
-            "CSS Display Stuff": 0
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 520
           }
         },
         "Academic/Actuarial Science/!Exam 5.md": {
