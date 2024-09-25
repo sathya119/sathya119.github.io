@@ -20,8 +20,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "021bf991d905f86a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Elementary Particle Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35a931303519d2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/String Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,22 +85,23 @@
             }
           },
           {
-            "id": "560880055fbf6258",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
-            }
-          },
-          {
             "id": "7de75e0a52d49db2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f583d017a23272e0",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Physics/String Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Physics/String Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Physics/String Theory.md"
               }
             }
           }
@@ -162,10 +188,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6ca57f34cc60d693",
+  "active": "35a931303519d2fc",
   "lastOpenFiles": [
-    "explorations/Ray Dalio's Economic Machine.md",
+    "Physics/Elementary Particle Theory.md",
+    "Physics/String Theory.md",
+    "Physics/index.md",
+    "templates/note.md",
+    "templates",
     "index.md",
+    "Physics",
+    "Music/Music/Index.md",
+    "Music/Music",
+    "Physics",
+    "Music",
+    "notes/Singer.md",
+    "notes/Student.md",
+    "notes",
+    "explorations/Ray Dalio's Economic Machine.md",
     "Music/Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation.md",
     "attachments/Arc_7Fnqii7ups.gif",
     "attachments/Pasted image 20240925123545.png",
@@ -193,21 +232,9 @@
     "notes/modal mixture.md",
     "notes/parallel minor.md",
     "notes/relative minor.md",
-    "Music/index.md",
-    "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md",
-    "notes/duopolist.md",
-    "Academic/Economics/Duopoly Markets contd..md",
-    "attachments/Steady State - Balanced Growth Model 2024-09-24 09.50.21.excalidraw.md",
-    "Academic/Economics/Steady State - Balanced Growth Model.md",
     "templates",
     "public/tags/finance.html",
     "public/tags/SEMINAR.html",
-    "public/tags/PECO105.html",
-    "public/tags/doubt.html",
-    "public/tags/pneumonic.html",
-    "public/tags/EXAM5.html",
-    "public/notes/equity.html",
-    "public/notes/creditor.html",
-    "public/notes/Underwriting.html"
+    "public/tags/PECO105.html"
   ]
 }
