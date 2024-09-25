@@ -9,6 +9,7 @@ longform:
     - Transposition
     - Exercises for Band
     - Good Unison Sound for Band
+    - Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation
   ignoredFiles: []
 title: Music
 date: 2024-09-17

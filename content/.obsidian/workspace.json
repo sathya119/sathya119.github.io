@@ -4,36 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e9d25ff63beea8b7",
+        "id": "8fcae58bf8d37b6a",
         "type": "tabs",
         "children": [
           {
-            "id": "c133777bccc9d2c6",
+            "id": "6194c56b09afa22a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "1cffc3cfcad390fb",
+            "id": "4ccc2ce3df9542af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academic/Economics/Kinked Demand Curve Model.md",
+                "file": "Academic/Economics/Cob-web Market Model.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ca57f34cc60d693",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Academic/Economics/Cob-web Market Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Academic/Economics/Cob-web Market Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Academic/Economics/Cob-web Market Model.md"
               }
             }
           }
@@ -175,10 +186,62 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c133777bccc9d2c6",
+  "floating": {
+    "id": "d8da0716ac974a37",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a7ea0f237b22b9ee",
+        "type": "window",
+        "children": [
+          {
+            "id": "9e0f52e56ec13013",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82ccafce30387878",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4ccc2ce3df9542af",
   "lastOpenFiles": [
-    "Academic/Economics/Kinked Demand Curve Model.md",
+    "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.md",
+    "Academic/Economics/Cob-web Market Model.md",
+    "attachments/Cob-web Market Model 2024-09-25 09.54.56.excalidraw.md",
+    "attachments/Cob-web Market Model 2024-09-25 09.54.56.excalidraw.light.svg",
+    "attachments/Cob-web Market Model 2024-09-25 09.54.56.excalidraw.dark.svg",
     "index.md",
+    "attachments/Cob-web Market Model 2024-09-25 09.41.32.excalidraw.md",
+    "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.light.svg",
+    "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.dark.svg",
+    "attachments/Cob-web Market Model 2024-09-25 09.41.32.excalidraw.light.svg",
+    "attachments/Cob-web Market Model 2024-09-25 09.41.32.excalidraw.dark.svg",
+    "Academic/Economics/index.md",
+    "Academic/Economics/Kinked Demand Curve Model.md",
+    "Music/Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation.md",
+    "notes/Nostalgia note.md",
+    "notes/modal mixture.md",
+    "notes/parallel minor.md",
+    "notes/relative minor.md",
+    "Music/index.md",
     "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.md",
     "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.light.svg",
     "attachments/Kinked Demand Curve Model 2024-09-24 10.50.46.excalidraw.dark.svg",
@@ -194,24 +257,7 @@
     "notes/capital widening.md",
     "notes/capital deepening.md",
     "notes/capital shallowing.md",
-    "attachments/Steady State - Balanced Growth Model 2024-09-24 09.19.58.excalidraw.light.svg",
-    "attachments/Steady State - Balanced Growth Model 2024-09-24 09.19.58.excalidraw.dark.svg",
     "notes/technical progress.md",
-    "notes/Untitled.md",
-    "notes/Untitled 2.md",
-    "Academic/Economics/India's Investment Function Simulation.md",
-    "templates/note.md",
-    "templates/exam5 note.md",
-    "notes/Untitled 3.md",
-    "notes/Untitled 1.md",
-    "Academic/Economics/Simulating India's Investment Function.md",
-    "Academic/Economics/test.md",
-    "Academic/Economics/index.md",
-    "Academic/Actuarial Science/Addressing Anomalies in Loss Data.md",
-    "attachments/Loss 2024-09-21 20.26.52.excalidraw.light.svg",
-    "attachments/Loss 2024-09-21 20.26.52.excalidraw.dark.svg",
-    "attachments/Pasted image 20240917104930.png",
-    "attachments/Pasted Image 20240921154744_381.png",
     "templates",
     "public/tags/finance.html",
     "public/tags/SEMINAR.html",

@@ -18,6 +18,7 @@ longform:
     - India's Investment Function Simulation
     - Steady State - Balanced Growth Model
     - Kinked Demand Curve Model
+    - Cob-web Market Model
   ignoredFiles: []
 title: Economics
 date: 2024-09-10
