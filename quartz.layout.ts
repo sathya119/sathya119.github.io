@@ -8,24 +8,24 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: "giscus",
-      options: {
-        // from data-repo
-        repo: "hgup/hgup.github.io",
-        // from data-repo-id
-        repoId: "R_kgDOMy_K9A",
-        // from data-category
-        category: "Announcements",
-        // from data-category-id
-        categoryId: "DIC_kwDOMy_K9M4CikXP",
-      },
-    }),
+    // Component.Comments({
+    //   provider: "giscus",
+    //   options: {
+    //     // from data-repo
+    //     repo: "sathya119/sathya119.github.io",
+    //     // from data-repo-id
+    //     repoId: "R_kgDOMy_K9A",
+    //     // from data-category
+    //     category: "Announcements",
+    //     // from data-category-id
+    //     categoryId: "DIC_kwDOMy_K9M4CikXP",
+    //   },
+    // }),
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/hgup",
-      LinkedIn: "https://linkedin.com/in/hgup",
+      GitHub: "https://github.com/sathya119",
+      LinkedIn: "https://linkedin.com/in/saisanjays",
     },
   }),
 }
@@ -51,16 +51,16 @@ export const defaultContentPageLayout: PageLayout = {
     ),
     Component.DesktopOnly(
       Component.RecentNotes({
-        linkToMore: "thoughts" as SimpleSlug,
-        filter: (f) =>
-          (f.slug?.startsWith("thoughts") ||
-            f.slug?.startsWith("LABS") ||
-            f.slug?.startsWith("explorations") ||
-            f.slug?.startsWith("Music")) ??
-          false,
+        // linkToMore: "thoughts" as SimpleSlug,
+        // filter: (f) =>
+        //   (f.slug?.startsWith("thoughts") ||
+        //     f.slug?.startsWith("LABS") ||
+        //     f.slug?.startsWith("explorations") ||
+        //     f.slug?.startsWith("Music")) ??
+        //   false,
         title: "Recent writing",
         limit: 4,
-        showTags: false,
+        showTags: true,
       }),
     ),
   ],
@@ -82,7 +82,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search({ enablePreview: true }),
-    // Component.Darkmode(),
+    Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "link",

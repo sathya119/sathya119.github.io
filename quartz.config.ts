@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "hgup",
+    pageTitle: "Sai",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "hgup.github.io",
+    baseUrl: "sathya119.github.io",
     ignorePatterns: ["_private", "templates", ".obsidian", "attachments/**/*.excalidraw.md"],
     defaultDateType: "created",
     theme: {
