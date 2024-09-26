@@ -20,33 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "021bf991d905f86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Elementary Particle Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35a931303519d2fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -187,14 +162,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35a931303519d2fc",
+  "active": "6ca57f34cc60d693",
   "lastOpenFiles": [
-    "Physics/String Theory.md",
     "Physics/Elementary Particle Theory.md",
+    "index.md",
     "Physics/index.md",
+    "Physics/String Theory.md",
     "templates/note.md",
     "templates",
-    "index.md",
     "Physics",
     "Music/Music/Index.md",
     "Music/Music",

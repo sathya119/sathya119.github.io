@@ -1,5 +1,5 @@
 ---
 title: Sai Sanjay's Brain
 ---
-# Hi
-I’m Sai Sanjay! I am a [[Student]]. I am also a [[Singer]]
+# Welcome
+I’m Sai Sanjay! I am a [[Student]]. I sometimes [[Sing]], [[Dance]] and [[Write]], but I mostly [[Daydream]] and [[Overthink]].
