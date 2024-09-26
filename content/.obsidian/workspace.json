@@ -164,11 +164,13 @@
   },
   "active": "6ca57f34cc60d693",
   "lastOpenFiles": [
-    "Physics/Elementary Particle Theory.md",
+    "notes/Untitled.md",
     "index.md",
-    "Physics/index.md",
-    "Physics/String Theory.md",
     "templates/note.md",
+    "Music",
+    "Physics/index.md",
+    "Physics/Elementary Particle Theory.md",
+    "Physics/String Theory.md",
     "templates",
     "Physics",
     "Music/Music/Index.md",
@@ -205,10 +207,8 @@
     "notes/Nostalgia note.md",
     "notes/modal mixture.md",
     "notes/parallel minor.md",
-    "notes/relative minor.md",
     "templates",
     "public/tags/finance.html",
-    "public/tags/SEMINAR.html",
-    "public/tags/PECO105.html"
+    "public/tags/SEMINAR.html"
   ]
 }

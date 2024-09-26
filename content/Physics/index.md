@@ -3,10 +3,8 @@ longform:
   format: scenes
   title: Physics
   sceneFolder: /
-  scenes:
-    - String Theory
-    - Elementary Particle Theory
+  scenes: []
   ignoredFiles: []
 title: Physics
 ---
-All things Physics.
+Just my weird obsession with Physics and me trying to explain it to my 5-year-old mind.

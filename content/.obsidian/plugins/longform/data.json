@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-09-26T02:30:45.187Z",
+      "total": 0,
+      "drafts": {
+        "Physics/index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-09-25T03:34:32.832Z",
       "total": 3,
       "drafts": {
