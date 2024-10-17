@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Group Theory.md",
+                "file": "Physics/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Group Theory.md",
+                "file": "Physics/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Group Theory.md",
+                "file": "Physics/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Group Theory.md"
+                "file": "Physics/index.md"
               }
             }
           }
@@ -189,17 +189,18 @@
   },
   "active": "e5fd7a06662cb14c",
   "lastOpenFiles": [
-    "notes/Proofs.md",
+    "notes/Student.md",
     "notes/Group Theory.md",
+    "notes/Conventions and Formulae.md",
+    "notes/Introductory Field Theory.md",
+    "Physics/index.md",
+    "notes/Proofs.md",
     "notes/Proof.md",
     "notes/Representation.md",
     "index.md",
     "notes/Discrete.md",
-    "notes/Introductory Field Theory.md",
     "attachments/field.md",
     "attachments/field 2.md",
-    "notes/Conventions and Formulae.md",
-    "Physics/index.md",
     "attachments/field 2.light.svg",
     "attachments/field 2.dark.svg",
     "attachments/field.light.svg",
@@ -209,7 +210,6 @@
     "attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
     "attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
     "attachments",
-    "notes/Student.md",
     "templates/note.md",
     "notes/Singer.md",
     "notes/Untitled 1.md",
