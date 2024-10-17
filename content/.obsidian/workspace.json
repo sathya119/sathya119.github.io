@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "271f8a91128c01d8",
+            "id": "94d58544a207d26b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,12 +175,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "271f8a91128c01d8",
+  "active": "94d58544a207d26b",
   "lastOpenFiles": [
+    "notes/Representation.md",
+    "index.md",
     "notes/Discrete.md",
     "notes/Group Theory.md",
     "notes/Introductory Field Theory.md",
-    "index.md",
     "attachments/field.md",
     "attachments/field 2.md",
     "notes/Conventions and Formulae.md",
@@ -220,7 +221,6 @@
     "notes/credit.md",
     "notes/transaction.md",
     "explorations/index.md",
-    "thoughts/index.md",
     "templates",
     "public/tags/finance.html"
   ]
