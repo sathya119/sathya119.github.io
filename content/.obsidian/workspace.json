@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/note.md",
+                "file": "My Journey with Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/note.md",
+                "file": "My Journey with Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/note.md",
+                "file": "My Journey with Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/note.md"
+                "file": "My Journey with Physics.md"
               }
             }
           }
@@ -199,13 +199,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4bd81cb12554e5de",
+  "active": "5ebc7f06b4cb5c3b",
   "lastOpenFiles": [
+    "templates/note.md",
     "Student.md",
     "index.md",
     "Write.md",
     "Dance.md",
-    "Physics/My Journey with Physics.md",
+    "My Journey with Physics.md",
     "Daydream.md",
     "Sing.md",
     "notes/Proofs.md",
@@ -226,7 +227,6 @@
     "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
     "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
     "notes/attachments",
-    "templates/note.md",
     "notes/Singer.md",
     "notes/Untitled 1.md",
     "notes/Untitled.md",

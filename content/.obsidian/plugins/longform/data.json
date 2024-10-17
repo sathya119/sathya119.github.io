@@ -1,7 +1,7 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Physics/My Journey with Physics.md",
+  "selectedDraftVaultPath": "My Journey with Physics.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
@@ -10,6 +10,10 @@
       "total": 0,
       "drafts": {
         "Physics/My Journey with Physics.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "My Journey with Physics.md": {
           "total": 0,
           "scenes": {}
         }
