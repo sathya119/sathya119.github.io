@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Write.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Write.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Write.md"
+                "file": "index.md"
               }
             }
           }
@@ -175,14 +174,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "94d58544a207d26b",
+  "active": "0454262fe9f5eddf",
   "lastOpenFiles": [
-    "index.md",
     "notes/Write.md",
+    "index.md",
     "Physics/index.md",
+    "notes/Sing.md",
     "notes/Student.md",
     "notes/Proofs.md",
-    "notes/Sing.md",
     "notes/Group Theory.md",
     "notes/Conventions and Formulae.md",
     "notes/Introductory Field Theory.md",
