@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Write.md",
+                "file": "Write.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Dance.md",
+                "file": "Dance.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student.md",
+                "file": "templates/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Student.md",
+                "file": "templates/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Student.md",
+                "file": "templates/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Student.md"
+                "file": "templates/note.md"
               }
             }
           }
@@ -201,13 +201,13 @@
   },
   "active": "4bd81cb12554e5de",
   "lastOpenFiles": [
-    "index.md",
-    "notes/Write.md",
-    "notes/Dance.md",
-    "Physics/My Journey with Physics.md",
     "Student.md",
-    "notes/Daydream.md",
-    "notes/Sing.md",
+    "index.md",
+    "Write.md",
+    "Dance.md",
+    "Physics/My Journey with Physics.md",
+    "Daydream.md",
+    "Sing.md",
     "notes/Proofs.md",
     "notes/Group Theory.md",
     "notes/Conventions and Formulae.md",
