@@ -1,10 +1,20 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Physics/index.md",
+  "selectedDraftVaultPath": "Physics/My Journey with Physics.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
+    {
+      "start": "2024-10-17T20:44:38.223Z",
+      "total": 0,
+      "drafts": {
+        "Physics/My Journey with Physics.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
     {
       "start": "2024-10-16T18:06:58.392Z",
       "total": 0,

@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4bd81cb12554e5de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Student.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Dance.md",
+                "file": "Student.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Dance.md",
+                "file": "Student.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Dance.md"
+                "file": "Student.md"
               }
             }
           }
@@ -187,14 +199,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f8563b806961c2ca",
+  "active": "4bd81cb12554e5de",
   "lastOpenFiles": [
     "index.md",
-    "notes/Dance.md",
     "notes/Write.md",
-    "Physics/index.md",
+    "notes/Dance.md",
+    "Physics/My Journey with Physics.md",
+    "Student.md",
+    "notes/Daydream.md",
     "notes/Sing.md",
-    "notes/Student.md",
     "notes/Proofs.md",
     "notes/Group Theory.md",
     "notes/Conventions and Formulae.md",
@@ -202,17 +215,17 @@
     "notes/Proof.md",
     "notes/Representation.md",
     "notes/Discrete.md",
-    "attachments/field.md",
-    "attachments/field 2.md",
-    "attachments/field 2.light.svg",
-    "attachments/field 2.dark.svg",
-    "attachments/field.light.svg",
-    "attachments/field.dark.svg",
-    "attachments/Drawing 2024-10-16 19.13.17.excalidraw.md",
-    "attachments/Drawing 2024-10-16 19.18.13.excalidraw.md",
-    "attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
-    "attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
-    "attachments",
+    "notes/attachments/field.md",
+    "notes/attachments/field 2.md",
+    "notes/attachments/field 2.light.svg",
+    "notes/attachments/field 2.dark.svg",
+    "notes/attachments/field.light.svg",
+    "notes/attachments/field.dark.svg",
+    "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.md",
+    "notes/attachments/Drawing 2024-10-16 19.18.13.excalidraw.md",
+    "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
+    "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
+    "notes/attachments",
     "templates/note.md",
     "notes/Singer.md",
     "notes/Untitled 1.md",
@@ -228,7 +241,6 @@
     "Music",
     "notes",
     "explorations/Ray Dalio's Economic Machine.md",
-    "Music/Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation.md",
     "attachments/Arc_7Fnqii7ups.gif",
     "attachments/Pasted image 20240925123545.png",
     "attachments/Pasted image 20240925122658.png",
