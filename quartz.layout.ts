@@ -42,6 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
+    Component.Darkmode(),
     Component.DesktopOnly(
       Component.Explorer({
         folderClickBehavior: "link",
@@ -94,12 +95,6 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
     Component.RecentNotes({
-      filter: (f) =>
-        (f.slug?.startsWith("thoughts") ||
-          f.slug?.startsWith("LABS") ||
-          f.slug?.startsWith("explorations") ||
-          f.slug?.startsWith("Music")) ??
-        false,
       title: "Recent writing",
       limit: 10,
       showTags: false,
