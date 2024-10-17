@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Journey with Physics.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Journey with Physics.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Journey with Physics.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Journey with Physics.md"
+                "file": "index.md"
               }
             }
           }
@@ -199,14 +199,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5ebc7f06b4cb5c3b",
+  "active": "4bd81cb12554e5de",
   "lastOpenFiles": [
     "templates/note.md",
+    "My Journey with Physics.md",
     "Student.md",
     "index.md",
     "Write.md",
     "Dance.md",
-    "My Journey with Physics.md",
     "Daydream.md",
     "Sing.md",
     "notes/Proofs.md",
