@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "5d92bf27f72a0169",
+            "id": "5733a2b6d419a671",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,12 +175,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5d92bf27f72a0169",
+  "active": "5733a2b6d419a671",
   "lastOpenFiles": [
-    "Physics/index.md",
+    "notes/Conventions and Formulae.md",
     "notes/Introductory Field Theory.md",
-    "notes/Student.md",
     "index.md",
+    "attachments/Drawing 2024-10-16 19.13.17.excalidraw.md",
+    "attachments/Drawing 2024-10-16 19.18.13.excalidraw.md",
+    "attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
+    "attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
+    "attachments",
+    "Physics/index.md",
+    "notes/Student.md",
     "templates/note.md",
     "notes/Singer.md",
     "notes/Untitled 1.md",
@@ -215,13 +221,7 @@
     "attachments/Cob-web Market Model 2024-09-25 09.54.56.excalidraw.md",
     "attachments/Cob-web Market Model 2024-09-25 09.54.56.excalidraw.light.svg",
     "attachments/Cob-web Market Model 2024-09-25 09.54.56.excalidraw.dark.svg",
-    "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.light.svg",
-    "attachments/Cob-web Market Model 2024-09-25 09.53.29.excalidraw.dark.svg",
-    "Academic/Economics/index.md",
-    "Academic/Economics/Kinked Demand Curve Model.md",
-    "notes/Nostalgia note.md",
     "templates",
-    "public/tags/finance.html",
-    "public/tags/SEMINAR.html"
+    "public/tags/finance.html"
   ]
 }
