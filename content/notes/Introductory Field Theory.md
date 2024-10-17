@@ -5,7 +5,7 @@ A subject that I understood 0% of since lecture 1 and yet, making “notes”!
 ### 3. Almost 80% of my class are research students and hence he just assumes that everyone “knows” few concepts and moves on.
 
 **Check [[Conventions and Formulae]]**
- ## “Review” of Classical Mechanics
+ “Review” of Classical Mechanics
 	Newtonian Mechanics
 		$$F=ma$$
 	Lagrangian Mechanics
