@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "5733a2b6d419a671",
+            "id": "271f8a91128c01d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,16 +30,6 @@
                 "file": "notes/Introductory Field Theory.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f3a80c6af17b8e47",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "attachments/field 2.md"
               }
             }
           }
@@ -185,19 +175,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5733a2b6d419a671",
+  "active": "271f8a91128c01d8",
   "lastOpenFiles": [
+    "index.md",
+    "attachments/field.md",
+    "notes/Introductory Field Theory.md",
+    "attachments/field 2.md",
     "notes/Conventions and Formulae.md",
     "notes/Group Theory.md",
     "Physics/index.md",
-    "notes/Introductory Field Theory.md",
-    "attachments/field 2.md",
     "attachments/field 2.light.svg",
     "attachments/field 2.dark.svg",
-    "attachments/field.md",
     "attachments/field.light.svg",
     "attachments/field.dark.svg",
-    "index.md",
     "attachments/Drawing 2024-10-16 19.13.17.excalidraw.md",
     "attachments/Drawing 2024-10-16 19.18.13.excalidraw.md",
     "attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
