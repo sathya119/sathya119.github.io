@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0454262fe9f5eddf",
+            "id": "b2bb34d481c7b75e",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "b2bb34d481c7b75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Student.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -174,11 +162,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0454262fe9f5eddf",
+  "active": "b2bb34d481c7b75e",
   "lastOpenFiles": [
-    "Student.md",
+    "Daydream.md",
     "index.md",
     "My Journey with Physics.md",
+    "Student.md",
     "Write.md",
     "Dance.md",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.md",
@@ -186,7 +175,6 @@
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.dark.svg",
     "attachments",
     "templates/note.md",
-    "Daydream.md",
     "Sing.md",
     "notes/Proofs.md",
     "notes/Group Theory.md",
