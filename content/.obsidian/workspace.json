@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Student.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Student.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Student.md"
+                "file": "index.md"
               }
             }
           }
@@ -175,11 +174,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b2bb34d481c7b75e",
+  "active": "0454262fe9f5eddf",
   "lastOpenFiles": [
+    "Student.md",
     "index.md",
     "My Journey with Physics.md",
-    "Student.md",
     "Write.md",
     "Dance.md",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.md",
