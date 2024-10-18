@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2024-10-18T12:30:17.369Z",
+      "total": 0,
+      "drafts": {
+        "My Journey with Physics.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2024-10-17T20:44:38.223Z",
       "total": 0,
       "drafts": {
