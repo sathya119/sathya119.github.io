@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/General Relativity.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/General Relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/General Relativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/General Relativity.md"
               }
             }
           }
@@ -177,15 +177,15 @@
   },
   "active": "1a6fc32913e46d98",
   "lastOpenFiles": [
-    "notes/General Relativity.md",
     "notes/Academic Notes.md",
     "My Journey with Physics.md",
-    "Dance.md",
+    "Student.md",
     "index.md",
+    "notes/General Relativity.md",
+    "Dance.md",
     "notes/Discrete.md",
     "templates/note.md",
     "Daydream.md",
-    "Student.md",
     "Write.md",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.md",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
