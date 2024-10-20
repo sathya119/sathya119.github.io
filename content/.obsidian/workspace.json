@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/General Relativity.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/General Relativity.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/General Relativity.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/General Relativity.md"
+                "file": "index.md"
               }
             }
           }
@@ -177,8 +177,8 @@
   },
   "active": "1a6fc32913e46d98",
   "lastOpenFiles": [
-    "notes/Academic Notes.md",
     "notes/General Relativity.md",
+    "notes/Academic Notes.md",
     "My Journey with Physics.md",
     "Dance.md",
     "index.md",
