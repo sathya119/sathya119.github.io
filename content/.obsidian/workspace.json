@@ -32,21 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b225445c3bddd152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Classical Mechanics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Classical Mechanics.md",
+                "file": "notes/Field Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Classical Mechanics.md",
+                "file": "notes/Field Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Classical Mechanics.md"
+                "file": "notes/Field Mechanics.md"
               }
             }
           }
@@ -188,11 +176,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b225445c3bddd152",
+  "active": "aa2285bf62e0414b",
   "lastOpenFiles": [
+    "notes/Classical Mechanics.md",
     "index.md",
     "notes/Field Mechanics.md",
-    "notes/Classical Mechanics.md",
     "notes/Introductory Field Theory.md",
     "notes/Conventions and Formulae.md",
     "notes/Academic Notes.md",
