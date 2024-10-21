@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "4c60276e9b4d5734",
+            "id": "b225445c3bddd152",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Legendre",
+                "query": "poisson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,16 +188,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e44244526188bed",
+  "active": "b225445c3bddd152",
   "lastOpenFiles": [
-    "notes/Introductory Field Theory.md",
+    "index.md",
     "notes/Field Mechanics.md",
     "notes/Classical Mechanics.md",
+    "notes/Introductory Field Theory.md",
     "notes/Conventions and Formulae.md",
     "notes/Academic Notes.md",
     "My Journey with Physics.md",
     "Student.md",
-    "index.md",
     "notes/Quantisation.md",
     "notes/Quantum Harmonic Oscillator.md",
     "notes/Ladder Operators.md",

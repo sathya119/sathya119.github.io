@@ -33,7 +33,7 @@ Hamiltonian Mechanics
 	or in general for any coordinate q, $$H=p\mathring{q}\:-\:L$$
 	Hence, we obtain the Hamiltonian Equations as, $$\mathring{q} = \frac{\partial{H}}{\partial{p}},\:\mathring{p} = -\frac{\partial{H}}{\partial{q}}$$
 
-Poisson Bracket
+#Poisson Bracket
 	This is a binary operator defined as, $$[A,B]_P = \frac{\partial{A}}{\partial{p}}\frac{\partial{B}}{\partial{q}}-\frac{\partial{A}}{\partial{q}}\frac{\partial{B}}{\partial{p}}$$Now, for any operator O = O(q,p,t), $$\frac{dO(q,p,t)}{dt}=\mathring{q}\frac{\partial{O}}{\partial{q}}+\mathring{p}\frac{\partial{O}}{\partial{p}}+\frac{\partial{O}}{\partial{t}}$$
 	But from the Hamiltonian Equations, we know $$\mathring{q} = \frac{\partial{H}}{\partial{p}},\:\mathring{p} = -\frac{\partial{H}}{\partial{q}}$$Hence, on substituting the above, we obtain $$\frac{dO}{dt}=\frac{\partial{H}}{\partial{p}}\frac{\partial{O}}{\partial{q}}-\frac{\partial{H}}{\partial{q}}\frac{\partial{O}}{\partial{p}}+\frac{\partial{O}}{\partial{t}}$$
 	By the definition of a Poisson Bracket, $$\frac{dO}{dt}=[H,O]_P \: +\:\frac{\partial{O}}{\partial{t}}$$

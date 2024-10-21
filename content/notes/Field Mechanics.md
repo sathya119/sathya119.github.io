@@ -19,5 +19,6 @@ Hamiltonian Formulation
 	$$=\int d^3x\delta\mathring{\phi}(\frac{\partial\mathcal{L}}{\partial\mathring{\phi}}-\nabla\frac{\partial\mathcal{L}}{\partial\nabla\mathring{\phi}})$$
 	such that the canonical coordinate is $$\Pi(\vec{x})=\frac{\partial\mathcal{L}}{\partial\mathring{\phi}}-\nabla\frac{\partial\mathcal{L}}{\partial\nabla\mathring{\phi}}$$
 	We can now write the Hamiltonian as $$H=\int d^3x\mathcal{H}=\int d^3x(\Pi.\mathring{\phi}-\mathcal{L})$$
-	Now the equations of motion follow from the #Legendre inverse transform such that
-	
+	Now the equations of motion follow from the #Legendre inverse transform such that $$\int d^3x\delta\phi(\frac{\delta\mathcal{H}}{\delta\phi})=\int d^3x(\frac{\delta\mathring{\phi}}{\delta\phi}(\Pi-\frac{\delta\mathcal{L}}{\delta\mathring{\phi}})-\frac{\delta\mathcal{L}}{\delta\phi})$$
+	$$\mathring{\phi}=\frac{\partial\mathcal{H}}{\partial\Pi}-\nabla\frac{\partial\mathcal{H}}{\partial\nabla\Pi} \:\:and\:\:\mathring{\Pi}=-\frac{\partial\mathcal{H}}{\partial\phi}+\nabla\frac{\partial\mathcal{H}}{\partial\nabla\phi}$$
+	#Poisson Bracket has a generalisation such that $$\frac{d}{dt}\Theta=[H,\Theta]_P+\frac{\partial\Theta}{\partial t}$$
