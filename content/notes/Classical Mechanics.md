@@ -16,7 +16,7 @@ Lagrangian Mechanics
 		3. Use the Euler-Lagrange Equation for L
 		4. Get “stuff”
 
-Legendre Transform
+#Legendre Transform
 	For a function F(v), define $$w = \frac{\partial{F}}{\partial{v}}$$
 	Then, $$G(w) = w.v(w) - F(v(w))$$
 	is the Legendre Transform of F(v).

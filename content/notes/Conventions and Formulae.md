@@ -4,7 +4,11 @@ Minkowski Metric, $$\eta_{\mu\nu}=\begin{pmatrix}
 1&0&0&0\\0&-1&0&0\\0&0&-1&0\\0&0&0&-1
 \end{pmatrix}$$
 such that$$x_\mu=\eta_{\mu \nu}x^\nu=(ct,-\vec{x})$$
+## Partial Derivatives and Stuff
+$$\partial_x \implies \frac{\partial}{\partial x}$$
 ## Dirac Delta Function
 $$\int_{-\infty}^{\infty}dke^{ikx}=2\pi\delta(x)$$
 ## Commutators
+$$[A,B]=AB-BA$$
 $$[A,BC]=[A,B]C + B[A,C]$$
+$$\{A,B\} = AB+BA\:\:(called \:the\:anti-commutator)$$
