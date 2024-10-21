@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "1a6fc32913e46d98",
+            "id": "7ad6fdfe1997a5b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/General Relativity.md",
+                "file": "notes/Field Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/General Relativity.md",
+                "file": "notes/Field Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/General Relativity.md",
+                "file": "notes/Field Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/General Relativity.md"
+                "file": "notes/Field Mechanics.md"
               }
             }
           }
@@ -175,13 +175,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1a6fc32913e46d98",
+  "active": "7ad6fdfe1997a5b9",
   "lastOpenFiles": [
+    "notes/Introductory Field Theory.md",
+    "notes/Field Mechanics.md",
+    "notes/Conventions and Formulae.md",
     "notes/Academic Notes.md",
     "My Journey with Physics.md",
-    "Student.md",
     "index.md",
+    "notes/Classical Mechanics.md",
+    "Student.md",
     "notes/General Relativity.md",
+    "attachments/Drawing 2024-10-21 15.07.21.excalidraw.md",
+    "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
+    "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "Dance.md",
     "notes/Discrete.md",
     "templates/note.md",
@@ -194,8 +201,6 @@
     "Sing.md",
     "notes/Proofs.md",
     "notes/Group Theory.md",
-    "notes/Conventions and Formulae.md",
-    "notes/Introductory Field Theory.md",
     "notes/Proof.md",
     "notes/Representation.md",
     "notes/attachments/field.md",
@@ -210,18 +215,13 @@
     "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
     "notes/attachments",
     "notes/Singer.md",
-    "notes/Untitled 1.md",
-    "notes/Untitled.md",
     "Music",
-    "Physics/Elementary Particle Theory.md",
     "templates",
     "Physics",
     "Music/Music",
     "Physics",
     "Music",
     "notes",
-    "attachments/Arc_7Fnqii7ups.gif",
-    "attachments/Pasted image 20240925123545.png",
     "templates"
   ]
 }
