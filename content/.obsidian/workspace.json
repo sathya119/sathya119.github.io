@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Field Mechanics.md",
+                "file": "notes/Quantum Harmonic Oscillator.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poisson",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Field Mechanics.md",
+                "file": "notes/Quantum Harmonic Oscillator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Field Mechanics.md",
+                "file": "notes/Quantum Harmonic Oscillator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Field Mechanics.md"
+                "file": "notes/Quantum Harmonic Oscillator.md"
               }
             }
           }
@@ -176,18 +175,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa2285bf62e0414b",
+  "active": "5ebc7f06b4cb5c3b",
   "lastOpenFiles": [
+    "notes/QHO Field.md",
+    "notes/Quantum Harmonic Oscillator.md",
+    "notes/Quantisation.md",
+    "notes/Introductory Field Theory.md",
+    "notes/Field Mechanics.md",
     "notes/Classical Mechanics.md",
     "index.md",
-    "notes/Field Mechanics.md",
-    "notes/Introductory Field Theory.md",
     "notes/Conventions and Formulae.md",
     "notes/Academic Notes.md",
     "My Journey with Physics.md",
     "Student.md",
-    "notes/Quantisation.md",
-    "notes/Quantum Harmonic Oscillator.md",
     "notes/Ladder Operators.md",
     "notes/General Relativity.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.md",
@@ -208,7 +208,6 @@
     "notes/Proof.md",
     "notes/Representation.md",
     "notes/attachments/field.md",
-    "notes/attachments/field 2.md",
     "notes/attachments/field 2.light.svg",
     "notes/attachments/field 2.dark.svg",
     "notes/attachments/field.light.svg",
