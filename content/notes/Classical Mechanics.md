@@ -5,7 +5,7 @@ Lagrangian Mechanics
 	$$L = T - U $$
 	where $$T = \frac{1}{2}m(\mathring{x}^2 + \mathring{y}^2 + \mathring{z}^2) \; and\; U = U(x,y,z)$$
 	Let us now define the “action”,
-	$$S = \int_{t_1}^{t_2}L(y,\mathring{y},t)\:dt$$
+	$$S = \int_{t_1}^{t_2}L(y,\mathring{y})\:dt$$
 		It basically describes the variation of the Kinetic and Potential energies along the trajectory
 	Euler-Lagrange Equation
 	$$\frac{\partial{L}}{\partial{q}} - \frac{d}{dt}\:\frac{dL}{d\mathring{q}} = 0$$
@@ -31,6 +31,7 @@ Hamiltonian Mechanics
 	Now, $$momentum, \:p =ml^2\mathring{\theta} \Rightarrow H = \frac{p^2}{2ml^2}\:-\:mglcos\theta$$
 	Also note that, $$H=p\mathring{\theta}\:-\:L$$
 	or in general for any coordinate q, $$H=p\mathring{q}\:-\:L$$
+	since $$p \equiv\frac{\partial L}{\partial\mathring{q}}$$
 	Hence, we obtain the Hamiltonian Equations as, $$\mathring{q} = \frac{\partial{H}}{\partial{p}},\:\mathring{p} = -\frac{\partial{H}}{\partial{q}}$$
 
 #Poisson Bracket
@@ -39,3 +40,4 @@ Hamiltonian Mechanics
 	By the definition of a Poisson Bracket, $$\frac{dO}{dt}=[H,O]_P \: +\:\frac{\partial{O}}{\partial{t}}$$
 		1. Any operator O for which, $$[H,O]_P = -\frac{\partial{O}}{\partial{t}}$$is conserved.
 		2. If H is not explicitly dependent on t, H is conserved.
+	$$[x,x]=0=[p,p]$$$$[x,p]=1$$$$[x,H]=\mathring{x},\:[p,H]=\mathring{p}$$

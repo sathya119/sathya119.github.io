@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "My Journey with Physics.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,19 +22,30 @@
             }
           },
           {
-            "id": "aa2285bf62e0414b",
+            "id": "ff51f431bb2a83c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Quantum Harmonic Oscillator.md",
+                "file": "notes/General Relativity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "235d116b361d7f40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Conventions and Formulae.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Minkowski",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Quantum Harmonic Oscillator.md",
+                "file": "My Journey with Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Quantum Harmonic Oscillator.md",
+                "file": "My Journey with Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Quantum Harmonic Oscillator.md"
+                "file": "My Journey with Physics.md"
               }
             }
           }
@@ -175,45 +187,45 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5ebc7f06b4cb5c3b",
+  "active": "b2bb34d481c7b75e",
   "lastOpenFiles": [
-    "notes/QHO Field.md",
-    "notes/Quantum Harmonic Oscillator.md",
-    "notes/Quantisation.md",
-    "notes/Introductory Field Theory.md",
-    "notes/Field Mechanics.md",
-    "notes/Classical Mechanics.md",
-    "index.md",
-    "notes/Conventions and Formulae.md",
-    "notes/Academic Notes.md",
-    "My Journey with Physics.md",
-    "Student.md",
-    "notes/Ladder Operators.md",
     "notes/General Relativity.md",
-    "attachments/Drawing 2024-10-21 15.07.21.excalidraw.md",
+    "notes/Metric.md",
+    "notes/Conventions and Formulae.md",
+    "notes/Introductory Field Theory.md",
+    "notes/Academic Notes.md",
+    "notes/Group Theory.md",
+    "My Journey with Physics.md",
+    "notes/Cotangent Vectors.md",
+    "notes/Manifolds and Tensors.md",
+    "index.md",
+    "notes/Tensors.md",
+    "notes/Vectors.md",
+    "notes/Manifolds.md",
+    "notes/Introduction.md",
+    "notes/Special Theory of Relativity.md",
+    "notes/Free Motion.md",
+    "notes/Proper Length.md",
+    "Student.md",
+    "notes/Proper Time.md",
+    "notes/Light Cone.md",
+    "notes/Drawing 2024-10-22 13.54.54.excalidraw.md",
+    "attachments/Lightcone.md",
+    "attachments/Lightcone.light.svg",
+    "attachments/Lightcone.dark.svg",
+    "notes/Principle of Equivalence.md",
+    "notes/Klein-Gorden Field.md",
+    "notes/Quantisation.md",
+    "notes/Quantum Harmonic Oscillator.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
-    "Dance.md",
-    "notes/Discrete.md",
-    "templates/note.md",
-    "Daydream.md",
-    "Write.md",
-    "attachments/Drawing 2024-10-18 13.30.17.excalidraw.md",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.dark.svg",
     "attachments",
-    "Sing.md",
-    "notes/Proofs.md",
-    "notes/Group Theory.md",
-    "notes/Proof.md",
-    "notes/Representation.md",
-    "notes/attachments/field.md",
     "notes/attachments/field 2.light.svg",
     "notes/attachments/field 2.dark.svg",
     "notes/attachments/field.light.svg",
     "notes/attachments/field.dark.svg",
-    "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.light.svg",
-    "notes/attachments/Drawing 2024-10-16 19.13.17.excalidraw.dark.svg",
     "notes/attachments",
     "Music",
     "templates",

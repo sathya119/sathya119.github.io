@@ -1,0 +1,2 @@
+For a timelike curve, we can define an invariant proper time as: $$\tau=\int\sqrt{-ds^2}=\int\sqrt{- \eta_{\mu\nu}\mathring{x}^\mu\mathring{x}^\nu}d\lambda$$
+Since ds^2 for a timelike curve is negative, the term inside the square root will be positive.
