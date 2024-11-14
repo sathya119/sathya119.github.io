@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.23.0",
+  "settings_version": "0.22.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -30,7 +30,7 @@
       },
       "shells": {},
       "alias": "Ship Content",
-      "icon": "lucide-package",
+      "icon": "package",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -72,7 +72,7 @@
       },
       "shells": {},
       "alias": "Quartz Local",
-      "icon": "lucide-battery-charging",
+      "icon": "battery-charging",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -108,7 +108,7 @@
       },
       "shells": {},
       "alias": "Push to GitHub",
-      "icon": "lucide-gamepad",
+      "icon": "gamepad",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -144,7 +144,7 @@
       },
       "shells": {},
       "alias": "start cmd",
-      "icon": "lucide-terminal",
+      "icon": "terminal",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {

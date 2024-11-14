@@ -22,30 +22,19 @@
             }
           },
           {
-            "id": "ff51f431bb2a83c0",
+            "id": "92a13e480e3c500a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/General Relativity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "235d116b361d7f40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Conventions and Formulae.md",
+                "file": "notes/QED at Tree Level.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Minkowski",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Journey with Physics.md",
+                "file": "notes/QED at Tree Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Journey with Physics.md",
+                "file": "notes/QED at Tree Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Journey with Physics.md"
+                "file": "notes/QED at Tree Level.md"
               }
             }
           }
@@ -187,15 +175,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b2bb34d481c7b75e",
+  "active": "92a13e480e3c500a",
   "lastOpenFiles": [
+    "attachments/External Wavefunctions.md",
+    "notes/QED at Tree Level.md",
+    "notes/Quantum Electrodynamics.md",
+    "notes/QED Lagrangian and Feynman Rules.md",
+    "attachments/Drawing 2024-11-14 10.00.34.excalidraw.md",
+    "attachments/Drawing 2024-11-14 09.59.51.excalidraw.md",
+    "attachments/Drawing 2024-11-14 09.59.19.excalidraw.md",
+    "notes/Academic Notes.md",
+    "My Journey with Physics.md",
+    "attachments/Lightcone.md",
+    "attachments/Lightcone.light.svg",
+    "attachments/Lightcone.dark.svg",
+    "attachments/Drawing 2024-11-12 22.44.32.excalidraw.md",
+    "attachments/Drawing 2024-11-12 22.43.54.excalidraw.md",
+    "attachments/Drawing 2024-11-12 22.26.00.excalidraw.light.svg",
+    "attachments/Drawing 2024-11-12 22.26.00.excalidraw.dark.svg",
+    "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
+    "attachments/Ink/Writing",
+    "attachments/Ink",
     "notes/General Relativity.md",
     "notes/Metric.md",
     "notes/Conventions and Formulae.md",
     "notes/Introductory Field Theory.md",
-    "notes/Academic Notes.md",
     "notes/Group Theory.md",
-    "My Journey with Physics.md",
     "notes/Cotangent Vectors.md",
     "notes/Manifolds and Tensors.md",
     "index.md",
@@ -205,18 +210,6 @@
     "notes/Introduction.md",
     "notes/Special Theory of Relativity.md",
     "notes/Free Motion.md",
-    "notes/Proper Length.md",
-    "Student.md",
-    "notes/Proper Time.md",
-    "notes/Light Cone.md",
-    "notes/Drawing 2024-10-22 13.54.54.excalidraw.md",
-    "attachments/Lightcone.md",
-    "attachments/Lightcone.light.svg",
-    "attachments/Lightcone.dark.svg",
-    "notes/Principle of Equivalence.md",
-    "notes/Klein-Gorden Field.md",
-    "notes/Quantisation.md",
-    "notes/Quantum Harmonic Oscillator.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
@@ -224,16 +217,11 @@
     "attachments",
     "notes/attachments/field 2.light.svg",
     "notes/attachments/field 2.dark.svg",
-    "notes/attachments/field.light.svg",
-    "notes/attachments/field.dark.svg",
     "notes/attachments",
     "Music",
     "templates",
     "Physics",
     "Music/Music",
-    "Physics",
-    "Music",
-    "notes",
-    "templates"
+    "Physics"
   ]
 }
