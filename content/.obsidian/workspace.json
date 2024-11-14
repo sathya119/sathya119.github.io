@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/QED at Tree Level.md",
+                "file": "notes/QED Lagrangian and Feynman Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/QED at Tree Level.md",
+                "file": "notes/QED Lagrangian and Feynman Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/QED at Tree Level.md",
+                "file": "notes/QED Lagrangian and Feynman Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/QED at Tree Level.md"
+                "file": "notes/QED Lagrangian and Feynman Rules.md"
               }
             }
           }
@@ -177,9 +177,9 @@
   },
   "active": "92a13e480e3c500a",
   "lastOpenFiles": [
-    "attachments/External Wavefunctions.md",
-    "notes/QED at Tree Level.md",
     "notes/Quantum Electrodynamics.md",
+    "notes/QED at Tree Level.md",
+    "attachments/External Wavefunctions.md",
     "notes/QED Lagrangian and Feynman Rules.md",
     "attachments/Drawing 2024-11-14 10.00.34.excalidraw.md",
     "attachments/Drawing 2024-11-14 09.59.51.excalidraw.md",
