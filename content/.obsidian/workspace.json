@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/QED Lagrangian and Feynman Rules.md",
+                "file": "notes/Dirac Matrices.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/QED Lagrangian and Feynman Rules.md",
+                "file": "notes/Dirac Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/QED Lagrangian and Feynman Rules.md",
+                "file": "notes/Dirac Matrices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/QED Lagrangian and Feynman Rules.md"
+                "file": "notes/Dirac Matrices.md"
               }
             }
           }
@@ -177,10 +177,11 @@
   },
   "active": "92a13e480e3c500a",
   "lastOpenFiles": [
-    "notes/Quantum Electrodynamics.md",
     "notes/QED at Tree Level.md",
-    "attachments/External Wavefunctions.md",
+    "notes/Dirac Matrices.md",
     "notes/QED Lagrangian and Feynman Rules.md",
+    "notes/Quantum Electrodynamics.md",
+    "attachments/External Wavefunctions.md",
     "attachments/Drawing 2024-11-14 10.00.34.excalidraw.md",
     "attachments/Drawing 2024-11-14 09.59.51.excalidraw.md",
     "attachments/Drawing 2024-11-14 09.59.19.excalidraw.md",
@@ -209,7 +210,6 @@
     "notes/Manifolds.md",
     "notes/Introduction.md",
     "notes/Special Theory of Relativity.md",
-    "notes/Free Motion.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",

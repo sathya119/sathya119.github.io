@@ -1,5 +1,5 @@
 1. Lagrangian:
-	$$\mathcal{L}_{QED}=-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}+\bar\psi(i\not\partial-m)\psi+Qe\bar\psi\not A\psi-\mathcal{L}_{GF}$$
+	$$\mathcal{L}_{QED}=-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}+\bar\psi(i\cancel\partial-m)\psi+Qe\bar\psi\cancel A\psi-\mathcal{L}_{GF}$$
 	Where the 1st term corresponds to the Photon, 2nd to the Fermion, 3rd to the Photon-Fermion interaction and the 4th fixes the otherwise arbitrary gauge as
 	$$\mathcal{}L_{GF}=
 \begin{cases}
@@ -27,7 +27,7 @@ $$\text{and } s,s' \text{are Spin Indices}$$
 		Photon
 		$$\frac{-i(g^{\mu\nu}+(\xi-1)\frac{q^\mu q^\nu}{q^2})}{q^2+i\epsilon}$$
 		Fermion
-		$$\frac{i(\not q + m)_{\alpha\beta}}{q^2-m^2+i\epsilon}$$
+		$$\frac{i(\cancel q + m)_{\alpha\beta}}{q^2-m^2+i\epsilon}$$
 	1. Vertex:
 		$$iQe\gamma^\mu_{\alpha\beta}$$
 3. Amplitude construction:
