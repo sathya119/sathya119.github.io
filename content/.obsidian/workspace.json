@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/Academic Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/Academic Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/Academic Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/Academic Notes.md"
               }
             }
           }
@@ -190,6 +190,8 @@
   "active": "c5a4b7c4d98ab8a1",
   "lastOpenFiles": [
     "My Journey with Physics.md",
+    "Student.md",
+    "index.md",
     "notes/Dirac Matrices.md",
     "notes/Modern Cosmology.md",
     "attachments/Pasted image 20241117150820.png",
@@ -222,7 +224,6 @@
     "notes/Group Theory.md",
     "notes/Cotangent Vectors.md",
     "notes/Manifolds and Tensors.md",
-    "index.md",
     "notes/Tensors.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
