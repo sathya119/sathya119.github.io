@@ -20,4 +20,11 @@ That being said, Cosmology involves itself only with distances above Mpc. As cra
 	This is hence the most ideal black body radiation we have observed. From the plot, we can extract the associated temperature $$T_0=2.725\text{ Kelvin}$$ which is the CMB temperature today.
 
 3. The early Universe
-	
+	From Hubble’s observation, if at cosmic distances, everything is moving away from us, then at some point in time, they were all closer and we can estimate when. $$t=\frac{d}{v}=\frac{d}{H_0d}=\frac{1}{H_0}$$ using substitutions from Hubble’s Law.
+	- The current estimate for the age of the universe is 14 thousand million years. How does the Hubble estimate compare with this?
+	- Further, when all matter was clumped together at the beginning, the energy per unit volume of the system must have been exceedingly large. In fact, if it was hot enough, electrons would have been stripped from their orbits and for higher temperatures, the nuclei would have dissociated into protons and neutrons.
+	- The fact that the spectrum so closely follows that of a black body tells us that the early universe was in a nearly perfect equilibrium.
+
+Thus, we now have two basic concepts that thread through most of cosmology:
+1. The universe is expanding.
+2. The universe, in its early stages, used to be in thermal equilibrium with temperature T.
