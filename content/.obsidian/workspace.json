@@ -68,9 +68,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a631d7cf0db8491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -211,11 +223,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e1ef92dff1682af1",
+  "active": "6a631d7cf0db8491",
   "lastOpenFiles": [
     "Student.md",
-    "My Journey with Physics.md",
     "notes/Sai Student.md",
+    "index.md",
+    "My Journey with Physics.md",
     "notes/skills.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "notes/Why SSSIHL.md",
@@ -227,7 +240,6 @@
     "notes/QED at Tree Level.md",
     "notes/Dirac Matrices.md",
     "notes/2022-2023.md",
-    "index.md",
     "attachments/Pasted image 20241117150820.png",
     "notes/Doppler effect.md",
     "attachments/Pasted image 20241117131158.png",
