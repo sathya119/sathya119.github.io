@@ -1,3 +1,3 @@
-[[Modern Cosmology]]
-[[Homogeneous and Isotropic]]
+- [[Modern Cosmology]]
+- [[Homogeneous and Isotropic]]
 
