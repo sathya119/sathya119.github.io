@@ -1,0 +1,8 @@
+- **Isotropy**: Covered, with examples like Hubble's Law applying uniformly across directions.
+- **Homogeneity**: Explained, with references to galaxy surveys showing consistent density.
+- **Cosmological Principle**: Addressed as the theoretical basis linking isotropy and homogeneity.
+- **Scale Dependence**: Discussed, highlighting local inhomogeneities versus large-scale uniformity.
+- **Role of Galaxies**: Noted as tracers for cosmic expansion and their small contribution to energy density.
+- **Large-Scale Simplicity**: Mentioned as a clue to early-time dynamics, simplifying cosmological models.
+## 1. The metric
+Due to the expanding nature of the universe, the distance between any two points will grow with time. We describe this effect by introducing a scale factor a(t) as $$l=a(t)|\Delta\underline{x}|$$$$\text{where }l\text{ is the physical distance, }\Delta \underline{x}=\underline{x}_A-\underline{x}_B\text{ with }\underline{x}_A=(x^1_A,x^2_A,x^3_A),\;|\Delta\underline{x}|^2=(\Delta x^i)^2$$ and we have used “a” to factor out time from a space like variable x. Now, $$|\Delta x|\equiv l(t_0)\text{      and      }a(t_0)=1$$

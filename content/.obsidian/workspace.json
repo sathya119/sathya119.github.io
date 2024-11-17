@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Modern Cosmology.md",
+                "file": "notes/Homogeneous and Isotropic.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Sai Student.md",
+                "file": "notes/Programmes.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,33 +56,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e1ef92dff1682af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a631d7cf0db8491",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/Homogeneous and Isotropic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/Homogeneous and Isotropic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/Homogeneous and Isotropic.md"
               }
             }
           }
@@ -223,20 +199,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a631d7cf0db8491",
+  "active": "92a13e480e3c500a",
   "lastOpenFiles": [
-    "Student.md",
-    "notes/Sai Student.md",
-    "index.md",
-    "My Journey with Physics.md",
-    "notes/skills.md",
-    "notes/Sri Sathya Sai Institute of Higher Learning.md",
-    "notes/Why SSSIHL.md",
-    "notes/Academic Notes.md",
-    "notes/Quantum Electrodynamics.md",
-    "notes/Introductory Field Theory.md",
     "notes/Modern Cosmology.md",
     "notes/Cosmology 1.md",
+    "notes/Homogeneous and Isotropic.md",
+    "notes/Programmes.md",
+    "notes/Academic Notes.md",
+    "notes/Sri Sathya Sai Institute of Higher Learning.md",
+    "notes/Achievements.md",
+    "notes/Sai Student.md",
+    "index.md",
+    "Student.md",
+    "My Journey with Physics.md",
+    "notes/skills.md",
+    "notes/Why SSSIHL.md",
+    "notes/Quantum Electrodynamics.md",
+    "notes/Introductory Field Theory.md",
     "notes/QED at Tree Level.md",
     "notes/Dirac Matrices.md",
     "notes/2022-2023.md",
@@ -253,14 +232,11 @@
     "attachments/Lightcone.light.svg",
     "attachments/Lightcone.dark.svg",
     "attachments/Drawing 2024-11-12 22.44.32.excalidraw.md",
-    "attachments/Drawing 2024-11-12 22.43.54.excalidraw.md",
     "attachments/Drawing 2024-11-12 22.26.00.excalidraw.light.svg",
     "attachments/Drawing 2024-11-12 22.26.00.excalidraw.dark.svg",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",
-    "notes/General Relativity.md",
-    "notes/Metric.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
