@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Sri Sathya Sai Institute of Higher Learning.md",
+                "file": "notes/Sai Student.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,14 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Introductory Field Theory.md",
+                "file": "notes/Academic Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Modern Cosmology.md",
+                "file": "notes/Sai Student.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Modern Cosmology.md",
+                "file": "notes/Sai Student.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Modern Cosmology.md"
+                "file": "notes/Sai Student.md"
               }
             }
           }
@@ -199,20 +199,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "92a13e480e3c500a",
+  "active": "c5a4b7c4d98ab8a1",
   "lastOpenFiles": [
-    "notes/Cosmology 1.md",
+    "notes/skills.md",
+    "notes/Sai Student.md",
+    "notes/Sri Sathya Sai Institute of Higher Learning.md",
+    "notes/Why SSSIHL.md",
     "notes/Academic Notes.md",
     "notes/Quantum Electrodynamics.md",
+    "notes/Introductory Field Theory.md",
+    "notes/Modern Cosmology.md",
+    "notes/Cosmology 1.md",
     "notes/QED at Tree Level.md",
     "notes/Dirac Matrices.md",
-    "notes/Introductory Field Theory.md",
     "My Journey with Physics.md",
-    "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "notes/2022-2023.md",
     "Student.md",
     "index.md",
-    "notes/Modern Cosmology.md",
     "attachments/Pasted image 20241117150820.png",
     "notes/Doppler effect.md",
     "attachments/Pasted image 20241117131158.png",
@@ -234,9 +237,6 @@
     "attachments/Ink",
     "notes/General Relativity.md",
     "notes/Metric.md",
-    "notes/Conventions and Formulae.md",
-    "notes/Group Theory.md",
-    "notes/Cotangent Vectors.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
