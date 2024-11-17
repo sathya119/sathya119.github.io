@@ -6,3 +6,6 @@
 - **Large-Scale Simplicity**: Mentioned as a clue to early-time dynamics, simplifying cosmological models.
 ## 1. The metric
 Due to the expanding nature of the universe, the distance between any two points will grow with time. We describe this effect by introducing a scale factor a(t) as $$l=a(t)|\Delta\underline{x}|$$$$\text{where }l\text{ is the physical distance, }\Delta \underline{x}=\underline{x}_A-\underline{x}_B\text{ with }\underline{x}_A=(x^1_A,x^2_A,x^3_A),\;|\Delta\underline{x}|^2=(\Delta x^i)^2$$ and we have used “a” to factor out time from a space like variable x. Now, $$|\Delta x|\equiv l(t_0)\text{      and      }a(t_0)=1$$
+	Now, as in Hubble’s Law, $$v=\frac{dl(t)}{dt}=\frac{d(a(t)|\Delta x|)}{dt}=\frac{da}{dt}\frac{l}{a(t)}=H(l)t$$
+$$\boxed{H(t)=\frac{1}{a(t)}\frac{da(t)}{dt}}$$
+
