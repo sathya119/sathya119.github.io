@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Academic Notes.md",
+                "file": "notes/Sri Sathya Sai Institute of Higher Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Academic Notes.md",
+                "file": "notes/Sri Sathya Sai Institute of Higher Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Academic Notes.md",
+                "file": "notes/Sri Sathya Sai Institute of Higher Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Academic Notes.md"
+                "file": "notes/Sri Sathya Sai Institute of Higher Learning.md"
               }
             }
           }
@@ -189,8 +189,11 @@
   },
   "active": "c5a4b7c4d98ab8a1",
   "lastOpenFiles": [
-    "My Journey with Physics.md",
+    "notes/2022-2023.md",
+    "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "Student.md",
+    "My Journey with Physics.md",
+    "notes/Academic Notes.md",
     "index.md",
     "notes/Dirac Matrices.md",
     "notes/Modern Cosmology.md",
@@ -199,7 +202,6 @@
     "attachments/Pasted image 20241117131158.png",
     "attachments/Pasted image 20241117131153.png",
     "notes/Cosmology 1.md",
-    "notes/Academic Notes.md",
     "notes/QED at Tree Level.md",
     "notes/QED Lagrangian and Feynman Rules.md",
     "notes/Quantum Electrodynamics.md",
@@ -223,8 +225,6 @@
     "notes/Introductory Field Theory.md",
     "notes/Group Theory.md",
     "notes/Cotangent Vectors.md",
-    "notes/Manifolds and Tensors.md",
-    "notes/Tensors.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
