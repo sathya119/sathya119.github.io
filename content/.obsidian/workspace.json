@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Journey with Physics.md",
+                "file": "Student.md",
                 "mode": "source",
                 "source": false
               },
@@ -56,9 +56,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1ef92dff1682af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Sai Student.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Sai Student.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Sai Student.md"
+                "file": "index.md"
               }
             }
           }
@@ -199,10 +211,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c5a4b7c4d98ab8a1",
+  "active": "e1ef92dff1682af1",
   "lastOpenFiles": [
-    "notes/skills.md",
+    "Student.md",
+    "My Journey with Physics.md",
     "notes/Sai Student.md",
+    "notes/skills.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "notes/Why SSSIHL.md",
     "notes/Academic Notes.md",
@@ -212,9 +226,7 @@
     "notes/Cosmology 1.md",
     "notes/QED at Tree Level.md",
     "notes/Dirac Matrices.md",
-    "My Journey with Physics.md",
     "notes/2022-2023.md",
-    "Student.md",
     "index.md",
     "attachments/Pasted image 20241117150820.png",
     "notes/Doppler effect.md",
