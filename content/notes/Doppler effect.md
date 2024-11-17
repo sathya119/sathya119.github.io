@@ -1,0 +1,1 @@
+There will be a change in the observed frequency of light due to the relative motion between the source and the observer. These frequencies are related by: $$v_{observed}=v_{source}\sqrt{\frac{1+\frac{v}{c}}{1-\frac{v}{c}}}$$ with the sign of velocity determining whether the two objects are moving towards (+ve) or away (-ve) from each other.

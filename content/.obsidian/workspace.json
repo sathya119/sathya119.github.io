@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8696dadc6bc24b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Modern Cosmology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Dirac Matrices.md",
+                "file": "notes/Modern Cosmology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Dirac Matrices.md",
+                "file": "notes/Modern Cosmology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Dirac Matrices.md"
+                "file": "notes/Modern Cosmology.md"
               }
             }
           }
@@ -175,18 +187,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "92a13e480e3c500a",
+  "active": "8696dadc6bc24b10",
   "lastOpenFiles": [
-    "notes/QED at Tree Level.md",
+    "attachments/Pasted image 20241117150820.png",
     "notes/Dirac Matrices.md",
+    "notes/Doppler effect.md",
+    "notes/Modern Cosmology.md",
+    "attachments/Pasted image 20241117131158.png",
+    "attachments/Pasted image 20241117131153.png",
+    "notes/Cosmology 1.md",
+    "notes/Academic Notes.md",
+    "My Journey with Physics.md",
+    "notes/QED at Tree Level.md",
     "notes/QED Lagrangian and Feynman Rules.md",
     "notes/Quantum Electrodynamics.md",
     "attachments/External Wavefunctions.md",
     "attachments/Drawing 2024-11-14 10.00.34.excalidraw.md",
     "attachments/Drawing 2024-11-14 09.59.51.excalidraw.md",
     "attachments/Drawing 2024-11-14 09.59.19.excalidraw.md",
-    "notes/Academic Notes.md",
-    "My Journey with Physics.md",
     "attachments/Lightcone.md",
     "attachments/Lightcone.light.svg",
     "attachments/Lightcone.dark.svg",
@@ -206,17 +224,11 @@
     "notes/Manifolds and Tensors.md",
     "index.md",
     "notes/Tensors.md",
-    "notes/Vectors.md",
-    "notes/Manifolds.md",
-    "notes/Introduction.md",
-    "notes/Special Theory of Relativity.md",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.dark.svg",
     "attachments",
-    "notes/attachments/field 2.light.svg",
-    "notes/attachments/field 2.dark.svg",
     "notes/attachments",
     "Music",
     "templates",
