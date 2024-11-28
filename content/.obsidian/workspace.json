@@ -1,60 +1,40 @@
 {
   "main": {
-    "id": "ebc987e539fb2a0d",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e5182fc7a8941e3e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b2bb34d481c7b75e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student.md",
+                "file": "index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "1addd5aafc432e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Renormalisation.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "4b56ff6e30bac0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Homogeneous and Isotropic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5a4b7c4d98ab8a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Programmes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1507b0d4d9c2e346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Academic Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "icon": "lucide-file",
+              "title": "Renormalisation"
             }
           }
         ],
@@ -78,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -93,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -101,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -109,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Homogeneous and Isotropic.md",
+                "file": "notes/Academic Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Academic Notes"
             }
           },
           {
@@ -149,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Homogeneous and Isotropic.md",
+                "file": "notes/Academic Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Academic Notes"
             }
           },
           {
@@ -163,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -172,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Homogeneous and Isotropic.md"
-              }
+                "file": "notes/Renormalisation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Renormalisation"
             }
           }
         ],
@@ -191,45 +187,47 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b56ff6e30bac0ff",
+  "active": "1addd5aafc432e10",
   "lastOpenFiles": [
-    "Student.md",
-    "notes/Homogeneous and Isotropic.md",
-    "notes/Cosmology 1.md",
-    "notes/Academic Notes.md",
+    "attachments/Pasted image 20241128091251.png",
+    "attachments/Pasted image 20241128091013.png",
+    "notes/QED Lagrangian and Feynman Rules.md",
     "notes/Quantum Electrodynamics.md",
+    "notes/QED at One Loop.md",
+    "notes/Renormalisation.md",
+    "notes/QED at Tree Level.md",
+    "notes/Academic Notes.md",
+    "notes/Cosmology 1.md",
+    "notes/Einstein’s Equations.md",
+    "notes/Geodesics, Horizons and Redshifts.md",
+    "notes/Modern Cosmology.md",
+    "attachments/Pasted image 20241127124820.png",
+    "notes/Homogeneous and Isotropic.md",
+    "My Journey with Physics.md",
+    "Student.md",
+    "index.md",
+    "notes/Programmes.md",
     "notes/Introductory Field Theory.md",
     "notes/Group Theory.md",
     "notes/General Relativity.md",
-    "notes/Modern Cosmology.md",
-    "notes/Programmes.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "notes/Achievements.md",
     "notes/Sai Student.md",
-    "index.md",
-    "My Journey with Physics.md",
     "notes/skills.md",
     "notes/Why SSSIHL.md",
-    "notes/QED at Tree Level.md",
     "notes/Dirac Matrices.md",
     "notes/2022-2023.md",
     "attachments/Pasted image 20241117150820.png",
-    "notes/Doppler effect.md",
     "attachments/Pasted image 20241117131158.png",
     "attachments/Pasted image 20241117131153.png",
-    "notes/QED Lagrangian and Feynman Rules.md",
-    "attachments/External Wavefunctions.md",
-    "attachments/Drawing 2024-11-14 10.00.34.excalidraw.md",
-    "attachments/Drawing 2024-11-14 09.59.51.excalidraw.md",
-    "attachments/Drawing 2024-11-14 09.59.19.excalidraw.md",
     "attachments/Lightcone.light.svg",
     "attachments/Lightcone.dark.svg",
     "attachments/Drawing 2024-11-12 22.26.00.excalidraw.light.svg",
@@ -238,8 +236,6 @@
     "attachments/Ink/Writing",
     "attachments/Ink",
     "attachments/Drawing 2024-10-21 15.07.21.excalidraw.light.svg",
-    "attachments/Drawing 2024-10-21 15.07.21.excalidraw.dark.svg",
-    "attachments/Drawing 2024-10-18 13.30.17.excalidraw.light.svg",
     "attachments",
     "notes/attachments",
     "Music",

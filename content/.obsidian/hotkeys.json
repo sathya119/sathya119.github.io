@@ -43,5 +43,13 @@
       ],
       "key": "R"
     }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }
