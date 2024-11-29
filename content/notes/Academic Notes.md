@@ -3,6 +3,6 @@
 - [[General Relativity]]
 - [[Quantum Field Theory - I]]
 - [[Quantum Electrodynamics]]
-- [[Cosmology 1]]
+- [[Cosmology - I]]
 - [[Standard Model]]
 - [[Quantum Field Theory - II]]

@@ -6,3 +6,9 @@
 		to O(α), ![[Pasted image 20241128091251.png]]
 		$$-i\Pi^{\mu\nu}(p)=(-1)\int\frac{d^Dk}{(2\pi)^D}\frac{Tr[]}{[k^2-m^2][(k+p)^2-m^2]}$$
 		- (while evaluating trace substitute delta(m2,p2) for denominator with x anol)
+
+3. Vertex Correction
+	- Tree Level $$\Gamma^0_\mu=-ie_B\gamma_\mu$$
+	- Higher order corrections $$\Gamma_\mu=-ie_B\gamma_\mu-ie_B\Lambda_\mu(p_1,p_2)+...$$![[Pasted image 20241128101018.png]]
+	- At O(α) ![[Pasted image 20241128101127.png]]
+	- 
