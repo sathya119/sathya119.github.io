@@ -1,0 +1,2 @@
+The scattering amplitude is invariant under replacing an incoming particle of momentum p with its outgoing anti-particle with momentum -p, including a factor -1 if it is a fermion line. Hence, the new amplitude is given by $$\mathcal{M}(k_1,...,k_n\rightarrow p_1,...,p_m)=(-1)^f\mathcal{M}(k_2,...,k_n\rightarrow p_1,...,p_m,-k_1)$$
+where f=1 if the particle is a fermion (zero otherwise).
