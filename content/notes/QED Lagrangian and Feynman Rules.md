@@ -4,7 +4,7 @@
 	$$\mathcal{}L_{GF}=
 \begin{cases}
     \frac{1}{2\xi}(\partial_\mu A^\mu)^2,& \text{covariant gauges}\\
-    n_\mu A^\mu \;n^2=1          & \text{axial gauges}
+    n_\mu A^\mu, \;n^2=1,          & \text{axial gauges}
 \end{cases}
 $$ We usually choose the covariant gauge as a Feynman Gauge with ξ=1.
 
@@ -22,13 +22,13 @@ $$d\Gamma=\frac{1}{2m}d\text{LIPS}<|\mathcal{M}_{i\rightarrow f}|^2>$$
 $$\alpha,\beta \text{ are Dirac Indices; }\mu,\nu \text{ are Lorentz Indices; }\lambda,\kappa \text{ are Polarisation Indices}$$
 $$\text{and } s,s' \text{are Spin Indices}$$
 	1. External Wavefunctions
-		(insert excalidraw)
+		![[External Wavefunctions]]
 	2. Propagators:
 		Photon
 		$$\frac{-i(g^{\mu\nu}+(\xi-1)\frac{q^\mu q^\nu}{q^2})}{q^2+i\epsilon}$$
 		Fermion
 		$$\frac{i(\cancel q + m)_{\alpha\beta}}{q^2-m^2+i\epsilon}$$
-	1. Vertex:
+	3. Vertex:
 		$$iQe\gamma^\mu_{\alpha\beta}$$
 3. Amplitude construction:
 		- Draw all topologically distinct Feynman Diagrams.
@@ -41,5 +41,5 @@ $$\text{and } s,s' \text{are Spin Indices}$$
 		- $$\int \frac{d^4k}{(2\pi)^4}$$ for each internal momentum k.
 			- At tree level, there will be no undefined internal momenta.
 			- At n loop level, there will be n undefined internal momenta.
-		- Include a factor of (-1) for every closed fermion loop. Include another factor of (-1) for diagrams differing only by exchange of identical fermions)
+		- Include a factor of (-1) for every closed fermion loop. Include another factor of (-1) for diagrams differing only by exchange of identical fermions.
 			- Finally divide by the respective symmetry factor.

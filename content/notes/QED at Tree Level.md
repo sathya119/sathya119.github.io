@@ -1,5 +1,5 @@
 1. Electron-Muon Scattering
-	(insert diagrams)
+	(insert diagrams) 
 $$i\mathcal{M}=\bar{u}_\alpha(p_1,s^,)(-ie)\gamma^\mu_{\alpha\beta}u_\beta(k_1,s)\frac{-i(g_{\mu\nu}-(\xi-1\frac{q_\mu q_\nu}{q^2}))}{q^2+i\epsilon}\bar{u}_\gamma(p_2,r^,)(-ie)\gamma^\nu_{\gamma\delta}u_\delta(k_2,r)$$ where the middle term denotes the photon propagator with the electron and muon lines to its left and right respectively.
 	Observe that
 $$\bar{u}(p_1)\not qu(k_1) = 0\text{ since q = k1 - p1 = k2 - p2}$$
