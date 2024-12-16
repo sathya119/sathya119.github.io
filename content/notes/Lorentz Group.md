@@ -1,0 +1,1 @@
+Let us consider an infinitesimal boost by small β⃗ and rotation by a small angle θ $$\text{Boost: }\Lambda^\mu_\nu=1+\begin{pmatrix}0&\vec{\beta}\\\vec{\beta}&0\end{pmatrix}+\mathcal{O}(\beta^2)$$$$\text{Rotation: }\Lambda^\mu_\nu=1+\begin{pmatrix}0&\vec{0}\\\vec{0}&\mathcal\epsilon_{ijk}\theta^k\end{pmatrix}+\mathcal{O}(\theta^2)$$

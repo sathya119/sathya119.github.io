@@ -1,6 +1,7 @@
 - **Scalar Fields**: Φ(x) describe spin-0 particles. They are scalar bosons.
 	- A complex scalar field has two real degrees of freedom which correspond to a particle and an anti-particle. They carry opposite charges.
 	- A real-valued scalar field has one real degree of freedom, corresponding to a particle = its anti-particle. This is a neutral particle.
+
 - **Dirac Spinor Fields**: ψ(x) describe spin-1/2 particles.
 	- Complex-valued-4-component spinor. In the chiral basis for γ matrices, ψ(x) can be decomposed into two 2-component spinors ψL(x) and ψR(x), called the left-handed and right-handed Weyl Spinors. $$\psi(x)=\begin{pmatrix}\psi_1\\\psi_2\\\psi_3\\\psi_4\end{pmatrix}=\begin{pmatrix}\psi_L\\\psi_R\end{pmatrix}$$
 	- The left-handed Weyl spinor describes (creation and annihilation of) particles of #helicity = -1/2 and its Hermitian-conjugate corresponds to its anti-particle. Thus, 2 degrees of freedom for left-handed Weyl spinors.
@@ -9,8 +10,10 @@
 	- #helicity is the projection of spin on 3-momentum of a particle. It is a good quantum number for mass-less particles. If a particle is massive, then its helicity can be changed by performing a Lorentz boost.
 		- Left-handed helicity => h=-1/2
 		- Right-handed helicity => h=+1/2
+
 - **Majorana Fermion Fields**: describe spin-1/2 particles that are their own anti-particles.
 	- Essentially, we identify ψR=ψL†, $$\psi_M(x)=\begin{pmatrix}\psi_L\\\psi_L^\dagger\end{pmatrix}=\begin{pmatrix}\psi\\\psi^\dagger\end{pmatrix}$$
+
 - **Vector Fields**: A(x) describe spin-1 particles (known as vector bosons)
 	- In QFT, vector fields originate from gauge fields (real-valued).
 	- But when gauge symmetry is exact, all gauge fields must be strictly massless => massless vector bosons (photons in QED and gluons in QCD - theory of strong interactions).
