@@ -1,4 +1,4 @@
-[[Principle of Equivalence]]
-[[Special Theory of Relativity]]
-[[Free Motion]]
+- [[Principle of Equivalence]]
+- [[Special Theory of Relativity]]
+- [[Free Motion]]
 

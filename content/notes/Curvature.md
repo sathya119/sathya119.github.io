@@ -5,7 +5,7 @@ We define a (1,3) type tensor called the #Riemann-Tensor or the Curvature Tensor
 - The commutator is always related to the #Riemann-Tensor . For a one-form, $$[\nabla_\mu,\nabla_\nu]\omega_\lambda=-R^\lambda_{\rho\mu\nu}\omega_\rho$$
 - If spacetime is flat (i.e., the metric is #Minkowski ), then the #Christoffel-symbols vanish and hence #Riemann-Tensor is also zero. The converse is also true. Hence, spacetime is flat iff #Riemann-Tensor is zero.
 
-[[Path Independence of parallel transport]]
-[[Geodesic Deviation]]
-[[Riemann Normal Coordinates]]
-[[Symmetries and Ricci Tensor]]
+1. [[Path Independence of parallel transport]]
+2. [[Geodesic Deviation]]
+3. [[Riemann Normal Coordinates]]
+4. [[Symmetries and Ricci Tensor]]

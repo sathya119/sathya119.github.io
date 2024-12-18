@@ -29,30 +29,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Einstein’s Equations.md",
+                "file": "notes/Academic Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Einstein’s Equations"
+              "title": "Academic Notes"
             }
           },
           {
-            "id": "b4ba806d0b0ef26a",
+            "id": "83c2572a05d43432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Group Theory.md",
+                "file": "notes/Random Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group Theory"
+              "title": "Random Topics"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Einstein’s Equations.md"
+                "file": "notes/Random Topics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Einstein’s Equations"
+              "title": "Outline of Random Topics"
             }
           }
         ],
@@ -209,34 +209,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "358a4f1e925ebeee",
+  "active": "83c2572a05d43432",
   "lastOpenFiles": [
+    "notes/Atmons - The real God Particle.md",
+    "Student.md",
+    "index.md",
+    "notes/Random Topics.md",
+    "My Journey with Physics.md",
+    "notes/Academic Notes.md",
+    "notes/Group Theory.md",
+    "Sing.md",
+    "notes/Sri Sathya Sai Institute of Higher Learning.md",
+    "notes/2022-2023.md",
+    "notes/Why SSSIHL.md",
+    "notes/Sai Student.md",
+    "notes/Programmes.md",
+    "notes/Achievements.md",
     "notes/General Relativity.md",
     "notes/Integration on Manifolds.md",
     "notes/Symmetry of metric.md",
-    "notes/Noether’s Theorem.md",
     "notes/Curvature.md",
-    "notes/Symmetries and Ricci Tensor.md",
-    "notes/Riemann Normal Coordinates.md",
-    "notes/Geodesic Deviation.md",
-    "notes/Path Independence of parallel transport.md",
-    "notes/Covariant Derivative.md",
-    "notes/Einstein’s Equations.md",
     "notes/Geodesics.md",
-    "notes/2 sphere.md",
-    "notes/Levi-Civita Connection.md",
+    "notes/Covariant Derivative.md",
     "notes/Metric.md",
-    "notes/Academic Notes.md",
-    "notes/Introductory Field Theory.md",
-    "notes/Symmetry.md",
-    "notes/Lorentz Group.md",
-    "notes/Group Theory.md",
-    "notes/Group.md",
-    "notes/Proofs.md",
-    "My Journey with Physics.md",
-    "Student.md",
-    "index.md",
-    "notes/Boosts and Rotations.md",
+    "notes/Manifolds and Tensors.md",
+    "notes/Tensors.md",
+    "notes/Cotangent Vectors.md",
+    "notes/Vectors.md",
+    "notes/Manifolds.md",
     "attachments/Pasted image 20241128101127.png",
     "attachments/Pasted image 20241128101018.png",
     "attachments/Pasted image 20241128091251.png",

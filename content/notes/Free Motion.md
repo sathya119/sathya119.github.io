@@ -1,4 +1,4 @@
-A free particle in Special Relativity follows a timelike straight line.
+A free particle in [[Special Theory of Relativity]] follows a time-like straight line.
 - There is a choice of the parameter for which the coordinates are linear functions.
 - Then, the tangent vector is constant. Then, we can define “acceleration” as $$a^\mu=\frac{dV^\mu}{d\lambda}=V^\nu\partial_\nu V^\mu = 0$$
 - Then, $$\eta_{\mu\nu}V^\mu V^\nu$$ is constant along the curve.

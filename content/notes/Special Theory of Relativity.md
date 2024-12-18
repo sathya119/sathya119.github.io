@@ -5,9 +5,9 @@ Spacetime interval $$\Delta s^2=-c^2\Delta t^2+\Delta\vec{x}^2$$
 We set c=1.
 	$$ds^2 = \eta_{\mu\nu}dx^\mu dx^\nu$$
 	where η is the #Minkowski Metric.
-Lorentz transformation is linear such that $$x'^\mu=\Lambda^\mu_\nu x^\nu$$
+#Lorentz transformation is linear such that $$x'^\mu=\Lambda^\mu_\nu x^\nu$$
 Note that the coordinates are arbitrary and hence physics is invariant (Lorentz Invariance).
-[[Light Cone]]
-[[Proper Length]]
-[[Proper Time]]
+1. [[Light Cone]]
+2. [[Proper Length]]
+3. [[Proper Time]]
 

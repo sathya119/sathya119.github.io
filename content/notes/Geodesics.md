@@ -5,7 +5,7 @@ A consequence is that the length of the tangent vector $$V^\lambda\partial _\lam
 By choice of the parameter, we can set the length to be ±1,0 (Proper length (+1) or Proper time (-1)).
 Alternatively, we can define geodesics as an extrema of proper length or proper time.
 	This method of finding the Euler-Lagrangian equations resulting from the proper length can be an efficient way to calculate the #Christoffel-symbols in curved geometry.
-Steps:
+**Steps:
 - Write the EL equation and choose the parameter as proper length. Set the length of the tangent vector to 1.
 - Obtain the equations and compare with the Geodesic equation.
 - Write the #Christoffel-symbols .
