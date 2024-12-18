@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Random Topics.md",
+                "file": "notes/Atmons - The real God Particle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Topics"
+              "title": "Atmons - The real God Particle"
             }
           }
         ],
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Random Topics.md"
+                "file": "notes/Atmons - The real God Particle.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Topics"
+              "title": "Outline of Atmons - The real God Particle"
             }
           }
         ],
@@ -211,10 +211,10 @@
   },
   "active": "83c2572a05d43432",
   "lastOpenFiles": [
+    "notes/Random Topics.md",
     "notes/Atmons - The real God Particle.md",
     "Student.md",
     "index.md",
-    "notes/Random Topics.md",
     "My Journey with Physics.md",
     "notes/Academic Notes.md",
     "notes/Group Theory.md",
