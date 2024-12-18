@@ -1,0 +1,4 @@
+For a vector field to be covariantly constant at a point in a curved space, it is mandatory that the #Riemann-Tensor is also zero at that point. Thus, in the presence of curvature, we cannot define a vector corresponding to the field at the point by looking for a covariantly constant vector.
+Instead, we consider a curve and then define a vector field to be covariantly constant along the curve or parallel transported along the curve if $$V^\lambda\nabla_\lambda W^\mu=0$$
+	The way vectors change under parallel transport around arbitrary closed loops is one way to characterise the curvature of a space - #Holonomy 
+	

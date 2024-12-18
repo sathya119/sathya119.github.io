@@ -21,5 +21,7 @@
   "homepage",
   "numerals",
   "obsidian-style-settings",
-  "ink"
+  "ink",
+  "obsidian-autocomplete-plugin",
+  "obsidian-languagetool-plugin"
 ]

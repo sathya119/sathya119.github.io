@@ -1,0 +1,10 @@
+- By definition, $$R^\rho_{\sigma\mu\nu}=-R^\rho_{\sigma\mu\nu}$$
+- $$R_{\rho\sigma\mu\nu}=-R_{\sigma\rho\mu\nu}$$
+- $$R_{\rho\sigma\mu\nu}=R_{\mu\nu\rho\sigma}$$
+- $$R_{\rho[\sigma\mu\nu]}=R_{\rho\sigma\mu\nu}+R_{\rho\mu\nu\sigma}+R_{\rho\nu\sigma\mu}=0$$
+- #Bianchi Identity $$\nabla_{[\lambda}R_{\rho\sigma]\mu\nu}=0$$
+- Ricci Tensor $$R_{\mu\nu}=R^\lambda_{\mu\lambda\nu}=R_{\nu\mu}$$
+- Ricci Scalar $$R=g^{\mu\nu}R_{\mu\nu}$$
+- Contracted #Bianchi Identity $$\nabla_\mu R^\mu_\rho=\frac{1}{2}\nabla_\rho R$$
+	- Defining #Einstein-Tensor $$G_{\mu\nu}=R_{\mu\nu}-\frac{1}{2}g_{\mu\nu}R$$
+	- $$\nabla^\mu G_{\mu\nu}=0$$

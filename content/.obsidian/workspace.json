@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Geodesics.md",
+                "file": "notes/Einstein’s Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geodesics"
+              "title": "Einstein’s Equations"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dirac matri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Geodesics.md"
+                "file": "notes/Einstein’s Equations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Geodesics"
+              "title": "Outline of Einstein’s Equations"
             }
           }
         ],
@@ -212,8 +212,18 @@
   "active": "358a4f1e925ebeee",
   "lastOpenFiles": [
     "notes/General Relativity.md",
-    "notes/Geodesics.md",
+    "notes/Integration on Manifolds.md",
+    "notes/Symmetry of metric.md",
+    "notes/Noether’s Theorem.md",
+    "notes/Curvature.md",
+    "notes/Symmetries and Ricci Tensor.md",
+    "notes/Riemann Normal Coordinates.md",
+    "notes/Geodesic Deviation.md",
+    "notes/Path Independence of parallel transport.md",
     "notes/Covariant Derivative.md",
+    "notes/Einstein’s Equations.md",
+    "notes/Geodesics.md",
+    "notes/2 sphere.md",
     "notes/Levi-Civita Connection.md",
     "notes/Metric.md",
     "notes/Academic Notes.md",
@@ -227,16 +237,6 @@
     "Student.md",
     "index.md",
     "notes/Boosts and Rotations.md",
-    "notes/Notations and Conventions.md",
-    "notes/Conventions and Formulae.md",
-    "notes/Dirac Matrices.md",
-    "notes/Standard Model.md",
-    "notes/Lorentz Transformations and Field Theory.md",
-    "notes/Weyl basis for Dirac matrices.md",
-    "notes/Pauli Matrices.md",
-    "notes/SR and LT.md",
-    "notes/Types of Fields.md",
-    "notes/Quantum Electrodynamics.md",
     "attachments/Pasted image 20241128101127.png",
     "attachments/Pasted image 20241128101018.png",
     "attachments/Pasted image 20241128091251.png",

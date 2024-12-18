@@ -1,0 +1,1 @@
+Noether's theorem is an amazing result which lets physicists get conserved quantities from symmetries of the laws of nature. Time translation symmetry gives conservation of energy; space translation symmetry gives conservation of momentum; rotation symmetry gives conservation of angular momentum, and so on.

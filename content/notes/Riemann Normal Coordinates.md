@@ -1,0 +1,4 @@
+A manifold is locally like the n-dimensional real space and we expect spacetime to locally be like the flat space of special relativity. So, there should be some coordinate system where the metric at least at a point p is #Minkowski .
+In such a coordinate system, $$R^\lambda_{\rho\mu\nu}=\partial_\mu\Gamma^\lambda_{\nu\rho}-\partial_\nu\Gamma^\lambda_{\mu\rho}\;\;\;\;\;\;\;\;\;\;\text{since }\partial_\lambda g_{\mu\nu}=0\implies\Gamma^\mu_{\nu\rho}=0$$
+Then, $$R^\lambda_{\rho\mu\nu}=\frac{1}{2}g^{\lambda\sigma}(\partial_\mu\partial_\rho g_{\nu\sigma}+\partial_\nu\partial_\sigma g_{\mu\rho}-\partial_\mu\partial_\sigma g_{\nu\rho}-\partial_\nu\partial_\rho g_{\mu\sigma})$$
+It is convenient to lower the index with the metric, to write $$R_{\beta\rho\mu\nu}=g_{\beta\lambda}R^\lambda_{\rho\mu\nu}=\frac{1}{2}(\partial_\mu\partial_\rho g_{\nu\beta}+\partial_\nu\partial_\beta g_{\mu\rho}-\partial_\mu\partial_\beta g_{\nu\rho}-\partial_\nu\partial_\rho g_{\mu\beta})$$
