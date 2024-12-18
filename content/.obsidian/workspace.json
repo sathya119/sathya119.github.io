@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Academic Notes.md",
+                "file": "notes/Integration on Manifolds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Academic Notes"
+              "title": "Integration on Manifolds"
             }
           },
           {
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Atmons - The real God Particle.md"
+                "file": "notes/Integration on Manifolds.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Atmons - The real God Particle"
+              "title": "Outline of Integration on Manifolds"
             }
           }
         ],
@@ -209,14 +209,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83c2572a05d43432",
+  "active": "358a4f1e925ebeee",
   "lastOpenFiles": [
-    "notes/Random Topics.md",
+    "notes/General Relativity.md",
+    "notes/Academic Notes.md",
     "notes/Atmons - The real God Particle.md",
+    "notes/Random Topics.md",
     "Student.md",
     "index.md",
     "My Journey with Physics.md",
-    "notes/Academic Notes.md",
     "notes/Group Theory.md",
     "Sing.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
@@ -225,7 +226,6 @@
     "notes/Sai Student.md",
     "notes/Programmes.md",
     "notes/Achievements.md",
-    "notes/General Relativity.md",
     "notes/Integration on Manifolds.md",
     "notes/Symmetry of metric.md",
     "notes/Curvature.md",
