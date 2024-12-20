@@ -38,6 +38,20 @@
             }
           },
           {
+            "id": "9013010bfd156709",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Symmetry of metric.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetry of metric"
+            }
+          },
+          {
             "id": "83c2572a05d43432",
             "type": "leaf",
             "state": {
@@ -66,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Einstein’s Equations.md"
+                "file": "notes/Symmetry of metric.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Einstein’s Equations"
+              "title": "Outline of Symmetry of metric"
             }
           }
         ],
@@ -223,9 +237,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "358a4f1e925ebeee",
+  "active": "9013010bfd156709",
   "lastOpenFiles": [
     "notes/General Relativity.md",
+    "notes/Einstein’s Equations.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "Student.md",
     "index.md",
@@ -250,7 +265,6 @@
     "notes/Tensors.md",
     "notes/Cotangent Vectors.md",
     "notes/Vectors.md",
-    "notes/Manifolds.md",
     "attachments/Pasted image 20241128101127.png",
     "attachments/Pasted image 20241128101018.png",
     "attachments/Pasted image 20241128091251.png",
