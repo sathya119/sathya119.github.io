@@ -27,9 +27,10 @@ Thus, the relativistic generalisation of energy density is the #Stress-Energy te
 $$T:n\rightarrow\rho\;\;\;\;\;\rho^\mu=T^{\mu\nu}n_\nu$$
 
 We assume it to be symmetric. Let us now understand the components of the tensor:
-	 Consider a surface t=0, so the normal has the first component as 1, rest 0. Hence, 
-	 $$\rho^\mu=T^{\mu 0};\;T^{00}-\text{energy density }\rho;\;T^{i0}-\text{spatial momentum density }\rho^i$$
-	 
+-  Consider a surface t=0, so the normal has the first component as 1, rest 0. Hence, 
+
+ $$\rho^\mu=T^{\mu 0};\;T^{00}-\text{energy density }\rho;\;T^{i0}-\text{spatial momentum density }\rho^i$$
+
 	The purely spatial components are the stress tensor.
 
 **Conservation of Energy**: In a relativistic theory, 
@@ -46,7 +47,6 @@ Physically, the #Christoffel-symbols terms in this generalisation express the ex
 - Cosmological constant: Suppose 
 
 $$T^{\mu\nu}=\Lambda g^{\mu\nu}$$
-
 
 	This is automatically conserved since 
 	
