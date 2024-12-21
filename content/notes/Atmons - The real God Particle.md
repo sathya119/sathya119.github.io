@@ -19,4 +19,4 @@ says that matter and energy are interchangeable! So, if Atma is energy, I can de
 
 **HOW?**
 
-Well, let us see if my MSc in Particles, Strings and Cosmology can help me get a step closer. I’m 99.9999% sure it will get me nowhere but there is that 0.0001% hope ;)
+Well, let us see if my MSc in Particles, Strings and Cosmology can help me get a step closer. I’m 99.9999% sure it will get me nowhere but there is that 0.0001% of hope ;)

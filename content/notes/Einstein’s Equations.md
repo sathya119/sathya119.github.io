@@ -48,16 +48,26 @@ Physically, the #Christoffel-symbols terms in this generalisation express the ex
 
 $$T^{\mu\nu}=\Lambda g^{\mu\nu}$$
 
-	This is automatically conserved since 
-	
-	$$\nabla_\mu g_{\rho\sigma}=0$$
-	
-	In QFT, vacuum fluctuations make such a constant contribution where the length scale is naturally the UV cutoff scale.
-	
-	Observationally, there seems to be such a contribution where the length scale is the size of the observable universe - Cosmological Constant Problem.
+This is automatically conserved since 
+
+$$\nabla_\mu g_{\rho\sigma}=0$$
+
+In QFT, vacuum fluctuations make such a constant contribution where the length scale is naturally the UV cutoff scale.
+
+Observationally, there seems to be such a contribution where the length scale is the size of the observable universe - Cosmological Constant Problem.
 
 - Electromagnetic field: 
 
 $$T^{\mu\nu}=\frac{1}{4\pi}(F^{\mu\lambda}F^\nu_\lambda-\frac{1}{4}g^{\mu\nu}F^{\lambda\sigma}F_{\lambda\sigma})$$
 
-- 
+- Perfect fluid:
+
+
+The stress tensor is a generalisation of energy density. So, it is a natural source for Einstein’s equations. A natural guess is $$R_{\mu\nu}=\kappa T_{\mu\nu}$$, but the LHS is not conserved. Hence, we replace the Ricci tensor by the Einstein tensor to obtain 
+
+$$G_{\mu\nu}=R_{\mu\nu}-\frac{1}{2}g_{\mu\nu}R=8\pi GT_{\mu\nu}$$
+
+Remarks:
+- LHS is conserved by the #Bianchi identity => stress-energy tensor is also conserved.
+- Second-order non-linear partial differential equations for the metric.
+- The constant is chosen to reproduce Newtonian theory for weak sources, nearly flat metric.
