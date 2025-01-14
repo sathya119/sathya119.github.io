@@ -1,0 +1,1 @@
+ Any spherically symmetric solution of the vacuum field equations must be static and asymptotically flat. This means that the exterior solution (i.e., the spacetime outside of a spherical, nonrotating, gravitating body) must be given by the Schwarzschild metric.

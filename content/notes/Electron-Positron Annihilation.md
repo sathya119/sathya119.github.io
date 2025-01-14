@@ -7,3 +7,4 @@ We need to careful to not apply these crossing relations to the flux factor. It 
 In a collider environment with $$t=-s\frac{1-cos\theta}{2}\;\;\;\;\;\;\;\;\;u=-s\frac{1+cos\theta}{2}$$
 The annihilation #cross-section is then $$\frac{d\sigma}{d\Omega}=\frac{e^4}{32\pi^2s}\frac{t^2+u^2}{s^2}=\frac{e^4}{64\pi^2s}(1+cos^2\theta)$$
 Now, the total annihilation cross section is, $$\text{(Using }d\Omega=d\phi dcos\theta)$$$$\sigma=\int_0^{2\pi}d\phi\int_{-1}^1dcos\theta\frac{e^4}{64\pi^2s}(1+cos^2\theta)$$$$=\frac{e^4}{32\pi s}\frac{8}{3}=\frac{4\pi\alpha^2}{3s}\;\;\;\;\;\;\;\;\;\;\;\;\;\text{with }\alpha=\frac{e^2}{4\pi}$$ where α is the fine-structure constant.
+

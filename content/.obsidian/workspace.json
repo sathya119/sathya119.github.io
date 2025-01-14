@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true,
@@ -24,45 +24,29 @@
             }
           },
           {
-            "id": "358a4f1e925ebeee",
+            "id": "874bb002af4d27c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Schwarzschild solution - Black Holes.md",
+                "file": "notes/Properties of DM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schwarzschild solution - Black Holes"
+              "title": "Properties of DM"
             }
           },
           {
-            "id": "83c2572a05d43432",
+            "id": "e693ea3963d113d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Student.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/Pasted image 20250114211037.png"
               },
-              "icon": "lucide-file",
-              "title": "Student"
-            }
-          },
-          {
-            "id": "3285b6b12dbaf1a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Do we really see colours as others do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Do we really see colours as others do"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250114211037"
             }
           }
         ],
@@ -97,8 +81,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "Ward",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -194,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Schwarzschild solution - Black Holes.md"
+                "file": "notes/Properties of DM.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Schwarzschild solution - Black Holes"
+              "title": "Outline of Properties of DM"
             }
           }
         ],
@@ -223,44 +207,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "358a4f1e925ebeee",
+  "active": "874bb002af4d27c9",
   "lastOpenFiles": [
-    "Student.md",
-    "notes/Do we really see colours as others do.md",
-    "notes/Schwarzschild solution - Black Holes.md",
-    "notes/General Relativity.md",
-    "notes/Einstein’s Equations.md",
-    "notes/Random Topics.md",
-    "notes/Atmons - The real God Particle.md",
+    "notes/Motivation for Dark Matter.md",
+    "notes/Properties of DM.md",
+    "notes/Evidences at different scales.md",
+    "attachments/Pasted image 20250114213431.png",
+    "attachments/Pasted image 20250114211551.png",
+    "attachments/Pasted image 20250114211037.png",
+    "attachments/Pasted image 20250114211143.png",
+    "attachments/Pasted image 20250114211424.png",
+    "attachments/Pasted image 20241128091013.png",
+    "notes/Academic Notes - Durham University.md",
     "My Journey with Physics.md",
-    "notes/Sri Sathya Sai Institute of Higher Learning.md",
-    "notes/Symmetry of metric.md",
+    "Student.md",
     "index.md",
-    "notes/Academic Notes.md",
-    "notes/Integration on Manifolds.md",
+    "attachments/Pasted image 20250114210950.png",
+    "attachments/Pasted image 20250114210945.png",
+    "notes/Astroparticle Physics.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Michaelmas (Autumn) Term.md",
+    "notes/Compton Scattering.md",
+    "notes/QED Lagrangian and Feynman Rules.md",
+    "notes/Quantum Electrodynamics.md",
+    "notes/Electron-Muon Scattering.md",
+    "notes/Mandelstam variables.md",
+    "notes/Cosmology - I.md",
+    "notes/Dirac Matrices.md",
+    "notes/Einstein’s Equations in Cosmology.md",
+    "notes/Geodesics, Horizons and Redshifts.md",
+    "notes/Homogeneous and Isotropic.md",
+    "notes/Modern Cosmology.md",
+    "notes/QED at Tree Level.md",
+    "notes/Electron-Positron Annihilation.md",
+    "notes/Møller Scattering.md",
+    "notes/Crossing Symmetry.md",
     "notes/Group Theory.md",
-    "Sing.md",
-    "notes/2022-2023.md",
-    "notes/Why SSSIHL.md",
-    "notes/Sai Student.md",
-    "notes/Programmes.md",
-    "notes/Achievements.md",
-    "notes/Curvature.md",
-    "notes/Geodesics.md",
-    "notes/Covariant Derivative.md",
-    "notes/Metric.md",
-    "notes/Manifolds and Tensors.md",
-    "notes/Tensors.md",
     "attachments/Pasted image 20241128101127.png",
     "attachments/Pasted image 20241128101018.png",
-    "attachments/Pasted image 20241128091251.png",
-    "attachments/Pasted image 20241128091013.png",
-    "attachments/Pasted image 20241127124820.png",
-    "attachments/Pasted image 20241117150820.png",
-    "attachments/Pasted image 20241117131158.png",
-    "attachments/Pasted image 20241117131153.png",
-    "attachments/Lightcone.light.svg",
-    "attachments/Lightcone.dark.svg",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",

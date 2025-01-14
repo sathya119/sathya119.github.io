@@ -7,7 +7,6 @@ Since this is a conservative force,
 $$\vec{F}=-m\vec\nabla\phi\;\;\;\;\;\;\;\;\;\;\; \text{with }\phi=-\frac{GM}{r}$$
 	We can think of this as a solution of Poisson’s Equation with a delta function source, 
 	$$\nabla^2\phi=4\pi GM\delta^3(\vec{x})$$
-	
 	In general, for a mass density ρ, 
 	
 	$$\nabla^2\phi=4\pi G\rho$$
