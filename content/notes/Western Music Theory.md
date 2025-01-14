@@ -1,0 +1,1 @@
+Let me start by saying that I am very new Western Music Theory. If you are too, join me in learning! If you are a pro, please reach out to me and correct any wrong that I’ve written here.
