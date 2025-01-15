@@ -2,7 +2,7 @@ You’re new to Carnatic Music Theory? Well, you might be in the right place bec
 
 >Not to brag :P I have learned Carnatic Music (singing and theory) for 17+ years. Hence, there is some credibility in what I speak.
 
-Nevertheless, if you know you way around Carnatic Music and find something wrong, please do reach out to me so that I can correct it!
+Nevertheless, if you know your way around Carnatic Music and find something wrong, please do reach out to me so that I can correct it!
 
 Let’s jump right in! You can check out [[Carnatic Music]] for some non-theoretical stuff and for more about the history and other jazz.
 

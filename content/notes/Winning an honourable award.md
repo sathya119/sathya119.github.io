@@ -1,4 +1,4 @@
-This is a recurring daydream, and has stuck with me ever since I have heard about an honour like the Bharat Ratna or a Nobel Prize.
+This is a recurring daydream, and has stuck with me ever since I heard about an honour like the Bharat Ratna or a Nobel Prize.
 
 >Now dear reader, do not act like you have never daydreamed about this. You would have AT LEAST dreamt about this moment in your sleep ;)
 
