@@ -1,3 +1,3 @@
-- [[About Physics]]
+- [[About Science]]
 - [[About Life]]
 - [[General]]

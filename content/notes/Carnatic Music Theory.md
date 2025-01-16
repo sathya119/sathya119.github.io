@@ -9,5 +9,6 @@ Let’s jump right in! You can check out [[Carnatic Music]] for some non-theoret
 I have written this in a hierarchical manner, meaning, as you go deeper into the pages, you will learn more an more about the topic. If you want a bird’s eye view of the entire theory, then just stick to the first few pages under each topic.
 
 - [[What is a Swara]]?
+- [[What is a Shruti]]?
 - [[What is a Raga]]?
 - [[What is a Tala]]?

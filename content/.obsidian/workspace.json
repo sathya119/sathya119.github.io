@@ -24,21 +24,35 @@
             }
           },
           {
-            "id": "71620e6016e8971b",
+            "id": "19ee5bbae9b24827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Winning an honourable award.md",
+                "file": "notes/Astroparticle Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Winning an honourable award"
+              "title": "Astroparticle Physics"
+            }
+          },
+          {
+            "id": "36ce3bfeb7eb657e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Carnatic Music Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Carnatic Music Theory"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Winning an honourable award.md"
+                "file": "notes/Carnatic Music Theory.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Winning an honourable award"
+              "title": "Outline of Carnatic Music Theory"
             }
           }
         ],
@@ -195,34 +209,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "71620e6016e8971b",
+  "active": "36ce3bfeb7eb657e",
   "lastOpenFiles": [
-    "notes/Just straight up daydreaming.md",
-    "Daydream.md",
-    "index.md",
-    "Sing.md",
+    "notes/What is a Shruti.md",
+    "notes/Notations - Shruti.md",
+    "notes/Tanpura.md",
+    "attachments/Pasted image 20250115213431.png",
+    "attachments/Pasted image 20250115213412.png",
     "notes/Carnatic Music Theory.md",
-    "notes/Sai Student.md",
+    "Sing.md",
+    "index.md",
+    "notes/Astroparticle Physics.md",
+    "Daydream.md",
+    "notes/Random Thoughts.md",
+    "notes/About Science.md",
+    "notes/Just straight up daydreaming.md",
+    "notes/Having six-pack abs.md",
+    "notes/Being a victim to a road accident.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Academic Notes - Durham University.md",
+    "My Journey with Physics.md",
     "Student.md",
+    "notes/Winning an honourable award.md",
+    "notes/Sai Student.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "notes/Why SSSIHL.md",
     "notes/Skills.md",
     "notes/Programmes.md",
     "notes/Achievements.md",
     "notes/Chinese Classical.md",
-    "notes/Western Music Theory.md",
-    "notes/Science.md",
-    "notes/How does music affect the BMS.md",
-    "notes/Winning an honourable award.md",
-    "My Journey with Physics.md",
-    "notes/Random Thoughts.md",
-    "notes/About Physics.md",
-    "notes/Atmons - The real God Particle.md",
-    "notes/Do we really see colours as others do.md",
-    "notes/Academic Notes - Durham University.md",
-    "notes/Epiphany (Spring) Term.md",
-    "notes/Astroparticle Physics.md",
-    "notes/Motivation for Dark Matter.md",
     "attachments/Pasted image 20250114213431.png",
     "attachments/Pasted image 20250114211551.png",
     "attachments/Pasted image 20250114211037.png",
@@ -231,8 +246,6 @@
     "attachments/Pasted image 20241128091013.png",
     "attachments/Pasted image 20250114210950.png",
     "attachments/Pasted image 20250114210945.png",
-    "attachments/Pasted image 20241128101127.png",
-    "attachments/Pasted image 20241128101018.png",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",
