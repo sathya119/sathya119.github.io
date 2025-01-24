@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Building the Lagrangian of QCD.md",
+                "file": "notes/The Colour Group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Building the Lagrangian of QCD"
+              "title": "The Colour Group"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Building the Lagrangian of QCD.md"
+                "file": "notes/The Colour Group.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Building the Lagrangian of QCD"
+              "title": "Outline of The Colour Group"
             }
           }
         ],
@@ -197,14 +197,14 @@
   },
   "active": "19ee5bbae9b24827",
   "lastOpenFiles": [
-    "notes/Fundamentals of QCD.md",
-    "notes/Building the Lagrangian of QCD.md",
-    "notes/Colour Algebra.md",
-    "notes/The Quark Model.md",
     "notes/Birth of QCD.md",
-    "notes/Quantum Chromodynamics.md",
-    "notes/The Colour Group.md",
+    "notes/The Quark Model.md",
     "notes/The Eightfold Way.md",
+    "notes/Quantum Chromodynamics.md",
+    "notes/Fundamentals of QCD.md",
+    "notes/Colour Algebra.md",
+    "notes/Building the Lagrangian of QCD.md",
+    "notes/The Colour Group.md",
     "notes/QCD at Leading Order & Renormalisation.md",
     "attachments/Pasted image 20250120155233.png",
     "attachments/Pasted image 20250120154924.png",

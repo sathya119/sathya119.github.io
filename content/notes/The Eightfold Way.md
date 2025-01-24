@@ -1,2 +1,3 @@
 New hadrons (baryons & mesons) were found to have strange properties: they were easily created, often in pairs and decayed slower than expected, despite their large mass. When these hadrons were assigned a strangeness quantum number, their spectrums exhibited a pattern. This organisational principle, called the Eightfold Way, provided a hint of the group structure underlying strong interactions.
+
 ![[Pasted image 20250120154814.png]]
