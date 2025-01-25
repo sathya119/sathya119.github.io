@@ -94,6 +94,7 @@ The gauge-fixing term breaks gauge invariance, allowing unphysical modes to prop
 The ghost field c is a scalar, anti-commuting (Grassman) and transforms in the adjoint representation of SU(Nc), and introduces unphysical modes that cancel those left by the gauge-fixing term.
 
 <u>Note:</u> $$\delta A_\mu^a=g_sf^{abc}\delta\theta^b A_\mu^c+\partial_\mu(\delta\theta^a)$$
+
 **Covariant Gauge** ($$R_\xi$$ gauge)
 
 Defined by $$f^a[A_\mu]=\partial^\mu A^a_\mu$$
