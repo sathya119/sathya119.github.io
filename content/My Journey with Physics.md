@@ -8,9 +8,8 @@ longform:
 title: Physics
 tags: 
 ---
-Just my weird obsession with Physics and me trying to explain it to my 5-year-old mind.
+Just my obsession with Physics and me trying to explain it to my 5-year-old mind.
 
 - [[Academic Notes - Durham University]]
 - [[Random Thoughts]]
-- 
 

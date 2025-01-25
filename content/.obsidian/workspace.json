@@ -29,30 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student.md",
+                "file": "notes/Building the Lagrangian of QCD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Student"
-            }
-          },
-          {
-            "id": "8650ac2d20b2395e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/What is a Swara.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What is a Swara"
+              "title": "Building the Lagrangian of QCD"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/What is a Swara.md"
+                "file": "notes/Building the Lagrangian of QCD.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of What is a Swara"
+              "title": "Outline of Building the Lagrangian of QCD"
             }
           }
         ],
@@ -209,26 +195,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8650ac2d20b2395e",
+  "active": "19ee5bbae9b24827",
   "lastOpenFiles": [
+    "My Journey with Physics.md",
+    "notes/Academic Notes - Durham University.md",
+    "notes/Michaelmas (Autumn) Term.md",
+    "notes/Epiphany (Spring) Term.md",
+    "Student.md",
+    "index.md",
+    "notes/Building the Lagrangian of QCD.md",
+    "notes/Fundamentals of QCD.md",
+    "notes/Quantum Chromodynamics.md",
+    "Sing.md",
+    "notes/Carnatic Music Theory.md",
+    "notes/What is a Swara.md",
     "notes/What do Swara names mean.md",
     "notes/Swaras and Chakras.md",
-    "notes/What is a Swara.md",
     "notes/What is so special about 440 Hz.md",
     "attachments/Pasted image 20250125013447.png",
     "notes/Notations - Shruti.md",
     "notes/What is a Shruti.md",
-    "notes/Carnatic Music Theory.md",
     "notes/Tanpura.md",
-    "Sing.md",
-    "index.md",
-    "Student.md",
-    "My Journey with Physics.md",
-    "notes/Academic Notes - Durham University.md",
-    "notes/Epiphany (Spring) Term.md",
-    "notes/Quantum Chromodynamics.md",
-    "notes/Fundamentals of QCD.md",
-    "notes/Building the Lagrangian of QCD.md",
     "notes/Birth of QCD.md",
     "notes/The Colour Group.md",
     "notes/The Quark Model.md",
@@ -242,7 +229,6 @@
     "attachments/Pasted image 20250115213431.png",
     "attachments/Pasted image 20250115213412.png",
     "Daydream.md",
-    "notes/Random Thoughts.md",
     "attachments/Pasted image 20250114213431.png",
     "attachments/Pasted image 20250114211551.png",
     "attachments/Pasted image 20250114211037.png",

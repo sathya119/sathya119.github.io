@@ -66,4 +66,37 @@ $$\mathcal{L}_{classical}=\sum_q \bar\psi_q(i\not D-m_q)\psi-\frac{1}{4}F_{\mu\n
 
 **2. Gauge fixing and Ghost terms**
 
+The equation of motion for the gluon can be derived from Euler-Lagrange equation
+
+$$\partial_\mu(\frac{\partial\mathcal{L}}{\partial(\partial_\mu X)})-\frac{\partial\mathcal{L}}{\partial X}=0\;\;\;\;\text{ with } X=A_\nu^a$$
+
+If we try to calculate with the classical Lagrangian, we get 
+
+$$(g^{\mu\nu}\partial^2-\partial^\mu\partial^\nu)A^a_\nu=0$$
+
+This means that we cannot straightforwardly define a gluon (or photon) propagator. This is because of a gauge symmetry leading to modes with 0-eigenvalue 
+
+$$A_\nu^a\rightarrow A_\nu^a+\partial_\mu\Lambda$$
+
+$$\implies(g^{\mu\nu}\Box-\partial^\mu\partial^\nu)(\partial_\mu\Lambda)\equiv0$$
+
+The path integral over-counts the configurations for the gauge field. The solution is to impose a gauge-fixing condition $$f_\omega^a[A_\mu]$$ which selects a particular gauge. This is done by the Fadeev-Popov procedure.
+
+Now, $$\mathcal{L}_{QCD}=\mathcal{L}_{classical}+\mathcal{L}_{fix}+\mathcal{L}_{ghost}$$
+
+$$\mathcal{L}_{fix}=-\frac{1}{2\xi}(f_\omega^a[A_\mu])^2$$
+
+$$\mathcal{L}_{ghost}=-\bar c^a(x)M^{ab}(x)c^b(x)$$
+
+Where $$\frac{\delta f_\omega^a[A_\mu]}{\delta \theta^b(y)}=M^{ab}(x)\delta(x-y)$$
+
+The gauge-fixing term breaks gauge invariance, allowing unphysical modes to propagate.
+The ghost field c is a scalar, anti-commuting (Grassman) and transforms in the adjoint representation of SU(Nc), and introduces unphysical modes that cancel those left by the gauge-fixing term.
+
+<u>Note:</u> $$\delta A_\mu^a=g_sf^{abc}\delta\theta^b A_\mu^c+\partial_\mu(\delta\theta^a)$$
+	**1. Covariant Gauge** ($$R_\xi$$ gauge)
+	
+	Defined by $$f^a[A_\mu]=\partial^\mu A^a_\mu$$
+	
+	Using 
 
