@@ -29,16 +29,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/The Colour Group.md",
+                "file": "Student.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Colour Group"
+              "title": "Student"
+            }
+          },
+          {
+            "id": "8650ac2d20b2395e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/What is a Swara.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What is a Swara"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/The Colour Group.md"
+                "file": "notes/What is a Swara.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Colour Group"
+              "title": "Outline of What is a Swara"
             }
           }
         ],
@@ -195,44 +209,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19ee5bbae9b24827",
+  "active": "8650ac2d20b2395e",
   "lastOpenFiles": [
-    "notes/Birth of QCD.md",
-    "notes/The Quark Model.md",
-    "notes/The Eightfold Way.md",
+    "notes/What do Swara names mean.md",
+    "notes/Swaras and Chakras.md",
+    "notes/What is a Swara.md",
+    "notes/What is so special about 440 Hz.md",
+    "attachments/Pasted image 20250125013447.png",
+    "notes/Notations - Shruti.md",
+    "notes/What is a Shruti.md",
+    "notes/Carnatic Music Theory.md",
+    "notes/Tanpura.md",
+    "Sing.md",
+    "index.md",
+    "Student.md",
+    "My Journey with Physics.md",
+    "notes/Academic Notes - Durham University.md",
+    "notes/Epiphany (Spring) Term.md",
     "notes/Quantum Chromodynamics.md",
     "notes/Fundamentals of QCD.md",
-    "notes/Colour Algebra.md",
     "notes/Building the Lagrangian of QCD.md",
+    "notes/Birth of QCD.md",
     "notes/The Colour Group.md",
+    "notes/The Quark Model.md",
+    "notes/The Eightfold Way.md",
+    "notes/Colour Algebra.md",
     "notes/QCD at Leading Order & Renormalisation.md",
     "attachments/Pasted image 20250120155233.png",
     "attachments/Pasted image 20250120154924.png",
     "attachments/Pasted image 20250120154814.png",
-    "notes/Epiphany (Spring) Term.md",
     "notes/Astroparticle Physics.md",
-    "notes/What is a Shruti.md",
-    "notes/Carnatic Music Theory.md",
-    "Sing.md",
-    "notes/Notations - Shruti.md",
-    "notes/Tanpura.md",
     "attachments/Pasted image 20250115213431.png",
     "attachments/Pasted image 20250115213412.png",
-    "index.md",
     "Daydream.md",
     "notes/Random Thoughts.md",
-    "notes/About Science.md",
-    "notes/Just straight up daydreaming.md",
-    "notes/Having six-pack abs.md",
-    "notes/Being a victim to a road accident.md",
-    "notes/Academic Notes - Durham University.md",
-    "My Journey with Physics.md",
-    "Student.md",
     "attachments/Pasted image 20250114213431.png",
     "attachments/Pasted image 20250114211551.png",
     "attachments/Pasted image 20250114211037.png",
     "attachments/Pasted image 20250114211143.png",
-    "attachments/Pasted image 20250114211424.png",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",

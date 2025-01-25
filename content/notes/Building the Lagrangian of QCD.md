@@ -35,6 +35,7 @@ To achieve this property, we introduce the gluon field A and defining
 $$A_\mu\equiv A_\mu^at^a$$
 
 $$D_\mu\equiv \partial_\mu+ig_s\underbrace{A^a_\mu t^a}_{A_\mu}$$
+
 We will require that the gluons transform according to the adjoint representation of SU(Nc) under global gauge transformations. We also demand that the gluon field has the following local transformation property 
 
 $$A_\mu(x)\rightarrow A_\mu'(x)=U(x)A_\mu(x)U^\dagger(x)+\frac{i}{g_s}(\partial_\mu U(x))U^\dagger(x)$$

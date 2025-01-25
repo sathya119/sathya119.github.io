@@ -1,0 +1,7 @@
+- Sa - Muladhara
+- Ri - Swadhisthana
+- Ga - Manipura
+- Ma - Anahata
+- Pa - Vishuddha
+- Dha - Agna
+- Ni - Sahasrara
