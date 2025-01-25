@@ -94,9 +94,46 @@ The gauge-fixing term breaks gauge invariance, allowing unphysical modes to prop
 The ghost field c is a scalar, anti-commuting (Grassman) and transforms in the adjoint representation of SU(Nc), and introduces unphysical modes that cancel those left by the gauge-fixing term.
 
 <u>Note:</u> $$\delta A_\mu^a=g_sf^{abc}\delta\theta^b A_\mu^c+\partial_\mu(\delta\theta^a)$$
-	**1. Covariant Gauge** ($$R_\xi$$ gauge)
-	
-	Defined by $$f^a[A_\mu]=\partial^\mu A^a_\mu$$
-	
-	Using 
+**Covariant Gauge** ($$R_\xi$$ gauge)
 
+Defined by $$f^a[A_\mu]=\partial^\mu A^a_\mu$$
+
+Using these, we obtain
+
+$$\mathcal{L}_{fix}=-\frac{1}{2\xi}(\partial^\mu A_\mu^a)^2$$
+
+$$\mathcal{L}_{ghost}=-\bar c^a(x)\partial^2(x)c^a(x)-g_sf^{abc}\bar c^a\partial^\mu(A_\mu^c c^b)$$
+
+The second term introduces a coupling between the ghosts and gluons (not present in QED since the ghosts decouple completely).
+
+Hence, the equation of motion becomes
+
+$$(g^{\mu\nu}\partial^2-(1-\frac{1}{\xi})\partial^\mu\partial^\nu)A^a_\nu(x)=0$$
+
+Fourier transforming to momentum space and inverting, we obtain the gluon propagator:
+
+$$G^{A^a_\mu A^b_\nu}(p)=\frac{-i\delta^{ab}}{p^2+i\epsilon}(g^{\mu\nu}-(1-\xi)\frac{p_\mu p_\nu}{p^2+i\epsilon})$$
+
+The ξ parameter can be 1 (Feynman Gauge), 0 (Landau Gauge), infinity (Unitary Gauge) or any arbitrary number that drops out of gauge invariant quantities.
+
+**Axial Gauge**
+
+Defined by $$f^a[A_\mu]=n^\mu A^a_\mu$$
+
+where n is an arbitrary vector (hence the gauge is not covariant).
+
+As we did for the Covariant gauge, we obtain 
+
+$$\mathcal{L}_{fix}=-\frac{1}{2\xi}(n^\mu A_\mu^a)^2$$
+
+$$\mathcal{L}_{ghost}=-n^\mu\bar c^a(x)\partial_\mu(x)c^a(x)-g_sf^{abc}n^\mu\bar c^ac^bA_\mu^c$$
+
+The gluon propagator is given by 
+
+$$G^{A^a_\mu A^b_\nu}(p)=\frac{i\delta^{ab}}{p^2+i\epsilon}(g^{\mu\nu}-\frac{p_\mu n_\nu+p_\nu n_\mu}{(p.n)}+\frac{(n^2+\xi p^2)p_\mu p_\nu}{(p.n)^2})$$
+
+Common choices of gauge are
+- $$\xi\rightarrow0$$ - axial gauge
+- $$n^2=0$$ - light-cone gauge
+
+In axial gauges, the ghost decouples from the theory and we can compute without including ghosts; the axial gauge is said to be ghost free. In a gauge with both choices of gauge, the third term vanishes and only the two physical modes propagate. 
