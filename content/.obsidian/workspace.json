@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Student"
             }
-          },
-          {
-            "id": "fab4957023efd9f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Student.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Student"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Student.md"
+                "file": "notes/2022-2023.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Student"
+              "title": "Outline of 2022-2023"
             }
           }
         ],
@@ -209,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fab4957023efd9f7",
+  "active": "5ebc7f06b4cb5c3b",
   "lastOpenFiles": [
-    "index.md",
+    "templates/note.md",
     "Student.md",
+    "index.md",
     "Dance.md",
     "notes/Atmons - The real God Particle.md",
     "notes/About Science.md",
@@ -239,7 +226,6 @@
     "notes/Swaras and Chakras.md",
     "notes/What is so special about 440 Hz.md",
     "attachments/Pasted image 20250125013447.png",
-    "notes/Notations - Shruti.md",
     "attachments/Pasted image 20250120155233.png",
     "attachments/Pasted image 20250120154924.png",
     "attachments/Pasted image 20250120154814.png",
