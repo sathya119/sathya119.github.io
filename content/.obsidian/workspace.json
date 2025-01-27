@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Discoveries of the Neutrino.md",
+                "file": "notes/Neutrino Oscillations in Vacuum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discoveries of the Neutrino"
+              "title": "Neutrino Oscillations in Vacuum"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Discoveries of the Neutrino.md"
+                "file": "notes/Neutrino Oscillations in Vacuum.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Discoveries of the Neutrino"
+              "title": "Outline of Neutrino Oscillations in Vacuum"
             }
           }
         ],
@@ -197,19 +197,27 @@
   },
   "active": "19ee5bbae9b24827",
   "lastOpenFiles": [
+    "attachments/atm neutrinos.md",
+    "attachments/atm neutrinos.light.png",
+    "attachments/atm neutrinos.light.svg",
+    "attachments/atm neutrinos.dark.png",
+    "attachments/atm neutrinos.dark.svg",
+    "notes/Neutrino Oscillations in Vacuum.md",
     "notes/Neutrino Physics.md",
+    "notes/History, Electroweak interactions and Neutrino Scattering.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Neutrino Sources.md",
     "notes/Neutrinos in SM.md",
-    "attachments/Neutrino-Z.md",
+    "attachments/Pasted image 20250127221844.png",
+    "attachments/Pasted image 20250127221829.png",
     "notes/Discoveries of the Neutrino.md",
+    "attachments/Neutrino-Z.md",
     "attachments/Neutrino-Z.light.png",
     "attachments/Neutrino-Z.dark.png",
     "attachments/Neutrino-Z.light.svg",
     "attachments/Neutrino-Z.dark.svg",
     "notes/Spark Chamber.md",
     "notes/Cowan-Reines experiment.md",
-    "attachments/Pasted image 20250127195341.png",
-    "attachments/Pasted image 20250127194140.png",
-    "notes/Epiphany (Spring) Term.md",
     "notes/Academic Notes - Durham University.md",
     "My Journey with Physics.md",
     "Student.md",
@@ -224,15 +232,6 @@
     "notes/Just straight up daydreaming.md",
     "notes/Arangetram.md",
     "Sing.md",
-    "Write.md",
-    "notes/Building the Lagrangian of QCD.md",
-    "notes/Fundamentals of QCD.md",
-    "notes/The Strong CP Problem.md",
-    "notes/Feynman Rules - Covariant Gauges.md",
-    "attachments/Pasted image 20250125202437.png",
-    "attachments/Pasted image 20250125202419.png",
-    "attachments/Pasted image 20250125013447.png",
-    "attachments/Pasted image 20250120155233.png",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",
