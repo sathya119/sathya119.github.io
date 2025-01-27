@@ -13,8 +13,12 @@ Gaillard, Lederman, Schwartz and Steinberger built a [[Spark Chamber]] to detect
 
 It was found that neutrinos couple to weak gauge bosons and will modify their decay width. The width measurement of Z bosons by the Large Electron Positron collider (LEP) confirmed 3 generations of neutrinos.
 
-![[Neutrino-Z]]
+![[Neutrino-Z.dark.png]]
 
 $$N_\nu=\frac{\Gamma_{inv}}{\Gamma_\nu}=\frac{\Gamma_{total}-\Gamma_{vis}}{\Gamma_\nu}=\frac{\Gamma_{total}-\Gamma_{hadrons}-3\Gamma_{leptons}}{\Gamma_\nu}$$
 
+
+The Tau lepton was discovered: $$e^++e^-\rightarrow\tau^++\tau^-\rightarrow e^\pm+\mu^\pm+4\nu$$
+
+It was confirmed by the [[DONUT experiment]] that the products had 4 neutrinos and the [[OPERA experiment]] observed about 10 tau neutrinos!
 

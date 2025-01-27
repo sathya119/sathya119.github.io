@@ -9,4 +9,6 @@ $$\sum_i m_{\nu_i}\lesssim1\;eV$$
 Neutrinos in the [[Standard Model]] are described by the Weyl spinors with left chirality: $$P_L=\frac{1}{2}(1-\gamma^5)$$
 
 - [[Discoveries of the Neutrino]]
+- [[Neutrinos in SM]]
+- 
 
