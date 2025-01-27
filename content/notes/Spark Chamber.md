@@ -1,0 +1,1 @@
+Chambers of a stack of metal plates placed in a sealed box filled with a gas such as helium, neon.
