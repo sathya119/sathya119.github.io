@@ -13,7 +13,7 @@ Gaillard, Lederman, Schwartz and Steinberger built a [[Spark Chamber]] to detect
 
 It was found that neutrinos couple to weak gauge bosons and will modify their decay width. The width measurement of Z bosons by the Large Electron Positron collider (LEP) confirmed 3 generations of neutrinos.
 
-![[Neutrino-Z.dark.png]]
+![[Neutrino-Z.dark.svg]]
 
 $$N_\nu=\frac{\Gamma_{inv}}{\Gamma_\nu}=\frac{\Gamma_{total}-\Gamma_{vis}}{\Gamma_\nu}=\frac{\Gamma_{total}-\Gamma_{hadrons}-3\Gamma_{leptons}}{\Gamma_\nu}$$
 

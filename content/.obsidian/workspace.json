@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "19ee5bbae9b24827",
+            "id": "a8e2c5a399d82443",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Neutrino Oscillations in Vacuum.md",
+                "file": "notes/Colour Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neutrino Oscillations in Vacuum"
+              "title": "Colour Algebra"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Neutrino Oscillations in Vacuum.md"
+                "file": "notes/Colour Algebra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Neutrino Oscillations in Vacuum"
+              "title": "Outline of Colour Algebra"
             }
           }
         ],
@@ -195,22 +195,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19ee5bbae9b24827",
+  "active": "a8e2c5a399d82443",
   "lastOpenFiles": [
+    "notes/Fundamentals of QCD.md",
+    "notes/Feynman Rules - Covariant Gauges.md",
+    "notes/Quantum Chromodynamics.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Academic Notes - Durham University.md",
+    "My Journey with Physics.md",
+    "Student.md",
+    "index.md",
+    "notes/Neutrino Oscillations in Vacuum.md",
+    "notes/Neutrino Physics.md",
+    "notes/History, Electroweak interactions and Neutrino Scattering.md",
+    "notes/Discoveries of the Neutrino.md",
     "attachments/atm neutrinos.md",
     "attachments/atm neutrinos.light.png",
     "attachments/atm neutrinos.light.svg",
     "attachments/atm neutrinos.dark.png",
     "attachments/atm neutrinos.dark.svg",
-    "notes/Neutrino Oscillations in Vacuum.md",
-    "notes/Neutrino Physics.md",
-    "notes/History, Electroweak interactions and Neutrino Scattering.md",
-    "notes/Epiphany (Spring) Term.md",
     "notes/Neutrino Sources.md",
     "notes/Neutrinos in SM.md",
     "attachments/Pasted image 20250127221844.png",
     "attachments/Pasted image 20250127221829.png",
-    "notes/Discoveries of the Neutrino.md",
     "attachments/Neutrino-Z.md",
     "attachments/Neutrino-Z.light.png",
     "attachments/Neutrino-Z.dark.png",
@@ -218,10 +225,6 @@
     "attachments/Neutrino-Z.dark.svg",
     "notes/Spark Chamber.md",
     "notes/Cowan-Reines experiment.md",
-    "notes/Academic Notes - Durham University.md",
-    "My Journey with Physics.md",
-    "Student.md",
-    "index.md",
     "Daydream.md",
     "notes/Random Thoughts.md",
     "notes/About Science.md",
@@ -230,8 +233,6 @@
     "notes/2022-2023.md",
     "templates/note.md",
     "notes/Just straight up daydreaming.md",
-    "notes/Arangetram.md",
-    "Sing.md",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",
