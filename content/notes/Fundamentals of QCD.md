@@ -12,4 +12,6 @@ where the first piece contains all potential terms and interaction terms, second
 - [[The Strong CP Problem]]
 - [[Feynman Rules - Covariant Gauges]]
 - [[Colour Algebra]]
+- [[Graphical Representation of Colour group Algebra]]
+- [[notes/Organising Colour]]
 - 
