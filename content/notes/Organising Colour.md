@@ -28,7 +28,7 @@ $$\sum_{colours}|A|^2=\sum_{colours}A_i^\dagger C_i^\dagger C_jA_j=A_i^\dagger C
 	
 	By defining the colour matrix $$C_{ij}=C_i^\dagger C_j$$, we can evaluate the colour interferences pictorially using the graphical rules introduced in [[Graphical Representation of Colour group Algebra]].
 	
-	(insert image)
+	![[colour interferences.light.svg]]
 	
 	With $$C_{21}=C_{12}=-T_FC_F$$ by symmetry, the full matrix is given by,
 	
