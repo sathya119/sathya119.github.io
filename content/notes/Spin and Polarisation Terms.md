@@ -33,7 +33,7 @@ This justifies the polarisation sum replacement rule, as the terms in the sum po
 Analogous to QED, considering the scattering $$q\bar q\rightarrow gg$$.
 
 ![[feynman diagrams for qq-gg.light.svg]]
-
+(Re-labelling need)
 The amplitude can be written as:
 
 $$M_{q\bar q\rightarrow gg}=M_{q\bar q\rightarrow gg}^{\mu_1\mu_2}\epsilon^*_{\mu_1}(k_1,\lambda_1)\epsilon^*_{\mu_2}(k_2,\lambda_2)$$
