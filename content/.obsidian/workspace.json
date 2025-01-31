@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Organising Colour.md",
+                "file": "notes/Spin and Polarisation Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organising Colour"
+              "title": "Spin and Polarisation Terms"
             }
           }
         ],
@@ -166,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Organising Colour.md"
+                "file": "notes/Spin and Polarisation Terms.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Organising Colour"
+              "title": "Outline of Spin and Polarisation Terms"
             }
           }
         ],
@@ -197,14 +197,21 @@
   },
   "active": "a8e2c5a399d82443",
   "lastOpenFiles": [
+    "notes/QCD at Leading Order & Renormalisation.md",
+    "notes/Spin and Polarisation Terms.md",
+    "Spin/Polarisation Terms.md",
+    "Spin",
+    "notes/R-ratio.md",
+    "notes/Quantum Chromodynamics.md",
+    "notes/Fundamentals of QCD.md",
+    "notes/Graphical Representation of Colour Group Algebra.md",
+    "notes/Organising Colour.md",
     "attachments/colour interferences.md",
     "attachments/feynman diagrams for qq-gg.md",
-    "notes/Organising Colour.md",
     "attachments/colour interferences.light.png",
     "attachments/colour interferences.light.svg",
     "attachments/colour interferences.dark.png",
     "attachments/colour interferences.dark.svg",
-    "notes/Fundamentals of QCD.md",
     "notes/Colour Algebra.md",
     "attachments/feynman diagrams for qq-gg.light.png",
     "attachments/feynman diagrams for qq-gg.light.svg",
@@ -213,9 +220,7 @@
     "attachments/organising colour.md",
     "attachments/organising colour.light.png",
     "attachments/organising colour.light.svg",
-    "notes/Graphical Representation of Colour group Algebra.md",
     "notes/Feynman Rules - Covariant Gauges.md",
-    "notes/Quantum Chromodynamics.md",
     "notes/Epiphany (Spring) Term.md",
     "notes/Academic Notes - Durham University.md",
     "My Journey with Physics.md",
@@ -229,9 +234,6 @@
     "notes/Neutrino Sources.md",
     "notes/Neutrinos in SM.md",
     "attachments/Neutrino-Z.md",
-    "notes/Spark Chamber.md",
-    "notes/Cowan-Reines experiment.md",
-    "Daydream.md",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",
@@ -240,7 +242,6 @@
     "Music",
     "templates",
     "Physics",
-    "Music/Music",
-    "Physics"
+    "Music/Music"
   ]
 }

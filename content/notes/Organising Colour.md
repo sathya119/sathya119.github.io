@@ -26,7 +26,7 @@ $$\sum_{colours}|A|^2=\sum_{colours}A_i^\dagger C_i^\dagger C_jA_j=A_i^\dagger C
 	
 	$$A=C_1A_1+C_2A_2+C_3A_3=C_1(A_1-A_3)+C_2(A_2+A_3)$$
 	
-	By defining the colour matrix $$C_{ij}=C_i^\dagger C_j$$, we can evaluate the colour interferences pictorially using the graphical rules introduced in [[Graphical Representation of Colour group Algebra]].
+	By defining the colour matrix $$C_{ij}=C_i^\dagger C_j$$, we can evaluate the colour interferences pictorially using the graphical rules introduced in [[Graphical Representation of Colour Group Algebra]].
 	
 	![[colour interferences.light.svg]]
 	
