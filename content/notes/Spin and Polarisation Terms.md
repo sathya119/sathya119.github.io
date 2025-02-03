@@ -33,7 +33,7 @@ This justifies the polarisation sum replacement rule, as the terms in the sum po
 Analogous to QED, considering the scattering $$q\bar q\rightarrow gg$$.
 
 ![[feynman diagrams for qq-gg.light.svg]]
-(Re-labelling need)
+(Re-labelling needed)
 The amplitude can be written as:
 
 $$M_{q\bar q\rightarrow gg}=M_{q\bar q\rightarrow gg}^{\mu_1\mu_2}\epsilon^*_{\mu_1}(k_1,\lambda_1)\epsilon^*_{\mu_2}(k_2,\lambda_2)$$
@@ -45,4 +45,3 @@ $$M_{q\bar q\rightarrow gg}^{\mu_1\mu_2}=(t^{a_2}t^{a_1})M_{\mu_1\mu_2}^{(1)}+(t
 $$=(t^{a_1}t^{a_2})\underbrace{[M_{\mu_1\mu_2}^{(1)}+M_{\mu_1\mu_2}^{(2)}]}_{=QED}+if^{a_1a_2a_3}t^{a_3}[-M_{\mu_1\mu_2}^{(1)}+M_{\mu_1\mu_2}^{(3)}]$$
 
 Hence, in QCD, $$k_{1,\mu_1}M_{q\bar q\rightarrow\gamma\gamma}^{\mu_1\mu_2}\not=k_{2,\mu_2}M_{q\bar q\rightarrow\gamma\gamma}^{\mu_1\mu_2}\not=0$$. Instead, the gluons are physical, i.e., if their polarisations are transverse, $$\epsilon_{\mu_1}k_1^{\mu_1}=\epsilon_{\mu_2}k_2^{\mu_2}=0$$
-
