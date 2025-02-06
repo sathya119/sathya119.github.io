@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "460001ef4184cc42",
+            "id": "84f5a8596c161b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Neutrino Oscillations in Vacuum.md",
+                "file": "notes/Cosmological Preliminaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neutrino Oscillations in Vacuum"
+              "title": "Cosmological Preliminaries"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ward",
+                "query": "metric",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Neutrino Oscillations in Vacuum.md",
+                "file": "notes/Cosmological Preliminaries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Neutrino Oscillations in Vacuum"
+              "title": "Outline of Cosmological Preliminaries"
             }
           }
         ],
@@ -199,20 +199,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "460001ef4184cc42",
+  "active": "84f5a8596c161b18",
   "lastOpenFiles": [
+    "notes/Modern Cosmology.md",
+    "notes/Birkhoff’s Theorem.md",
+    "notes/Einstein’s Equations.md",
+    "notes/Geodesics, Horizons and Redshifts.md",
+    "notes/Cosmological Preliminaries.md",
+    "notes/Freeze Out of Massive Species.md",
+    "notes/Astroparticle Physics.md",
+    "notes/Motivation for Dark Matter.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Neutrino Physics.md",
+    "notes/Academic Notes - Durham University.md",
+    "My Journey with Physics.md",
+    "Student.md",
+    "index.md",
+    "notes/Neutrino Oscillations in Vacuum.md",
     "attachments/cc int.md",
     "attachments/cc int.light.png",
     "attachments/cc int.light.svg",
     "attachments/cc int.dark.png",
     "attachments/cc int.dark.svg",
-    "notes/Neutrino Oscillations in Vacuum.md",
-    "notes/Neutrino Physics.md",
-    "notes/Epiphany (Spring) Term.md",
-    "notes/Academic Notes - Durham University.md",
-    "My Journey with Physics.md",
-    "Student.md",
-    "index.md",
     "notes/QCD at Lepton Colliders.md",
     "notes/QCD at Leading Order & Renormalisation.md",
     "notes/Spin and Polarisation Terms.md",
@@ -228,15 +236,8 @@
     "notes/Fundamentals of QCD.md",
     "notes/Graphical Representation of Colour Group Algebra.md",
     "notes/Organising Colour.md",
-    "attachments/colour interferences.md",
-    "attachments/feynman diagrams for qq-gg.md",
     "attachments/colour interferences.light.png",
     "attachments/colour interferences.light.svg",
-    "notes/Colour Algebra.md",
-    "attachments/organising colour.md",
-    "notes/Feynman Rules - Covariant Gauges.md",
-    "notes/History, Electroweak interactions and Neutrino Scattering.md",
-    "notes/Discoveries of the Neutrino.md",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
     "attachments/Ink",

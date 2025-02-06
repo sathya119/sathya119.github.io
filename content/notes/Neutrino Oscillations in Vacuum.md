@@ -24,7 +24,7 @@ $$\mathcal{L}_{CC}\supset\frac{-ig}{\sqrt2}\bar l_\alpha\gamma^\mu P_L\nu_\alpha
 
 U is the PMNS mixing matrix:
 
-$$\begin{pmatrix}\nu_e\\\nu_\mu\\\nu_\tau\end{pmatrix}=\underbrace{\begin{pmatrix} u_{e_1}&u_{e_2}&u_{e_3} \\ u_{\mu_1}&u_{\mu_2}&u_{\mu_3} \\ u_{\tau_1}&u_{\tau_2}&u_{\tau_3}\end{pmatrix}}_{PMNS matrix}\begin{pmatrix}\nu_1\\\nu_2\\\nu_3\end{pmatrix}$$
+$$\begin{pmatrix}\nu_e\\\nu_\mu\\\nu_\tau\end{pmatrix}=\underbrace{\begin{pmatrix} u_{e_1}&u_{e_2}&u_{e_3} \\ u_{\mu_1}&u_{\mu_2}&u_{\mu_3} \\ u_{\tau_1}&u_{\tau_2}&u_{\tau_3}\end{pmatrix}}_\text{PMNS matrix}\begin{pmatrix}\nu_1\\\nu_2\\\nu_3\end{pmatrix}$$
 
 For example, $$\ket{\nu_e}=u_{e_1}\ket{\nu_1}+u_{e_2}\ket{\nu_2}+u_{e_3}\ket{\nu_3}$$
 
@@ -37,4 +37,24 @@ $$\psi(x,t)=\phi(x)e^{iEt}$$
 The wavefunction evolves in time due to the phase shift and this allows for neutrino oscillations, i.e., the phenomenon of neutrino flavour transformation.
 
 **Two Neutrino Mixing**
+
+$$\ket{\nu_1(t)}=\ket{\nu_1}e^{i(p_1.x-E_1t)}$$
+
+$$\ket{\nu_2(t)}=\ket{\nu_2}e^{i(p_2.x-E_2t)}$$
+
+$$\begin{pmatrix}\nu_e\\\nu_\mu\end{pmatrix}=\begin{pmatrix}cos\theta&sin\theta\\-sin\theta&cos\theta\end{pmatrix}\begin{pmatrix}\nu_1\\\nu_2\end{pmatrix}$$
+
+$$U^\dagger U=\mathbb{1}_{2\times 2}$$
+
+Hence, $$U=\begin{pmatrix}cos\theta&sin\theta\\-sin\theta&cos\theta\end{pmatrix}$$
+
+In the two-neutrino case, consider that a $$\nu_e$$ is created at t=0. Then,
+
+$$\ket{\psi(0)}=\ket{\nu_e}=cos\theta\ket{\nu_1}+sin\theta\ket{\nu_2}$$
+
+At time t,
+
+$$\ket{\psi(L,t)}=cos\theta\ket{\nu_1}e^{-i\phi_1}+sin\theta\ket{\nu_2}e^{-i\phi_2}$$
+
+with $$\phi_i=-\vec{p_i}L+E_it$$
 
