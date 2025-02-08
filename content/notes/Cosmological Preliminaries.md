@@ -32,7 +32,7 @@ $$TdS=d(\rho V)+pdV=d((\rho+p)V)-Vdp=0$$
 
 The entropy density is therefore $$s=\frac{S}{V}=\frac{(\rho+p)}{V}$$.
 
-We define the yield as a fraction of the number density and entropy density as $$Y=\frac{n}{s}$$
+We define the #yield as a fraction of the number density and entropy density as $$Y=\frac{n}{s}$$
 
 The evolution of entropy density as a function of the temperature is given by
 
