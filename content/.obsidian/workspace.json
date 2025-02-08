@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Freeze Out of Relativistic Species.md",
+                "file": "notes/Freeze Out of Massive Species.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Freeze Out of Relativistic Species"
+              "title": "Freeze Out of Massive Species"
             }
           }
         ],
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Freeze Out of Relativistic Species.md",
+                "file": "notes/Freeze Out of Massive Species.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Freeze Out of Relativistic Species"
+              "title": "Outline of Freeze Out of Massive Species"
             }
           }
         ],
@@ -202,9 +202,11 @@
   "active": "84f5a8596c161b18",
   "lastOpenFiles": [
     "notes/Time evolution of number density.md",
+    "notes/WIMPs.md",
+    "notes/Freeze Out of Non-Relativistic Species.md",
+    "notes/Freeze Out of Relativistic Species.md",
     "notes/Freeze Out of Massive Species.md",
     "notes/Cosmological Preliminaries.md",
-    "notes/Freeze Out of Relativistic Species.md",
     "notes/Astroparticle Physics.md",
     "notes/Motivation for Dark Matter.md",
     "notes/Evidences at different scales.md",
@@ -233,9 +235,7 @@
     "attachments/feynman diagram for qq-rr.light.svg",
     "attachments/feynman diagram for qq-rr.dark.png",
     "attachments/feynman diagram for qq-rr.dark.svg",
-    "Spin/Polarisation Terms.md",
     "Spin",
-    "notes/R-ratio.md",
     "attachments/colour interferences.light.png",
     "attachments/colour interferences.light.svg",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",

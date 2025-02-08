@@ -1,0 +1,3 @@
+The relic density obtained in [[Freeze Out of Non-Relativistic Species]] implies that in order to reproduce the correct relic abundance, dark matter particles must have an annihilation cross-section of the order $$\langle\sigma v\rangle\approx 3\times 10^{-26}\;cm^3\;s^{-1}$$.
+
+We can consider a simple case where the DM particles self-annihilate into SM particles through the exchange of a gauge boson (like in s-channel). Then, the annihilation cross-section is of the order $$\langle\sigma v\rangle\sim G_F^2m^2_{WIMP}$$, where $$G_F=1.16\times10^{-5}\;GeV^{-2}$$ and the correct relic density is obtained for masses of the order of GeV.
