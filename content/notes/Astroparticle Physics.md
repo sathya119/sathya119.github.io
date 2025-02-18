@@ -2,4 +2,5 @@ Latest measurements indicate that a new non-baryonic cold DM constitutes about 2
 
 - [[Motivation for Dark Matter]]
 - [[Freeze Out of Massive Species]]
-- 
+- [[Direct DM Detection]]
+- [[Axions]]

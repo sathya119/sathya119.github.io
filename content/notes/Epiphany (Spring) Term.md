@@ -1,3 +1,6 @@
 - [[Quantum Chromodynamics]]
 - [[Astroparticle Physics]]
 - [[Neutrino Physics]]
+- [[Strings]]
+- [[Higgs Phenomenology]]
+- [[Flavour Physics]]

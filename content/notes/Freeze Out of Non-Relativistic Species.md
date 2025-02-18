@@ -24,7 +24,7 @@ $$\frac{1}{\Delta_{Y_\infty}}=\frac{1}{\Delta_{Y_f}}+\frac{\lambda}{x_f}(a+\frac
 
 Note that, here, we have expanded the thermally averaged annihilation cross-section in powers of $$x^{-1}$$ as $$\langle\sigma v\rangle=a+\tfrac{b}{x}$$.
 
-The first term of the RHS is generally ignored, leading to a precision of about 18%. This leads to
+The first term of the RHS is generally ignored. This leads to
 
 $$\Delta_{Y_\infty}=Y_\infty=\frac{x_f}{\lambda(a+\tfrac{b}{2x_f})}$$.
 
