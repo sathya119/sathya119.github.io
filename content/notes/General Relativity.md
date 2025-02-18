@@ -1,4 +1,4 @@
-- [[Introduction]]
+- [[Introduction to Field Theory]]
 - [[Manifolds and Tensors]]
 - [[Metric]]
 - [[Covariant Derivative]]
