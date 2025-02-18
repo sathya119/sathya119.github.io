@@ -32,7 +32,7 @@ Plugging this in the action to eliminate e recovers the original action principl
 
 We can now use the gauge redundancy under reparametrisations of the world-sheet to fix a convenient form for e, for instance, by choosing it to be the constant e=1/m. With this choice, the action becomes,
 
-$$S=\frac{m}{2}\int d\sigma (\eta_{\mu\nu}\frac{dx^\mu}{d\sigma}\frac{dx^\nu}{d\sigma}-1)$$.
+$$S=\frac{m}{2}\int d\sigma \;(\eta_{\mu\nu}\frac{dx^\mu}{d\sigma}\frac{dx^\nu}{d\sigma}-1)$$.
 
 However, we must supplement this action with the constraint $$\eta_{\mu\nu}\frac{dx^\mu}{d\sigma}\frac{dx^\nu}{d\sigma}+1=0$$ to avoid introducing spurious degrees of freedom not present in the original system.
 
