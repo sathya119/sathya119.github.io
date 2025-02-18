@@ -1,6 +1,2 @@
-- [[Quantum Chromodynamics]]
-- [[Astroparticle Physics]]
-- [[Neutrino Physics]]
-- [[Strings]]
-- [[Higgs Phenomenology]]
-- [[Flavour Physics]]
+- [[MATH52430]]
+- [[MATH52530]]
