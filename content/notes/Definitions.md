@@ -10,7 +10,9 @@ Metric convention: $$\eta_{\mu\nu}=\text{diag}(+1,-1,-1,-1)$$
 
 We decompose the S-matrix as $$S=\mathbb{1}+iT$$, so that we can separate out the interaction effects into a new matrix called the T-matrix.
 
-LSZ Reduction Formula: $$\bra{\text{out}}iT\ket{\text{in}}=\prod_{i=1}^{p_i+p_f}\sqrt{Z_i}\;(\text{Sum of all amputated and connected Feynman graphs})$$
+LSZ Reduction Formula:
+
+$$\bra{\text{out}}iT\ket{\text{in}}=\prod_{i=1}^{p_i+p_f}\sqrt{Z_i}\;(\text{Sum of all amputated and connected Feynman graphs})$$
 
 There are $$n_i$$ incoming and $$n_f$$ outgoing legs. Z is the wavefunction renormalisation.
 
