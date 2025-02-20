@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "18%",
+                "query": "tag:#helicity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,14 +200,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90837c11ab11ec2c",
+  "active": "1e44244526188bed",
   "lastOpenFiles": [
-    "notes/Pauli Matrices.md",
-    "notes/Spinor-Helicity Formalism.md",
+    "notes/Cosmology - II.md",
+    "notes/MATH52530.md",
     "notes/Scattering Amplitudes.md",
+    "notes/Spinor-Helicity Formalism.md",
+    "notes/Pauli Matrices.md",
     "notes/Definitions.md",
     "notes/on-shell.md",
-    "notes/MATH52530.md",
     "notes/Epiphany (Spring) Term.md",
     "notes/Particles, Strings and Cosmology - F3K209.md",
     "My Journey with Physics.md",
@@ -236,7 +238,6 @@
     "attachments/map worldline.md",
     "attachments/tangent to worldline.light.png",
     "attachments/tangent to worldline.light.svg",
-    "notes/Michaelmas (Autumn) Term.md",
     "Spin",
     "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
     "attachments/Ink/Writing",
