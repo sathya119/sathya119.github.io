@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Janta Varisais.md",
+                "file": "notes/Daatu Varisais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Janta Varisais"
+              "title": "Daatu Varisais"
             }
           }
         ],
@@ -253,8 +253,9 @@
   "active": "012a0778629ddbc9",
   "lastOpenFiles": [
     "notes/Foundational Exercises.md",
-    "notes/Sarali Varisais.md",
     "notes/Janta Varisais.md",
+    "notes/Daatu Varisais.md",
+    "notes/Sarali Varisais.md",
     "notes/What is a Swara.md",
     "notes/What does 1 and 2 mean.md",
     "notes/What do Swara names mean.md",
@@ -264,7 +265,6 @@
     "notes/Alankaras.md",
     "notes/Keezhsthayi Varisais.md",
     "notes/Melsthayi Varisais.md",
-    "notes/Daatu Varisais.md",
     "Student.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
     "notes/Why SSSIHL.md",
