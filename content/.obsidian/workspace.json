@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "dca1ed67a65f6532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Journey with Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Journey with Physics"
+            }
+          },
+          {
             "id": "a2d0c5845973b730",
             "type": "leaf",
             "state": {
@@ -36,8 +50,23 @@
               "icon": "lucide-file",
               "title": "Spinor-Helicity Formalism"
             }
+          },
+          {
+            "id": "012a0778629ddbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,12 +250,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52796e0056a51908",
+  "active": "012a0778629ddbc9",
   "lastOpenFiles": [
-    "notes/Spinor-Helicity Formalism.md",
-    "index.md",
+    "attachments/music.md",
+    "attachments/music.light.svg",
+    "attachments/music.dark.svg",
     "Music.md",
+    "attachments/Drawing 2025-02-21 21.51.29.excalidraw.md",
+    "attachments/staff-notation-vector-svgrepo-com.svg",
+    "attachments/music-instruments-svgrepo-com.svg",
+    "attachments/piano-svgrepo-com.svg",
+    "attachments/saxophone-2-svgrepo-com.svg",
+    "attachments/violin-svgrepo-com.svg",
+    "attachments/heartbeat-svgrepo-com.svg",
+    "attachments/veena-svgrepo-com.svg",
+    "attachments/metronome-tempo-beat-bpm-svgrepo-com.svg",
+    "notes/Carnatic Music.md",
+    "notes/Chinese Classical.md",
+    "My Journey with Physics.md",
     "Student.md",
+    "index.md",
+    "notes/Spinor-Helicity Formalism.md",
+    "notes/Science and Music.md",
     "instagram.com/chasing_tunes.md",
     "instagram.com",
     "Write.md",
@@ -234,32 +279,15 @@
     "notes/MATH52530.md",
     "notes/Epiphany (Spring) Term.md",
     "notes/Particles, Strings and Cosmology - F3K209.md",
-    "My Journey with Physics.md",
     "explorations/index.md",
     "explorations/useReducer().md",
     "LABS/index.md",
     "_private/presentations/Drawing 2025-02-02 18.01.31.excalidraw.md",
-    "attachments/Pasted Image 20250202180159_537.png",
-    "_private/presentations/Drawing 2025-02-02 18.01.31.excalidraw.light.svg",
-    "_private/presentations/Drawing 2025-02-02 18.01.31.excalidraw.dark.svg",
-    "attachments/Pasted Image 20250202180133_901.png",
     "_private/presentations/RE-planning.excalidraw.md",
-    "_private/presentations/Drawing 2025-01-26 14.28.13.excalidraw.dark.svg",
     "notes/General Equilibrium.md",
     "Academic/Economics/MB. Chapter 5.md",
     "Academic/Economics/PECO-201 Public Economics.md",
     "notes/Basic Fundamentals.md",
-    "notes/Harold Domal Model (1946).md",
-    "notes/Solow's Model.md",
-    "Academic/Economics/Solow's Growth Model.md",
-    "Academic/Economics/Lecture PE 2.md",
-    "Academic/Economics/Lecture PE 1.md",
-    "Academic/Economics/Introduction to Public Economics.md",
-    "_private/presentations/GCA-2025.excalidraw.light.svg",
-    "_private/presentations/GCA-2025.excalidraw.dark.svg",
-    "_private/presentations/Drawing 2025-01-26 14.28.13.excalidraw.light.svg",
-    "_private/presentations/Slideshow Demo.excalidraw.light.svg",
-    "_private/presentations/Slideshow Demo.excalidraw.dark.svg",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",

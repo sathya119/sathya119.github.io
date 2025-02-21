@@ -1,3 +1,6 @@
-I have been trained (almost my entire life) in [[Carnatic Music]], which is a classical form from the South of India. When I was a young teen, I was **against** film music, pop, rock, etc. (basically anything other than pure classical). But, the more I listened to other genres, the more I broadened my horizon and now, I listen to every genre possible, including other classical forms like [[Chinese Classical]] and [[Arabic Classical]].
+![[music.light.svg]]
 
-Recently, I began to develop the urge to learn the [[Western Music Theory]] (not that I have mastered the superset, [[Carnatic Music Theory]]) and I started to read a lot about that. I also love to study the [[Science]] behind music and voice in general. Now, I mostly find similarities or try to explain a concept in the language of the other and find what is at the [[Nexus]] of both these beautifully involved theories.
+- [[Carnatic Music]]
+- [[Carnatic Music Theory]]
+- [[Western Music Theory]]
+- [[Science and Music]]
