@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       typography: {
         // header: "Doto",
         // body: "Space Mono",
-        header: "Amatic SC",
-        body: "Urbanist",
-        special: "Amatic SC",
+        header: "Merriweather",
+        body: "Nunito",
+        special: "Patrick Hand",
         // body: "Inter",
         code: "Jetbrains Mono",
       },
