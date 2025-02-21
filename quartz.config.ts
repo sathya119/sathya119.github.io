@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "saibrain",
+    pageTitle: "Sai-brain",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
