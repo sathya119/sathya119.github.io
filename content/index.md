@@ -2,8 +2,17 @@
 title: Sai-Brain
 ---
 # Welcome to Sai-Brain
-Hi! I’m Sai Sanjay, a [[Student]] primarily and you will find an overview of my brain here.
-I sometimes [[Sing]], [[Dance]] and [[Write]], but I mostly [[Daydream]].
 
->I chase tunes [@chasing_tunes](instagram.com/chasing_tunes) on Instagram and you may very occasionally find me chasing hues [@chasing_hues](instagram.com/chasing_hues).
+Hi! I’m Sai and this is an overview of my brain.
+
+I publish my academic and co-curricular notes here. 
+
+- I am a [[Student]] primarily.
+- I am crazy about [[Music]]!
+- I love to [[Dance]].
+- I also [[Write]].
+- But, I mostly [[Daydream]].
+
+Hope you find something that interests you :D
+
 
