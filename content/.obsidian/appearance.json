@@ -4,6 +4,7 @@
   "enabledCssSnippets": [],
   "textFontFamily": "PT Serif",
   "baseFontSize": 17,
-  "cssTheme": "",
-  "showRibbon": false
+  "cssTheme": "Border",
+  "showRibbon": false,
+  "interfaceFontFamily": "Georgia"
 }

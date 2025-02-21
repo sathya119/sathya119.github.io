@@ -11,5 +11,6 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "livePreview": true
 }
