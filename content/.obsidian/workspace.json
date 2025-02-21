@@ -195,29 +195,9 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
-          },
-          {
-            "id": "b0b2a576675e547d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b30007f38166b014",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -245,8 +225,8 @@
   "lastOpenFiles": [
     "notes/Spinor-Helicity Formalism.md",
     "Music.md",
-    "index.md",
     "Student.md",
+    "index.md",
     "instagram.com/chasing_tunes.md",
     "instagram.com",
     "Write.md",
