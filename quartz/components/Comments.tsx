@@ -21,9 +21,9 @@ function boolToStringBool(b: boolean): string {
   return b ? "1" : "0"
 }
 
-export default ((opts: Options) => {
-  const Comments: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    return (
+//export default ((opts: Options) => {
+  //const Comments: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
+    //return (
      // <div
      //   class={classNames(displayClass, "giscus")}
      //   data-repo={opts.options.repo}
@@ -35,10 +35,10 @@ export default ((opts: Options) => {
      //   data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}
      //   data-input-position={opts.options.inputPosition ?? "bottom"}
      // ></div>
-    )
-  }
+   // )
+  //}
 
-  Comments.afterDOMLoaded = script
+  //Comments.afterDOMLoaded = script
 
-  return Comments
-}) satisfies QuartzComponentConstructor<Options>
+  //return Comments
+//}) satisfies QuartzComponentConstructor<Options>
