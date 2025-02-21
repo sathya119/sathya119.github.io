@@ -36,5 +36,17 @@ To raise and lower indices, we use the Levi-Civita tensor,
 
 $$\lambda_\alpha=\epsilon_{\alpha\beta}\lambda^\beta,\;\;\;\;\;\;\;\;\;\;\;\;\tilde\lambda_{\dot\alpha}=\epsilon_{\dot\alpha\dot\beta}\tilde\lambda^{\dot\beta}$$
 
-where $$\epsilon_{\alpha\beta}=\epsilon_{\dot\alpha\dot\beta}=\begin{pmatrix}0&-1\\1&0\end{pmatrix},\;\;\;\;\;\;\;\;\;\;\;\;\epsilon^{\alpha\beta}=\epsilon^{\dot\alpha\dot\beta}=\begin{pmatrix}0&1\\-1&0\end{pmatrix}$$.
+where 
+
+$$\epsilon_{\alpha\beta}=\epsilon_{\dot\alpha\dot\beta}=\begin{pmatrix}0&-1\\1&0\end{pmatrix},\;\;\;\;\;\;\;\;\;\;\;\;\epsilon^{\alpha\beta}=\epsilon^{\dot\alpha\dot\beta}=\begin{pmatrix}0&1\\-1&0\end{pmatrix}$$, so that
+
+$$\epsilon_{\alpha\beta}\epsilon^{\beta\gamma}=+\delta^\gamma_\alpha$$.
+
+Now, we define the inner products (with particle labels i and j) as:
+1. $$\langle i\;j\rangle=\lambda_i^\alpha\lambda_{j\alpha}$$
+2. $$[i\;j]=\tilde\lambda_{i\dot\alpha}\tilde\lambda^{\dot\alpha}_j$$
+
+Note: $$\langle i\;j\rangle=\epsilon^{\alpha\beta}\lambda_{i\beta}\lambda_{j\alpha}=-\epsilon^{\beta\alpha}\lambda_{i\beta}\lambda_{j\alpha}=-\epsilon^{\beta\alpha}\lambda_{j\alpha}\lambda_{i\beta}=-\langle j\;i\rangle$$
+
+Similarly, $$[i\;j]=-[j\;i]$$ and $$\langle i\;i\rangle=0=[i\;i]$$.
 

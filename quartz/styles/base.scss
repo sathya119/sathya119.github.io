@@ -25,7 +25,7 @@ section {
   border-radius: 5px;
 }
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
+  background: color-mix(in srgb, var(--selection) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
 }
 
@@ -122,11 +122,11 @@ a {
 }
 
 .page {
-  @media all and (max-width: $fullPageWidth) {
+  // @media all and (max-width: $fullPageWidth) {
     margin: 0 auto;
     padding: 0 1rem;
     max-width: $pageWidth;
-  }
+  // }
 
   & article {
     & > h1 {
@@ -151,15 +151,16 @@ a {
 
     p > strong {
       color: var(--dark);
+
     }
   }
 
   & > #quartz-body {
     width: 100%;
     display: flex;
-    @media all and (max-width: $fullPageWidth) {
+    // @media all and (max-width: $fullPageWidth) {
       flex-direction: column;
-    }
+    // }
 
     & .sidebar {
       flex: 1;
@@ -167,32 +168,37 @@ a {
       flex-direction: column;
       gap: 2rem;
       top: 0;
-      width: $sidePanelWidth;
-      margin-top: $topSpacing;
+      // width: $sidePanelWidth;
+      // margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
-      position: fixed;
-      @media all and (max-width: $fullPageWidth) {
+      // padding: 0 4rem;
+      // position: fixed;
+      // @media all and (max-width: $fullPageWidth) {
         position: initial;
         flex-direction: row;
         padding: 0;
-        width: initial;
         margin-top: 2rem;
-      }
+      // }
     }
 
     & .sidebar.left {
       z-index: 1;
+      // display: grid !important;
+      justify-content: space-between;
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      @media all and (max-width: $fullPageWidth) {
+      // @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
-      }
+      // }
     }
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       flex-wrap: wrap;
+      @media all and (max-width: $tabletBreakpoint) {
+        flex-direction: column;
+        gap: 2rem;
+      }
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
@@ -212,12 +218,12 @@ a {
     }
   }
 
-  & .page-header {
-    margin: $topSpacing auto 0 auto;
-    @media all and (max-width: $fullPageWidth) {
-      margin-top: 2rem;
-    }
-  }
+  // & .page-header {
+    // margin: $topSpacing auto 0 auto;
+    // @media all and (max-width: $fullPageWidth) {
+      // margin-top: 2rem;
+    // }
+  // }
 
   & .center,
   & footer {
@@ -229,6 +235,56 @@ a {
       margin-left: 0;
       margin-right: 0;
     }
+  }
+}
+
+.left {
+  // @media (max-width: $fullPageWidth) {
+    display: flex !important;
+    .page-title {
+      flex-grow: 1;
+    }
+    .search {
+      margin-left: 2rem;
+    }
+  // }
+
+//   .page-title {
+//     grid-area: 1 / 1 / 2 / 3;
+//   }
+//   .search {
+//     grid-area: 2 / 1 / 3 / 2;
+//   }
+//   .darkmode {
+//     grid-area: 2 / 2 / 3 / 3;
+//   }
+
+//   .explorer {
+//     grid-area: 3 / 1 / 3 / 3;
+//   }
+//   .recent-notes:last-child {
+//     grid-area: 4 / 1 / 4 / 3;
+//   }
+//   grid-template-rows: min-content min-content min-content min-content;
+//   grid-template-columns: 1fr;
+//   align-items: center;
+//   gap: 1.5rem !important;
+//   display: grid !important;
+}
+
+#content {
+  animation: fadeIn 0.3s ease-in-out;
+  animation-delay: fadeIn 0.1s;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    translate: 0 -10;
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
   }
 }
 
@@ -284,6 +340,7 @@ h5,
 h6,
 thead {
   font-family: var(--headerFont);
+  font-size: 1.2rem;
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
@@ -322,13 +379,13 @@ h1 {
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.5rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -336,7 +393,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 1.4rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }

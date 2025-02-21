@@ -1,12 +1,12 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "My Journey with Physics.md",
+  "selectedDraftVaultPath": "explorations/index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2025-02-19T09:23:33.311Z",
+      "start": "2025-02-21T13:15:24.233Z",
       "total": 0,
       "drafts": {
         "My Journey with Physics.md": {
@@ -16,225 +16,87 @@
       }
     },
     {
-      "start": "2025-02-18T17:46:51.393Z",
-      "total": 0,
+      "start": "2025-02-03T02:47:45.731Z",
+      "total": 53,
       "drafts": {
-        "My Journey with Physics.md": {
+        "_private/Planning/index.md": {
           "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-02-05T11:06:44.405Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-02-03T14:30:06.230Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-01-29T21:36:26.492Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-01-25T17:39:18.121Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-01-14T22:21:52.775Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-01-13T18:09:51.057Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-12-31T09:24:55.122Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-12-30T15:53:30.477Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-12-18T15:09:18.630Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-12-11T09:59:01.041Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-11-27T11:29:20.893Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-11-25T16:37:25.044Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-11-12T20:41:33.377Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-10-18T12:30:17.369Z",
-      "total": 0,
-      "drafts": {
-        "My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-10-17T20:44:38.223Z",
-      "total": 0,
-      "drafts": {
-        "Physics/My Journey with Physics.md": {
-          "total": 0,
-          "scenes": {}
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
         },
-        "My Journey with Physics.md": {
+        "_private/Scratch/Index.md": {
           "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-10-16T18:06:58.392Z",
-      "total": 0,
-      "drafts": {
-        "Physics/index.md": {
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
           "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-10-15T10:08:39.391Z",
-      "total": 0,
-      "drafts": {
-        "Physics/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-10-08T21:46:32.867Z",
-      "total": 0,
-      "drafts": {
-        "Physics/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-09-26T02:30:45.187Z",
-      "total": 0,
-      "drafts": {
-        "Physics/index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2024-09-25T03:34:32.832Z",
-      "total": 3,
-      "drafts": {
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
         "thoughts/index.md": {
           "total": 0,
           "scenes": {
-            "Starting a new Exam": 0
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
           }
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
         },
         "LABS/index.md": {
           "total": 0,
           "scenes": {
             "Posting with Quartz": 0,
             "Svelte.js": 0,
-            "Enhancing my Digital Garden": 0
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0,
+            "RE Website": 0
           }
         },
         "Music/index.md": {
@@ -244,606 +106,4790 @@
             "Transposition": 0,
             "Exercises for Band": 0,
             "Good Unison Sound for Band": 0,
-            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
           }
         },
         "explorations/index.md": {
-          "total": 520,
+          "total": 53,
           "scenes": {
             "Moai": 0,
             "CSS Display Stuff": 0,
-            "Ray Dalio's Economic Machine": 520
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0,
+            "useReducer()": 53
           }
         },
-        "Academic/Actuarial Science/!Exam 5.md": {
+        "Academic/Data Science/index.md": {
           "total": 0,
           "scenes": {
-            "Ratemaking": 0,
-            "Reserving": 0,
-            "Ratemaking Principles": 0,
-            "Should you go for negative profit in FIE": 0,
-            "Expenses and Profits": 0,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 0,
-            "Fundamental Insurance Equation": 0,
-            "Insurance Basics": 0,
-            "Development": 0,
-            "Overall Rate Level Indications": 0,
-            "Risk Classification": 0,
-            "Traditional Risk Classification": 0,
-            "Trending in Ratemaking": 0,
-            "Chain Ladder Method": 0,
-            "Addressing Anomalies in Loss Data": 0
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
           }
         },
         "Academic/Economics/index.md": {
-          "total": 543,
+          "total": 0,
           "scenes": {
-            "IS-LM Framework": 0,
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
             "Monopoly": 0,
-            "Market Differentiation": 0,
-            "Monetarist School of Economic Thought": 0,
-            "Time Series Data Analysis in R": 0,
-            "Growth Theories & Models": 0,
-            "Duopoly Markets": 0,
-            "Roles of Operations of Banks": 0,
-            "Difference Equations": 0,
-            "Duopoly Markets contd.": 0,
-            "India's Investment Function Simulation": 0,
-            "Steady State - Balanced Growth Model": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
             "Kinked Demand Curve Model": 0,
-            "Cob-web Market Model": 543
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 0,
+            "MB. Chapter 5": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
           }
         },
-        "Music/Music/Index.md": {
+        "Academic/Actuarial Science/Exam FM/index.md": {
           "total": 0,
-          "scenes": {}
-        },
-        "notes/Physics/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "Physics/Index.md": {
-          "total": 0,
-          "scenes": {}
-        },
-        "Physics/index.md": {
-          "total": 3,
           "scenes": {
-            "String Theory": 3,
-            "Elementary Particle Theory": 0
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
           }
         }
       }
     },
     {
-      "start": "2024-09-24T02:55:53.249Z",
-      "total": 1113,
+      "start": "2025-02-02T12:31:27.002Z",
+      "total": 0,
       "drafts": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
         "thoughts/index.md": {
           "total": 0,
           "scenes": {
-            "Starting a new Exam": 0
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
           }
         },
-        "explorations/index.md": {
+        "tags/index.md": {
           "total": 0,
           "scenes": {
-            "Moai": 0,
-            "CSS Display Stuff": 0
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
           }
         },
         "Music/index.md": {
-          "total": 68,
+          "total": 0,
           "scenes": {
             "The Art of Conducting": 0,
             "Transposition": 0,
             "Exercises for Band": 0,
             "Good Unison Sound for Band": 0,
-            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 68
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
           }
         },
-        "LABS/index.md": {
+        "explorations/index.md": {
           "total": 0,
           "scenes": {
-            "Posting with Quartz": 0,
-            "Svelte.js": 0,
-            "Enhancing my Digital Garden": 0
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
           }
         },
-        "Academic/Actuarial Science/!Exam 5.md": {
+        "Academic/Data Science/index.md": {
           "total": 0,
           "scenes": {
-            "Ratemaking": 0,
-            "Reserving": 0,
-            "Ratemaking Principles": 0,
-            "Should you go for negative profit in FIE": 0,
-            "Expenses and Profits": 0,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 0,
-            "Fundamental Insurance Equation": 0,
-            "Insurance Basics": 0,
-            "Development": 0,
-            "Overall Rate Level Indications": 0,
-            "Risk Classification": 0,
-            "Traditional Risk Classification": 0,
-            "Trending in Ratemaking": 0,
-            "Chain Ladder Method": 0,
-            "Addressing Anomalies in Loss Data": 0
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
           }
         },
         "Academic/Economics/index.md": {
-          "total": 1045,
+          "total": 0,
           "scenes": {
-            "IS-LM Framework": 0,
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
             "Monopoly": 0,
-            "Market Differentiation": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
             "Monetarist School of Economic Thought": 0,
-            "Time Series Data Analysis in R": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
             "Growth Theories & Models": 0,
-            "Duopoly Markets": 0,
-            "Roles of Operations of Banks": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
             "Difference Equations": 0,
-            "Duopoly Markets contd.": 0,
-            "India's Investment Function Simulation": 0,
-            "Steady State - Balanced Growth Model": 478,
-            "Kinked Demand Curve Model": 567
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-09-23T02:49:06.622Z",
-      "total": 1941,
-      "drafts": {
-        "thoughts/index.md": {
-          "total": 0,
-          "scenes": {
-            "Starting a new Exam": 0
-          }
-        },
-        "Music/index.md": {
-          "total": 0,
-          "scenes": {
-            "The Art of Conducting": 0,
-            "Transposition": 0,
-            "Exercises for Band": 0,
-            "Good Unison Sound for Band": 0
-          }
-        },
-        "LABS/index.md": {
-          "total": 53,
-          "scenes": {
-            "Posting with Quartz": 53,
-            "Svelte.js": 0,
-            "Enhancing my Digital Garden": 0
-          }
-        },
-        "explorations/index.md": {
-          "total": 0,
-          "scenes": {
-            "Moai": 0,
-            "CSS Display Stuff": 0
-          }
-        },
-        "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 5,
-          "scenes": {
-            "Ratemaking": 0,
-            "Reserving": 0,
-            "Ratemaking Principles": 2,
-            "Should you go for negative profit in FIE": 0,
-            "Expenses and Profits": 0,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 0,
-            "Fundamental Insurance Equation": 0,
-            "Insurance Basics": 0,
-            "Development": 0,
-            "Overall Rate Level Indications": 0,
-            "Risk Classification": 0,
-            "Traditional Risk Classification": 0,
-            "Trending in Ratemaking": 0,
-            "Chain Ladder Method": 0,
-            "Addressing Anomalies in Loss Data": 3
-          }
-        },
-        "Academic/Economics/index.md": {
-          "total": 1883,
-          "scenes": {
-            "IS-LM Framework": 0,
-            "Monopoly": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
             "Market Differentiation": 0,
-            "Monetarist School of Economic Thought": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
             "Time Series Data Analysis in R": 0,
-            "Growth Theories & Models": 0,
-            "Simulating India's Investment Function": 15,
-            "Duopoly Markets": 2,
-            "Roles of Operations of Banks": 160,
-            "Difference Equations": 503,
-            "Duopoly Markets contd.": 1203
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 0,
+            "MB. Chapter 5": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
           }
-        }
-      }
-    },
-    {
-      "start": "2024-09-22T04:13:28.543Z",
-      "total": 2082,
-      "drafts": {
-        "thoughts/index.md": {
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
           "total": 0,
           "scenes": {
-            "Starting a new Exam": 0
-          }
-        },
-        "Music/index.md": {
-          "total": 446,
-          "scenes": {
-            "The Art of Conducting": 0,
-            "Transposition": 0,
-            "Exercises for Band": 0,
-            "Good Unison Sound for Band": 446
-          }
-        },
-        "LABS/index.md": {
-          "total": 25,
-          "scenes": {
-            "Posting with Quartz": 0,
-            "Svelte.js": 0,
-            "Enhancing my Digital Garden": 25
-          }
-        },
-        "explorations/index.md": {
-          "total": 0,
-          "scenes": {
-            "Moai": 0,
-            "CSS Display Stuff": 0
-          }
-        },
-        "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 549,
-          "scenes": {
-            "Ratemaking": 0,
-            "Reserving": 0,
-            "Ratemaking Principles": 0,
-            "Should you go for negative profit in FIE": 0,
-            "Expenses and Profits": 0,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 0,
-            "Fundamental Insurance Equation": 0,
-            "Insurance Basics": 2,
-            "Development": 207,
-            "Overall Rate Level Indications": 0,
-            "Risk Classification": 0,
-            "Traditional Risk Classification": 0,
-            "Trending in Ratemaking": 0,
-            "Chain Ladder Method": 340
-          }
-        },
-        "Academic/Economics/index.md": {
-          "total": 1062,
-          "scenes": {
-            "IS-LM Framework": 0,
-            "Monopoly": 0,
-            "Market Differentiation": 0,
-            "Monetarist School of Economic Thought": 0,
-            "Time Series Data Analysis in R": 0,
-            "Growth Theories & Models": 0,
-            "Simulating India's Investment Function": 0,
-            "Duopoly Markets": 0,
-            "Roles of Operations of Banks": 1062
-          }
-        }
-      }
-    },
-    {
-      "start": "2024-09-21T02:58:11.931Z",
-      "total": 2050,
-      "drafts": {
-        "content/thoughts/index.md": {
-          "total": 0,
-          "scenes": {
-            "Starting a new Exam": 0
-          }
-        },
-        "content/Music/index.md": {
-          "total": 0,
-          "scenes": {
-            "The Art of Conducting": 0,
-            "Transposition": 0
-          }
-        },
-        "content/explorations/index.md": {
-          "total": 0,
-          "scenes": {
-            "Moai": 0,
-            "CSS Display Stuff": 0
-          }
-        },
-        "content/LABS/index.md": {
-          "total": 0,
-          "scenes": {
-            "Posting with Quartz": 0,
-            "Svelte.js": 0
-          }
-        },
-        "content/Academic/Economics/index.md": {
-          "total": 450,
-          "scenes": {
-            "IS-LM Framework": 0,
-            "Monopoly": 0,
-            "Market Differentiation": 0,
-            "Monetarist School of Economic Thought": 0,
-            "Time Series Data Analysis in R": 0,
-            "Growth Theories & Models": 0,
-            "Simulating India's Investment Function": 1,
-            "Duopoly Markets": 389,
-            "Roles of Operations of Banks": 60
-          }
-        },
-        "content/Academic/Actuarial Science/index.md": {
-          "total": 0,
-          "scenes": {
-            "!Exam 5": 0,
-            "Ratemaking": 0,
-            "Reserving": 0,
-            "Ratemaking Principles": 0
-          }
-        },
-        "thoughts/index.md": {
-          "total": 0,
-          "scenes": {
-            "Starting a new Exam": 0
-          }
-        },
-        "Music/index.md": {
-          "total": 6,
-          "scenes": {
-            "The Art of Conducting": 0,
-            "Transposition": 0,
-            "Exercises for Band": 6
-          }
-        },
-        "LABS/index.md": {
-          "total": 0,
-          "scenes": {
-            "Posting with Quartz": 0,
-            "Svelte.js": 0
-          }
-        },
-        "explorations/index.md": {
-          "total": 0,
-          "scenes": {
-            "Moai": 0,
-            "CSS Display Stuff": 0
-          }
-        },
-        "Academic/Economics/index.md": {
-          "total": 0,
-          "scenes": {
-            "IS-LM Framework": 0,
-            "Monopoly": 0,
-            "Market Differentiation": 0,
-            "Monetarist School of Economic Thought": 0,
-            "Time Series Data Analysis in R": 0,
-            "Growth Theories & Models": 0,
-            "Simulating India's Investment Function": 0,
-            "Duopoly Markets": 0,
-            "Roles of Operations of Banks": 0
+            "Annuity": 0
           }
         },
         "Academic/Actuarial Science/index.md": {
-          "total": 518,
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
           "scenes": {
-            "!Exam 5": 135,
-            "Ratemaking": 0,
-            "Reserving": 0,
-            "Ratemaking Principles": 0,
-            "Should you go for negative profit in FIE": 70,
-            "Trending in Ratemaking": 24,
-            "Expenses and Profits": 36,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 253,
-            "Development": 0
+            "Discrimination and Insurance": 0
           }
         },
-        "Academic/Actuarial Science/Exam 5.md": {
-          "total": 1140,
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
           "scenes": {
-            "Ratemaking": 68,
-            "Reserving": 0,
-            "Ratemaking Principles": 484,
-            "Should you go for negative profit in FIE": 70,
-            "Trending in Ratemaking": 24,
-            "Expenses and Profits": 36,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 252,
-            "Fundamental Insurance Equation": 18,
-            "Development": 188
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
           }
         },
-        "Academic/Actuarial Science/!Exam 5.md": {
-          "total": 2044,
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
           "scenes": {
-            "Ratemaking": 68,
-            "Reserving": 0,
-            "Ratemaking Principles": 484,
-            "Should you go for negative profit in FIE": 72,
-            "Trending in Ratemaking": 24,
-            "Expenses and Profits": 36,
-            "Ratemaking Methods": 0,
-            "Reporting Pattern": 252,
-            "Fundamental Insurance Equation": 11,
-            "Insurance Basics": 160,
-            "Development": 489,
-            "Overall Rate Level Indications": 247,
-            "Risk Classification": 96,
-            "Traditional Risk Classification": 105
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
           }
         }
       }
     },
     {
-      "start": "2024-09-20T03:48:30.223Z",
-      "total": 1441,
+      "start": "2025-02-01T04:44:06.463Z",
+      "total": 0,
       "drafts": {
-        "content/thoughts/index.md": {
+        "_private/Planning/index.md": {
           "total": 0,
           "scenes": {
-            "Starting a new Exam": 0
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
           }
         },
-        "content/Music/index.md": {
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
           "total": 0,
           "scenes": {
             "The Art of Conducting": 0,
-            "Transposition": 0
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
           }
         },
-        "content/LABS/index.md": {
+        "LABS/index.md": {
           "total": 0,
           "scenes": {
             "Posting with Quartz": 0,
-            "Svelte.js": 0
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
           }
         },
-        "content/explorations/index.md": {
+        "explorations/index.md": {
           "total": 0,
           "scenes": {
             "Moai": 0,
-            "CSS Display Stuff": 0
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
           }
         },
-        "content/Academic/Actuarial Science/index.md": {
-          "total": 562,
+        "Academic/Data Science/index.md": {
+          "total": 0,
           "scenes": {
-            "!Exam 5": 10,
-            "Ratemaking": 68,
-            "Reserving": 0,
-            "Ratemaking Principles": 484
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
           }
         },
-        "content/Academic/Economics/index.md": {
-          "total": 879,
+        "Academic/Economics/index.md": {
+          "total": 0,
           "scenes": {
-            "IS-LM Framework": 0,
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
             "Monopoly": 0,
-            "Market Differentiation": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
             "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
             "Time Series Data Analysis in R": 0,
-            "Growth Theories & Models": 873,
-            "SEMINAR Simulating India's Investment Function": 6
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 0,
+            "MB. Chapter 5": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
           }
         }
       }
     },
     {
-      "start": "2024-09-19T04:58:18.085Z",
-      "total": 5636,
+      "start": "2025-01-31T04:28:10.968Z",
+      "total": 679,
       "drafts": {
-        "content/explorations/index.md": {
-          "total": 227,
+        "thoughts/index.md": {
+          "total": 0,
           "scenes": {
-            "Moai": 0,
-            "CSS Display Stuff": 227
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
           }
         },
-        "content/Music/index.md": {
-          "total": 358,
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
           "scenes": {
             "The Art of Conducting": 0,
-            "Transposition": 358
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
           }
         },
-        "content/LABS/Index.md": {
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "TeachMyself/index.md": {
           "total": 0,
           "scenes": {}
         },
-        "content/LABS/index.md": {
-          "total": 217,
+        "explorations/index.md": {
+          "total": 0,
           "scenes": {
-            "Posting with Quartz": 205,
-            "Svelte.js": 12
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
           }
         },
-        "content/Academic/Actuarial Science/Index.md": {
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 679,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 2,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 573,
+            "MB. Chapter 5": 104,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
           "total": 0,
           "scenes": {}
         },
-        "content/Academic/Actuarial Science/index.md": {
+        "Academic/Actuarial Science/Exam P/index.md": {
           "total": 0,
           "scenes": {}
         },
-        "content/thoughts/Index.md": {
-          "total": 586,
-          "scenes": {
-            "Starting a new Exam": 586
-          }
-        },
-        "content/thoughts/index.md": {
-          "total": 586,
-          "scenes": {
-            "Starting a new Exam": 586
-          }
-        },
-        "content/Academic/Economics/Index.md": {
+        "Academic/Actuarial Science/Exam 8/index.md": {
           "total": 0,
           "scenes": {}
         },
-        "content/Academic/Economics/index.md": {
-          "total": 4248,
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
           "scenes": {
-            "Monopoly": 700,
-            "Market Differentiation": 349,
-            "IS-LM Framework": 1819,
-            "Monetarist School of Economic Thought": 1027,
-            "Time Series Data Analysis in R": 353
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
           }
         }
       }
     },
     {
-      "start": "2024-09-18T10:04:10.094Z",
-      "total": 306,
+      "start": "2025-01-30T04:53:55.434Z",
+      "total": 70,
       "drafts": {
-        "content/explorations/Index.md": {
+        "_private/Scratch/Index.md": {
           "total": 0,
-          "scenes": {}
-        },
-        "content/explorations/index.md": {
-          "total": 140,
           "scenes": {
-            "Moai": 140
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
           }
         },
-        "content/Music/Index.md": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "TeachMyself/index.md": {
           "total": 0,
           "scenes": {}
         },
-        "content/Music/index.md": {
-          "total": 166,
+        "thoughts/index.md": {
+          "total": 0,
           "scenes": {
-            "The Art of Conducting": 154,
-            "Transposition": 12
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 70,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 70,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
           }
         }
       }
     },
     {
-      "start": "2024-09-17T11:00:41.877Z",
+      "start": "2025-01-29T05:12:32.756Z",
+      "total": 252,
+      "drafts": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 252,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 252,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-28T04:03:08.297Z",
       "total": 0,
-      "drafts": {}
+      "drafts": {
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-27T04:12:03.908Z",
+      "total": 142,
+      "drafts": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 142,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "MB. Chapter 4": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "Questions in CF": 142,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-26T04:52:58.067Z",
+      "total": 0,
+      "drafts": {
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-25T01:22:04.075Z",
+      "total": 0,
+      "drafts": {
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-24T00:49:02.879Z",
+      "total": 0,
+      "drafts": {
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 0,
+            "Lecture PE 2": 0,
+            "Lecture PE 3": 0,
+            "Lecture PE 4": 0,
+            "Lecture PE 5": 0,
+            "Lecture PE 6": 0,
+            "Lecture PE 7": 0,
+            "Lecture PE 8": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 0,
+            "Musgrave": 0,
+            "MG. Chapter 1": 0,
+            "Gruber": 0,
+            "Gruber Chapter 1": 0,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-22T19:36:40.037Z",
+      "total": 7143,
+      "drafts": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 342,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0,
+            "GTD": 342
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 241,
+          "scenes": {
+            "Journey": 0,
+            "A Roadmap to Data Science": 241
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 6560,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 116,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Lecture PE 1": 224,
+            "Lecture PE 2": 237,
+            "Lecture PE 3": 328,
+            "Lecture PE 4": 818,
+            "Lecture PE 5": 514,
+            "Lecture PE 6": 551,
+            "Lecture PE 7": 155,
+            "Lecture PE 8": 287,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 0,
+            "Provision of Social Goods": 52,
+            "Musgrave": 16,
+            "MG. Chapter 1": 20,
+            "Gruber": 0,
+            "Gruber Chapter 1": 2032,
+            "Indian Public Economics Book": 0,
+            "IPE Chapter 2": 1210,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 0,
+            "A. Insurance Product, Operations & Data": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-21T18:31:58.590Z",
+      "total": 563,
+      "drafts": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0
+          }
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "Time Series": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 355,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 0,
+            "Introduction to Public Economics": 0,
+            "Hour 2": 0,
+            "Day 3": 0,
+            "Introduction PE 4": 0,
+            "Gruber Ch1": 0,
+            "Introduction PE 5": 0,
+            "Introduction PE 6": 0,
+            "Introduction PE 7": 0,
+            "PE Unit II": 0,
+            "Videos and Materials": 0,
+            "Coordination of Budget Functions": 0,
+            "Public Provision of Social Goods": 217,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "P2. Neo-classical Rationality": 0,
+            "P3. Altruism": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 0,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "Sales discussion Terms": 138,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 208,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 0,
+            "Fundamentals": 12,
+            "A. Insurance Product, Operations & Data": 196
+          }
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-20T18:31:14.692Z",
+      "total": 672,
+      "drafts": {
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 644,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Stream PECO-201": 9,
+            "Introduction to Public Economics": 0,
+            "Hour 2": 0,
+            "Day 3": 0,
+            "Introduction PE 4": 0,
+            "Gruber Ch1": 0,
+            "Introduction PE 5": 0,
+            "Introduction PE 6": 0,
+            "Introduction PE 7": 0,
+            "PE Unit II": 0,
+            "Videos and Materials": 0,
+            "Coordination of Budget Functions": 31,
+            "Public Provision of Social Goods": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 143,
+            "P2. Neo-classical Rationality": 258,
+            "P3. Altruism": 198,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 1,
+            "Linear Regression Model": 4,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "Time Series": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 28,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0,
+            "Things to Work On": 28
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-01-20T01:50:19.292Z",
+      "total": 14,
+      "drafts": {
+        "thoughts/index.md": {
+          "total": 0,
+          "scenes": {
+            "Starting a new Exam": 0,
+            "Note Taking Companion": 0
+          }
+        },
+        "_private/Planning/index.md": {
+          "total": 0,
+          "scenes": {
+            "Electives for MA economics": 0,
+            "Blocking my MA days": 0
+          }
+        },
+        "_private/Ideas/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Statistical estimator adjustment to reduce bias": 0,
+            "Earned premium calculation for seasonal LOB": 0,
+            "UI Design Ideas": 0
+          }
+        },
+        "_private/Scratch/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Microbiz insurance": 0,
+            "Random stuff": 0,
+            "PPT": 0,
+            "rec": 0,
+            "nice": 0,
+            "Ideas": 0,
+            "todos for arch": 0,
+            "config": 0,
+            "latex demo": 0,
+            "Inspiration for RE website": 0,
+            "My Baba and I": 0,
+            "Pieces": 0,
+            "Quotes by RB": 0,
+            "Swami's Experiences": 0,
+            "Agenda (Dec 19 to Dec 24)": 0,
+            "All that you need for hostel": 0,
+            "Theme for New Year": 0
+          }
+        },
+        "TeachMyself/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "tags/index.md": {
+          "total": 0,
+          "scenes": {
+            "PECO101": 0,
+            "PECO102": 0,
+            "PECO103": 0,
+            "PECO104": 0,
+            "PECO105": 0,
+            "actuaries": 0
+          }
+        },
+        "Music/index.md": {
+          "total": 0,
+          "scenes": {
+            "The Art of Conducting": 0,
+            "Transposition": 0,
+            "Exercises for Band": 0,
+            "Good Unison Sound for Band": 0,
+            "Modal Mixture Common Tone Enharmonic Double Chromatic Mediant Modulation": 0,
+            "Tips for Reading Music": 0,
+            "Chords-Remember Me": 0,
+            "Hanon's exercises": 0
+          }
+        },
+        "LABS/index.md": {
+          "total": 0,
+          "scenes": {
+            "Posting with Quartz": 0,
+            "Svelte.js": 0,
+            "Enhancing my Digital Garden": 0,
+            "Cashless": 0,
+            "Using Regex to Extract info from PDF": 0,
+            "NotebookLM for the first-reading": 0,
+            "AstroNvim on Windows": 0,
+            "Presentation tricks": 0,
+            "A private Notion.so backed Score management system": 0,
+            "A graph of users using GitHub's API": 0,
+            "Arch Linux": 0,
+            "Svelte authentication using Lucia": 0,
+            "PocketBase": 0,
+            "Important gotchas from SvelteKit": 0
+          }
+        },
+        "explorations/index.md": {
+          "total": 0,
+          "scenes": {
+            "Moai": 0,
+            "CSS Display Stuff": 0,
+            "Ray Dalio's Economic Machine": 0,
+            "Learn Regex": 0,
+            "Mastering Data Cleaning using Regex": 0,
+            "Using Svelte and D3 to make visualizations": 0,
+            "Unknown Economic Jargons": 0,
+            "How to use RBI Database": 0,
+            "Svelte 5 Examples": 0,
+            "Fontsource fonts in TailwindCSS": 0,
+            "A blunder": 0,
+            "Guidelines on writing a good Research paper": 0,
+            "Runes in Svelte": 0,
+            "Text mining in Python": 0,
+            "Useful LaTeX resources": 0,
+            "The perfect folder structure for web-dev": 0,
+            "Study Tech": 0,
+            "Local first Svelte Apps": 0,
+            "Svelte Tutorials": 0
+          }
+        },
+        "Academic/Data Science/index.md": {
+          "total": 0,
+          "scenes": {
+            "Journey": 0,
+            "Time Series": 0
+          }
+        },
+        "Academic/Economics/index.md": {
+          "total": 14,
+          "scenes": {
+            "PECO-101 Microeconomic Theory": 0,
+            "Consumer Behavior": 0,
+            "Basic Concepts in Consumer Behavior": 0,
+            "Demand and Expenditure Functions": 0,
+            "Demand curves and elasticities": 0,
+            "Labor-Leisure Choice": 0,
+            "Labor Supply function": 0,
+            "Substitution and Income effects": 0,
+            "Revealed Preference Theory": 0,
+            "Production": 0,
+            "Basic Concepts of Production": 0,
+            "Optimizing Behavior of firms": 0,
+            "Cost Functions": 0,
+            "Production Technology": 0,
+            "Models of Imperfect Competition": 0,
+            "Monopoly": 0,
+            "Quasi-Competitive Solution": 0,
+            "Collusion Model": 0,
+            "Cournot Model": 0,
+            "Stackelberg Model": 0,
+            "Kinked Demand Curve Model": 0,
+            "Markets under Perfect Competition": 0,
+            "Static Equilibrium": 0,
+            "Walrasian Equilibrium": 0,
+            "Marshallian Static Stability": 0,
+            "Dynamic Stability": 0,
+            "Elements of Welfare Economics": 0,
+            "Pareto's Optimality Theory": 0,
+            "Arrow's Approach": 0,
+            "PECO-102 Macroeconomic Theory": 0,
+            "Classical Theory": 0,
+            "Labor Demand": 0,
+            "Labor Supply": 0,
+            "Money Market": 0,
+            "Money Market - Aggregate Supply": 0,
+            "Money Market - Aggregate Demand": 0,
+            "Goods Market": 0,
+            "Summary of Classical Model": 0,
+            "Keynesian Theory": 0,
+            "The Income Expenditure Model": 0,
+            "Equilibrium Level of Income": 0,
+            "Derivation of Expenditure Multiplier": 0,
+            "IS-LM Framework": 0,
+            "IS - Product Market - Goods Market": 0,
+            "LM - Money Market": 0,
+            "ISLM - Joint Equilibrium": 0,
+            "Monetarist School of Economic Thought": 0,
+            "Natural Rate Theory": 0,
+            "Expectations": 0,
+            "Growth Theories & Models": 0,
+            "Simple Growth Model": 0,
+            "Solow's Growth Model": 0,
+            "Steady State - Balanced Growth Model": 0,
+            "Endogenous Growth Model": 0,
+            "Business Cycles": 0,
+            "Kaldor's Business Cycle": 0,
+            "Real Business Cycles": 0,
+            "Neo Keynesian Economics": 0,
+            "Consumption": 0,
+            "Absolute Income Hypothesis": 0,
+            "Relative Income Hypothesis": 0,
+            "Life Cycle Hypothesis": 0,
+            "Permanent Income Hypothesis": 0,
+            "Investments": 0,
+            "Accelerator Model": 0,
+            "MEC & MEI": 0,
+            "Tobin's Q": 0,
+            "PECO-103": 0,
+            "Difference Equations": 0,
+            "Cob-web Market Model": 0,
+            "Quants Summary": 0,
+            "PECO-104": 0,
+            "Agricultural Marketing in India": 0,
+            "Industrial Agriculture Unit-III recap": 0,
+            "Questions and Answers": 0,
+            "Importance of Agriculture in Indian Economy": 0,
+            "Reasons for Low productivity in agriculture.": 0,
+            "Importance of Irrigation in Agriculture": 0,
+            "Positive Impact of Green Revolution": 0,
+            "Contract Farming": 0,
+            "Inadequacies in Agricultural Marketing system in India": 0,
+            "Advantages and Disadvantages of joint stock companies": 0,
+            "Different Factors that influence market structures": 0,
+            "Firm vs Industry": 0,
+            "Break-even Analysis": 0,
+            "Interdependence of Agriculture and Industry": 0,
+            "Finance Facilities available for Agriculture and Industry": 0,
+            "Major Seasons and Crops, and Types of Farming in India": 0,
+            "Capacity Utilization in Industrial sector": 0,
+            "Types of Elasticity of Demand. Factors for determining them.": 0,
+            "Maximize profits for Entrepreneurs, under perfect competition.": 0,
+            "PECO-105": 0,
+            "Financial Markets Presentations": 0,
+            "Roles & operations of Banks": 0,
+            "Market Differentiation": 0,
+            "Policy measures for Agricultural Marketing": 0,
+            "Stock Exchange of India": 0,
+            "Evaluation methods for project investment": 0,
+            "PECO-106": 0,
+            "Time Series Data Analysis in R": 0,
+            "PECO-201 Public Economics": 0,
+            "Introduction to Public Economics": 0,
+            "Hour 2": 0,
+            "Day 3": 0,
+            "Introduction PE 4": 0,
+            "Gruber Ch1": 0,
+            "Introduction PE 5": 0,
+            "Introduction PE 6": 0,
+            "Introduction PE 7": 0,
+            "PE Unit II": 0,
+            "Videos and Materials": 0,
+            "PECO-202 Ethics, Economics and Society": 0,
+            "Introduction to PECO-202": 0,
+            "PECO-203 Econometrics": 0,
+            "Random Variables and Expectations": 0,
+            "The Normal Distribution": 0,
+            "Matrix Notation for Regression Model": 0,
+            "Linear Regression Model": 14,
+            "PECO-205 Corporate Finance": 0,
+            "Basics of CF": 0,
+            "Introduction to Corporate Finance": 0,
+            "The Objective in Corporate Finance": 0,
+            "8e Analysis of Financial Statements": 0,
+            "Financial Statement Analysis": 0,
+            "Activity Ratios": 0,
+            "PECO-206 Computer Applications II": 0,
+            "Reading": 0
+          }
+        },
+        "Academic/Actuarial Science/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam FM/index.md": {
+          "total": 0,
+          "scenes": {
+            "Annuity": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam P/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 8/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 7/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 5/index.md": {
+          "total": 0,
+          "scenes": {
+            "Section A": 0,
+            "Section B": 0,
+            "Section A- Problems Review": 0,
+            "Section B- Problems Review": 0,
+            "Formulae": 0
+          }
+        },
+        "Academic/Actuarial Science/Exam 6U/index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Academic/Actuarial Science/Exam 6I/index.md": {
+          "total": 0,
+          "scenes": {
+            "Discrimination and Insurance": 0
+          }
+        },
+        "Academic/Actuarial Science/DISC/index.md": {
+          "total": 0,
+          "scenes": {
+            "CAS-DISC-DA": 0,
+            "Planning an Insurer Data Modeling Project": 0
+          }
+        }
+      }
     }
   ],
   "showWordCountInStatusBar": true,
   "startNewSessionEachDay": true,
-  "sessionGoal": 1000,
+  "sessionGoal": 500,
   "applyGoalTo": "all",
   "notifyOnGoal": true,
   "countDeletionsForGoal": false,
   "keepSessionCount": 30,
   "sessionFile": "longform-sessions.json",
   "numberScenes": false,
-  "sceneTemplate": "templates/note.md",
+  "sceneTemplate": null,
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",

@@ -1,7 +1,50 @@
 body {
-  --h1-line-height: 4rem;
-  --h2-line-height: 3.5rem;
-  --h3-line-height: 3rem;
+  /* --h1-line-height: 4rem; */
+  /* --h2-line-height: 3.5rem; */
+  /* --h3-line-height: 3rem; */
+
+
+}
+
+/* .HyperMD-header { */
+/*   padding-top:40px !important; */
+/*   padding-bottom: 20px !important; */
+/*   font-weight:bold; */
+/* } */
+
+img[src*="garden\.svg"] {
+  filter: invert(1);
+}
+
+img[src*="LABS\.svg"] {
+  filter: invert(1);
+}
+
+img[src*="exploration\.svg"] {
+  filter: invert(1);
+}
+
+img[src*="music\.svg"] {
+  filter: invert(1);
+}
+
+/* .internal-link:hover { */
+/*   color: var(--interactive-accent); */
+/* } */
+/* .cm-hmd-internal-link::before { */
+/*   color: var(--interactive-accent); */
+/*   content: "[["; */
+/* } */
+/* .cm-hmd-internal-link::after { */
+/*   color: var(--interactive-accent); */
+/*   content: "]]"; */
+/* } */
+.internal-link{
+  color: var(--interactive-accent) !important;
+}
+
+.inline-title{
+  color: var(--color-base-60) !important;
 }
 
 wbr {

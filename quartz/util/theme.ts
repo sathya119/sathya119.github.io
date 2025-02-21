@@ -6,6 +6,7 @@ export interface ColorScheme {
   dark: string
   secondary: string
   tertiary: string
+  selection: string
   highlight: string
   textHighlight: string
 }
@@ -18,6 +19,7 @@ interface Colors {
 export interface Theme {
   typography: {
     header: string
+    special: string
     body: string
     code: string
   }
@@ -51,9 +53,11 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --textHighlight: ${theme.colors.lightMode.textHighlight};
+  --selection: ${theme.colors.lightMode.selection};
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
+  --specialFont: "${theme.typography.special}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
 }
 
@@ -67,6 +71,7 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+  --selection: ${theme.colors.darkMode.selection};
 }
 `
 }

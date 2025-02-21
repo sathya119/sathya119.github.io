@@ -26,15 +26,6 @@
   ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:insert-link": [],
-  "obsidian-shellcommands:shell-command-q8e4e998jk": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "`"
-    }
-  ],
   "longform:longform-jump-to-project": [
     {
       "modifiers": [
@@ -44,12 +35,68 @@
       "key": "R"
     }
   ],
-  "theme:use-dark": [
+  "obsidian-footnotes:insert-autonumbered-footnote": [
     {
       "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "obsidian-timestamper:obsidian-fast-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "obsidian-focus-mode:toggle-focus-mode": [
+    {
+      "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "D"
+      "key": "Z"
+    }
+  ],
+  "quickadd:runQuickAdd": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "copilot:chat-toggle-window": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
     }
   ]
 }

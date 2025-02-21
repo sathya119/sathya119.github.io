@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "fae5d288a6865ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "52796e0056a51908",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "90837c11ab11ec2c",
+            "id": "a2d0c5845973b730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Spinor-Helicity Formalism.md",
+                "file": "My Journey with Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spinor-Helicity Formalism"
+              "title": "My Journey with Physics"
             }
           }
         ],
@@ -44,15 +44,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a6b41e16005a5560",
+    "id": "78b541aa9047cccf",
     "type": "split",
     "children": [
       {
-        "id": "bfdfe25f81757d06",
+        "id": "a64af836b3246a6f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebc7f06b4cb5c3b",
+            "id": "a601a5e02c603136",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,13 +65,23 @@
             }
           },
           {
-            "id": "1e44244526188bed",
+            "id": "645f309c3f323b41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8656346f6b982629",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#helicity",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,17 +92,7 @@
             }
           },
           {
-            "id": "7de75e0a52d49db2",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "f583d017a23272e0",
+            "id": "afb701440b305ac2",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -101,28 +101,27 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 378.5
   },
   "right": {
-    "id": "5390f986a74ef251",
+    "id": "3c10cf3923d54a73",
     "type": "split",
     "children": [
       {
-        "id": "be0e6b56609eeebb",
+        "id": "4afb857062e2a0b5",
         "type": "tabs",
         "children": [
           {
-            "id": "5f65aceb93d8f863",
+            "id": "9085247a55bf1c3e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Academic Notes.md",
+                "file": "Academic/Economics/Videos and Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,25 +131,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Academic Notes"
+              "title": "Backlinks for Videos and Materials"
             }
           },
           {
-            "id": "46886fee1d4722e2",
+            "id": "e8442fce1f606383",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Academic Notes.md",
+                "file": "Academic/Economics/Matrix Notation for Regression Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Academic Notes"
+              "title": "Outgoing links from Matrix Notation for Regression Model"
             }
           },
           {
-            "id": "42ff1d5eaf7f56fa",
+            "id": "f9103e5dd02d885a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,90 +162,133 @@
             }
           },
           {
-            "id": "16f51fd493874b66",
+            "id": "b7fa7ced97a30d59",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "59f68f4d8278c649",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Spinor-Helicity Formalism.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "_private/Scratch/All that you need for hostel.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Spinor-Helicity Formalism"
+              "title": "Outline of All that you need for hostel"
+            }
+          },
+          {
+            "id": "02467ec4804c97cf",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b0b2a576675e547d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b30007f38166b014",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 418.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "1e44244526188bed",
+  "active": "a2d0c5845973b730",
   "lastOpenFiles": [
-    "notes/Cosmology - II.md",
-    "notes/MATH52530.md",
-    "notes/Scattering Amplitudes.md",
+    "Student.md",
+    "index.md",
     "notes/Spinor-Helicity Formalism.md",
-    "notes/Pauli Matrices.md",
-    "notes/Definitions.md",
-    "notes/on-shell.md",
+    "notes/Scattering Amplitudes.md",
+    "notes/MATH52530.md",
     "notes/Epiphany (Spring) Term.md",
     "notes/Particles, Strings and Cosmology - F3K209.md",
     "My Journey with Physics.md",
-    "Student.md",
-    "index.md",
-    "notes/The Brain - MCB80.3x.md",
-    "notes/Vision.md",
-    "notes/Phototransduction.md",
-    "notes/Introduction to String Theory.md",
-    "notes/Introduction and Classical Particle.md",
-    "notes/Particle Interactions.md",
-    "notes/Classical Non-Relativistic Particle.md",
-    "notes/Introduction to Strings.md",
-    "notes/World-line Gravity.md",
-    "attachments/string int.md",
-    "attachments/string int.light.svg",
-    "attachments/string int.light.png",
-    "attachments/string int.dark.png",
-    "attachments/string int.dark.svg",
-    "attachments/int vertices.md",
-    "attachments/int vertices.light.png",
-    "attachments/int vertices.light.svg",
-    "attachments/int vertices.dark.png",
-    "attachments/int vertices.dark.svg",
-    "notes/Classical Relativistic Particle.md",
-    "attachments/tangent to worldline.md",
-    "attachments/map worldline.md",
-    "attachments/tangent to worldline.light.png",
-    "attachments/tangent to worldline.light.svg",
-    "Spin",
-    "attachments/Ink/Writing/2024.11.12 - 22.27pm.writing",
-    "attachments/Ink/Writing",
-    "attachments/Ink",
-    "attachments",
-    "notes/attachments",
-    "Music",
-    "templates",
-    "Physics",
-    "Music/Music"
+    "explorations/index.md",
+    "explorations/useReducer().md",
+    "LABS/index.md",
+    "_private/presentations/Drawing 2025-02-02 18.01.31.excalidraw.md",
+    "attachments/Pasted Image 20250202180159_537.png",
+    "_private/presentations/Drawing 2025-02-02 18.01.31.excalidraw.light.svg",
+    "_private/presentations/Drawing 2025-02-02 18.01.31.excalidraw.dark.svg",
+    "attachments/Pasted Image 20250202180133_901.png",
+    "_private/presentations/RE-planning.excalidraw.md",
+    "_private/presentations/Drawing 2025-01-26 14.28.13.excalidraw.dark.svg",
+    "notes/General Equilibrium.md",
+    "Academic/Economics/MB. Chapter 5.md",
+    "Academic/Economics/PECO-201 Public Economics.md",
+    "notes/Basic Fundamentals.md",
+    "notes/Harold Domal Model (1946).md",
+    "notes/Solow's Model.md",
+    "Academic/Economics/Solow's Growth Model.md",
+    "Academic/Economics/Lecture PE 2.md",
+    "Academic/Economics/Lecture PE 1.md",
+    "Academic/Economics/Introduction to Public Economics.md",
+    "Academic/Economics/Stream PECO-201.md",
+    "Academic/Economics/Lecture PE 4.md",
+    "Academic/Economics/Lecture PE 3.md",
+    "_private/presentations/GCA-2025.excalidraw.light.svg",
+    "_private/presentations/GCA-2025.excalidraw.dark.svg",
+    "_private/presentations/Drawing 2025-01-26 14.28.13.excalidraw.light.svg",
+    "_private/presentations/Slideshow Demo.excalidraw.light.svg",
+    "_private/presentations/Slideshow Demo.excalidraw.dark.svg",
+    "_private/presentations",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Clippings",
+    "TeachMyself",
+    "_private/Untitled",
+    "notes/books",
+    "_private/archives/Exam 5",
+    "_private/archives",
+    "explorations/Mindmap.canvas",
+    "Untitled.canvas"
   ]
 }

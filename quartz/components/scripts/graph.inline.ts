@@ -19,6 +19,8 @@ import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
 
+const FONT_SCALING_FACTOR = 15
+
 type GraphicsInfo = {
   color: string
   gfx: Graphics
@@ -181,6 +183,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     "--dark",
     "--darkgray",
     "--bodyFont",
+    "--specialFont"
   ] as const
   const computedStyleMap = cssVars.reduce(
     (acc, key) => {
@@ -378,9 +381,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       alpha: 0,
       anchor: { x: 0.5, y: 1.2 },
       style: {
-        fontSize: fontSize * 15,
+        fontSize: fontSize * FONT_SCALING_FACTOR,
         fill: computedStyleMap["--dark"],
-        fontFamily: computedStyleMap["--bodyFont"],
+        fontFamily: computedStyleMap["--specialFont"],
       },
       resolution: window.devicePixelRatio * 4,
     })

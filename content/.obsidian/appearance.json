@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Minimal",
+  "accentColor": "#0d106e",
   "theme": "obsidian",
-  "accentColor": "",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [],
+  "textFontFamily": "PT Serif",
   "baseFontSize": 17,
+  "cssTheme": "",
   "showRibbon": false
 }

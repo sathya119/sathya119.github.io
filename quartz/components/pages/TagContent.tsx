@@ -51,7 +51,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       }
       return (
         <div class={classes}>
-          <article>
+          <article id="content">
             <p>{content}</p>
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
@@ -110,7 +110,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
 
       return (
         <div class={classes}>
-          <article>{content}</article>
+          <article id="content">{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>

@@ -1,16 +1,15 @@
 {
-  "vimMode": false,
+  "vimMode": true,
+  "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments",
-  "userIgnoreFilters": [
-    "docs/",
-    "node_modules/",
-    "quartz/",
-    "public/attachments/",
-    "!**/*.md"
-  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "showLineNumber": true,
-  "promptDelete": false
+  "attachmentFolderPath": "attachments"
 }

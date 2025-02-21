@@ -6,114 +6,271 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "BoBxNote",
-      "BoBxConversation",
-      "BoBxMusic",
-      "BoBxsPiano",
-      "BoBxsFlask"
+      "LiNewspaper",
+      "LiNotebookText",
+      "LiLayoutTemplate",
+      "LiNetwork",
+      "LiHome"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
       {
-        "rule": " - Maps of Content",
-        "icon": "BoBxGlobeAlt",
-        "for": "folders",
+        "rule": "attachments/",
+        "icon": "LiFile",
+        "for": "everything",
         "order": 0
-      },
-      {
-        "rule": " - Projects",
-        "icon": "BoBxsPen",
-        "for": "folders",
-        "order": 1
-      },
-      {
-        "rule": " - Areas",
-        "icon": "BoBxsPackage",
-        "for": "folders",
-        "order": 2
-      },
-      {
-        "rule": " - Resources",
-        "icon": "BoBxsBook",
-        "for": "folders",
-        "order": 3
-      },
-      {
-        "rule": " - Fleeting",
-        "icon": "BoBxsPencil",
-        "for": "folders",
-        "order": 4
-      },
-      {
-        "rule": "- Daily",
-        "icon": "BoBxCalendarEvent",
-        "for": "folders",
-        "order": 5
-      },
-      {
-        "rule": "- Meta",
-        "icon": "BoBxSelection",
-        "for": "folders",
-        "order": 6
-      },
-      {
-        "rule": "- Templates",
-        "icon": "BoBxRuler",
-        "for": "everything",
-        "order": 7
-      },
-      {
-        "rule": "- Permanent",
-        "icon": "BoBxsFile",
-        "for": "everything",
-        "order": 8
-      },
-      {
-        "rule": "- Archives",
-        "icon": "BoBxsArchive",
-        "for": "folders",
-        "order": 9
       }
     ],
     "extraMargin": {
       "top": 0,
-      "right": 2,
+      "right": 4,
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
-    "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
+    "lucideIconPackType": "native",
     "debugMode": false,
-    "iconInTitlePosition": "above",
-    "lucideIconPackType": "native"
+    "useInternalPlugins": false
   },
-  "03 - Actuaries": "BoBxsDetail",
-  "03 - Actuaries/Exam 5": "BoBxsSquare",
-  "07 - Resources": "BoBxsBook",
-  "09 - Daily": "BoBxCalendar",
-  "04 - Music": "BoBxMusic",
-  "05 - Random": "BoBxsMemoryCard",
-  "03 - Actuaries/Economics": "BoBxSquare",
-  "202407301421 Demand Analysis.md": "BoBxLemon",
-  "99 - Meta/Attachments/Brochure.pdf": "BoBxText",
-  "economics": "BoBxsGraduation",
-  "talks": "BoBxPodcast",
-  "music": "BoBxsPiano",
-  "content": "BoBxBookContent",
-  "docs": "BoBxDotsVerticalRounded",
-  "node_modules": "BoBxsShapes",
-  "content/notes": "BoBxNote",
-  "content/Academic": "BoBxsGraduation",
-  "content/explorations": "BoBxsTree",
-  "content/Music": "BoBxMusic",
-  "content/LABS": "BoBxsFlask",
-  "content/thoughts": "BoBxConversation",
-  "content/index.md": "BoBxHomeAlt"
+  "Academic": "BoBxsGraduation",
+  "explorations": "BoBxsTree",
+  "LABS": "BoBxsFlask",
+  "Music": "LiMusic3",
+  "thoughts": "LiCloudFog",
+  "notes": "BoBxNote",
+  "Academic/Actuarial Science/Exam 6I/Discrimination and Insurance.md": {
+    "iconName": "LiNotepadText"
+  },
+  "templates/Exam6U-Note.md": {
+    "iconName": "LiNotebookText"
+  },
+  "templates/note.md": {
+    "iconName": "LiNotebookText"
+  },
+  "templates/examFM.md": {
+    "iconName": "LiNotebookText"
+  },
+  "templates/Exam6I-Note.md": {
+    "iconName": "LiNotebookText"
+  },
+  "templates/exam5 note.md": {
+    "iconName": "LiNotebookText"
+  },
+  "templates/3 Levels.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Addressing Anomalies in Loss Data.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Chain Ladder Method.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Development.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Expenses and Profits.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Fundamental Insurance Equation.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Insurance Basics.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Overall Rate Level Indications.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Ratemaking.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Ratemaking Methods.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Ratemaking Principles.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Reporting Pattern.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Reserving.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Risk Classification.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Risk Classification Fundamentals.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Should you go for negative profit in FIE.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Trending in Ratemaking.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Univariate Classification (Traditional).md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/DISC/CAS-DISC-DA.md": {
+    "iconName": "LiScroll"
+  },
+  "Academic/Actuarial Science/DISC/Planning an Insurer Data Modeling Project.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Walrasian Equilibrium.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Static Equilibrium.md": {
+    "iconName": "LiNotebookText"
+  },
+  "index.md": {
+    "iconName": "LiHome"
+  },
+  "tags/PECO101.md": {
+    "iconName": "LiNetwork"
+  },
+  "templates": "LiLayoutTemplate",
+  "templates/tags.md": {
+    "iconName": "LiNetwork"
+  },
+  "tags/actuaries.md": {
+    "iconName": "LiNetwork"
+  },
+  "Academic/Economics/Marshallian Static Stability.md": {
+    "iconName": "LiNotebookText"
+  },
+  "thoughts/Note Taking Companion.md": {
+    "iconName": "LiNewspaper"
+  },
+  "LABS/Arch Linux.md": {
+    "iconName": "LiNotebookText"
+  },
+  "explorations/Study Tech.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Questions and Answers.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Importance of Agriculture in Indian Economy.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Reasons for Low productivity in agriculture..md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Importance of Irrigation in Agriculture.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Positive Impact of Green Revolution.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Contract Farming.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Inadequacies in Agricultural Marketing system in India.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Advantages and Disadvantages of joint stock companies.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Different Factors that influence market structures.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Firm vs Industry.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Break-even Analysis.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Interdependence of Agriculture and Industry.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Finance Facilities available for Agriculture and Industry.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Major Seasons and Crops, and Types of Farming in India.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Capacity Utilization in Industrial sector.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Types of Elasticity of Demand. Factors for determining them..md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Maximize profits for Entrepreneurs, under perfect competition..md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Policy measures for Agricultural Marketing.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Evaluation methods for project investment.md": {
+    "iconName": "LiNotebookText"
+  },
+  "LABS/Svelte authentication using Lucia.md": {
+    "iconName": "LiNotebookText"
+  },
+  "LABS/PocketBase.md": {
+    "iconName": "LiNotebookText"
+  },
+  "LABS/Important gotchas from SvelteKit.md": {
+    "iconName": "LiNotebookText"
+  },
+  "explorations/Local first Svelte Apps.md": {
+    "iconName": "LiNotebookText"
+  },
+  "explorations/Svelte Tutorials.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Hour 2.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Introduction to PECO-202.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Introduction to Public Economics.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/PECO-201 Public Economics.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Measuring Exposures and Premiums.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Ratemaking Process.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Ratemaking Principles and Considerations.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Reinsurance.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Shock Losses.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Actuarial Science/Exam 5/Trending.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/PECO-205 Corporate Finance.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/Introduction to Corporate Finance.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/PECO-206 Computer Applications II.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/PECO-203 Econometrics.md": {
+    "iconName": "LiNotebookText"
+  },
+  "Academic/Economics/The Objective in Corporate Finance.md": {
+    "iconName": "LiNotebookText"
+  }
 }

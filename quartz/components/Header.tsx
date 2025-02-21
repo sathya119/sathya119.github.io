@@ -9,7 +9,6 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 2rem 0;
   gap: 1.5rem;
 }
 
@@ -18,5 +17,6 @@ header h1 {
   flex: auto;
 }
 `
+  // margin: 2rem 0;
 
 export default (() => Header) satisfies QuartzComponentConstructor
