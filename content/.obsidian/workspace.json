@@ -37,8 +37,7 @@
               "title": "Spinor-Helicity Formalism"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,10 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2d0c5845973b730",
+  "active": "52796e0056a51908",
   "lastOpenFiles": [
-    "index.md",
     "notes/Spinor-Helicity Formalism.md",
+    "index.md",
     "Music.md",
     "Student.md",
     "instagram.com/chasing_tunes.md",

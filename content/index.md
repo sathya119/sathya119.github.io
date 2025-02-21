@@ -13,6 +13,6 @@ I publish my academic and co-curricular notes here.
 - I also [[Write]].
 - But, I mostly [[Daydream]].
 
-Hope you find something that interests you :D
+Click any of the highlighted words and I hope you find something that interests you :D
 
 
