@@ -4,7 +4,7 @@ Where and what do I study?
 
 I write my academic notes in [[My Journey with Physics]] and also some other random jazz about my, well as the title suggests, Journey with Physics :P
 
-> I am also a student of Neuroscience at Harvard (which I attend online) which I am trying to balance alongside my degree at Durham University. 
+> I am also a student of Neuroscience at Harvard University (I attend online) which I am trying to balance alongside my degree at Durham University. 
 
 I take some notes about [[Neuroscience]] and write about related topics too!
 
