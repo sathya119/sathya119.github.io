@@ -120,7 +120,11 @@ P M , G , | P , M G , | R , | R , || M G , R , | M , G R , | S , | S , ||
 **Chatusra Jati Eka Tala:** I$_4$ = 4 beats
 
 S R G M || R G M P ||
+
 G M P D || M P D N ||
+
 P D N Ṡ || Ṡ N D P ||
+
 N D P M || D P M G ||
+
 P M G R || M G R S ||
