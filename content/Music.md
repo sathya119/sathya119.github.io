@@ -4,3 +4,5 @@
 - [[Carnatic Music Theory]]
 - [[Western Music Theory]]
 - [[Science and Music]]
+- [[Musical Instruments]]
+

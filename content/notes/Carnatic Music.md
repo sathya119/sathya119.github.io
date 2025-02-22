@@ -15,3 +15,10 @@ The below is the usual chronologically followed pattern of learning Carnatic Mus
 - [[Raga Alapana]]
 - [[Kalpana or Manodharma Swaras]]
 
+I always find the history of Carnatic Music extremely fascinating because we really do not know its genesis!
+
+- [[History of Carnatic Music]]
+- [[History of famous Composers]]
+- [[Etymology of Ragas]]
+- [[History of Pann Isai (Tamil Music)]]
+- [[Ancient Musical Instruments]]
