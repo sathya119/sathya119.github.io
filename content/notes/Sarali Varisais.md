@@ -1,4 +1,4 @@
-There are 14 of these exercises.
+There are 14 of these exercises. They help with stablising the swara pitches and singing on shruti.
 
 >You might want to check [[What is a Raga]], [[What is a Tala]] and [[What is a Swara]], specifically [[What does 1 and 2 mean]] to be able to read the following music well.
 
@@ -17,6 +17,8 @@ These exercises are usually sung in 3 speeds (called *Vilambita* (Slow), *Madhya
 1. One note per beat.
 2. Two notes per beat.
 3. Four notes per beat.
+
+The following exercises are done in Adi Tala (Chatusra Jati Triputa Tala).
 
 ### Exercise 1
 
