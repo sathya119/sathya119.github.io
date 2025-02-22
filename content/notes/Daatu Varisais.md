@@ -4,11 +4,10 @@ There are 2 of these exercises. They have varying patterns of singing the swaras
 
 In case you do not want to go deep into those topics, just know that 1 indicates the first variety and 2 indicates the second variety. The first vertical bar in the exercise indicates the end of half a cycle and the double bar indicates the end of a cycle of Tala. This should be enough to follow along.
 #### Mayamalavagowla: 
-##### Arohana (Ascending) - 
-S R$_1$ G$_2$ M$_1$ P D$_1$ N$_2$ Ṡ
 
-##### Avarohana (Descending) - 
-Ṡ N$_2$ D$_1$ P M$_1$ G$_2$ R$_1$ S
+Arohana (Ascending) - S R$_1$ G$_2$ M$_1$ P D$_1$ N$_2$ Ṡ
+
+Avarohana (Descending) - Ṡ N$_2$ D$_1$ P M$_1$ G$_2$ R$_1$ S
 
 This raga is the major scale (if you are aware of it) with the 2$^{nd}$ and 6$^{th}$ notes flattened.
 
