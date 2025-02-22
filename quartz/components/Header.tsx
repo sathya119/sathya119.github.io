@@ -4,7 +4,7 @@ const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return children.length > 0 ? (
     <header>
       <a href="/">
-        <img src="/brain.png" alt="Site Logo" className="site-logo" />
+        <img src="D:\Users\Sathya\Documents\GitHub\sathya119.github.io\quartz\static\brain.png" alt="Site Logo" className="site-logo" />
       </a>
       {children}
     </header>
