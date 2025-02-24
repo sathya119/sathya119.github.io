@@ -7,4 +7,4 @@ Traditionally, these exercises, when first taught, are done so in a raga called 
 3. [[Daatu Varisais]]
 4. [[Melsthayi Varisais]]
 5. [[Keezhsthayi Varisais]]
-	1. [[Alankaras]]
+6. [[Alankaras]]

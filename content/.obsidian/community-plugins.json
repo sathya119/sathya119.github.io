@@ -2,7 +2,6 @@
   "longform",
   "obsidian-excalidraw-plugin",
   "obsidian-footnotes",
-  "obsidian-latex-suite",
   "obsidian-outliner",
   "numerals",
   "obsidian-smart-typography",
@@ -14,7 +13,7 @@
   "copilot",
   "darlal-switcher-plus",
   "dataview",
-  "obsidian-completr",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-latex-suite"
 ]

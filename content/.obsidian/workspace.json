@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student.md",
+                "file": "notes/The Nambu-Goto Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Student"
+              "title": "The Nambu-Goto Action"
             }
           },
           {
@@ -57,16 +57,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Foundational Exercises.md",
+                "file": "notes/Carnatic Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundational Exercises"
+              "title": "Carnatic Music"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,18 +250,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "012a0778629ddbc9",
+  "active": "dca1ed67a65f6532",
   "lastOpenFiles": [
-    "notes/Alankaras.md",
+    "notes/Classical Bosonic String I.md",
+    "notes/The Nambu-Goto Action.md",
+    "index.md",
+    "notes/Carnatic Music.md",
+    "notes/Introduction to String Theory.md",
+    "notes/MATH52530.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Particles, Strings and Cosmology - F3K209.md",
+    "My Journey with Physics.md",
+    "Student.md",
+    "notes/Spinor-Helicity Formalism.md",
     "notes/Foundational Exercises.md",
+    "notes/Alankaras.md",
     "notes/Keezhsthayi Varisais.md",
     "notes/Melsthayi Varisais.md",
     "notes/Daatu Varisais.md",
     "notes/Janta Varisais.md",
     "notes/Sarali Varisais.md",
-    "notes/Carnatic Music.md",
-    "Student.md",
-    "My Journey with Physics.md",
     "Music.md",
     "notes/Science and Music.md",
     "notes/How is sound produced.md",
@@ -270,15 +278,8 @@
     "notes/How does music affect the BMS.md",
     "notes/What is a Swara.md",
     "notes/What does 1 and 2 mean.md",
-    "notes/What do Swara names mean.md",
-    "notes/Enharmony.md",
-    "notes/Sri Sathya Sai Institute of Higher Learning.md",
-    "notes/Why SSSIHL.md",
-    "index.md",
-    "attachments/music.md",
     "attachments/music.light.svg",
     "attachments/music.dark.svg",
-    "attachments/Drawing 2025-02-21 21.51.29.excalidraw.md",
     "attachments/staff-notation-vector-svgrepo-com.svg",
     "attachments/music-instruments-svgrepo-com.svg",
     "attachments/piano-svgrepo-com.svg",
@@ -287,7 +288,6 @@
     "attachments/heartbeat-svgrepo-com.svg",
     "attachments/veena-svgrepo-com.svg",
     "attachments/metronome-tempo-beat-bpm-svgrepo-com.svg",
-    "notes/Chinese Classical.md",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
