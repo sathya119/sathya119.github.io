@@ -22,5 +22,7 @@
 	
 	where $$\Theta(\sigma)$$ is an arbitrary function.
 
+Poincaré and reparametrisation invariances are manifest in the notation, while invariance under Weyl transformations follows immediately from $$\sqrt{ -\tilde{h} }=e^{-\Theta}\sqrt{ -\tilde{h} }$$.
 
+Poincaré invariance is a global symmetry whereas the world-sheet coordinate transformations and Weyl invariance are gauge symmetries or redundancies that simply reparametrise classical solutions.
 
