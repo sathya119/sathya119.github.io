@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/SSB in a Global Gauge Theory.md",
+                "file": "notes/SSB in Local Gauge Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSB in a Global Gauge Theory"
+              "title": "SSB in Local Gauge Theory"
             }
           },
           {
@@ -252,14 +252,15 @@
   },
   "active": "dca1ed67a65f6532",
   "lastOpenFiles": [
+    "notes/Standard Model Higgs Sector.md",
+    "notes/SSB in Local Gauge Theory.md",
+    "notes/SSB in a Global Gauge Theory.md",
     "attachments/case 2 ssb.md",
     "attachments/case 2 ssb.light.svg",
     "attachments/case 2 ssb.dark.svg",
     "attachments/case 1 ssb.md",
-    "notes/SSB in a Global Gauge Theory.md",
     "attachments/case 1 ssb.light.svg",
     "attachments/case 1 ssb.dark.svg",
-    "notes/Standard Model Higgs Sector.md",
     "notes/Spontaneous Symmetry Breaking.md",
     "notes/Examples for SSB.md",
     "notes/Higgs Phenomenology.md",

@@ -2,4 +2,6 @@ In the [[Standard Model]], the Higgs field is linked to the Higgs Mechanism, i.e
 
 - [[Spontaneous Symmetry Breaking]]
 - [[SSB in a Global Gauge Theory]]
-- 
+- [[SSB in Local Gauge Theory]]
+- [[Higgs Sector]]
+- [[Feynman Rules - SM Higgs]]
