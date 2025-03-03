@@ -24,7 +24,7 @@ The partial derivatives are given by
 
 $$\partial_{\pm}=\frac{1}{2}(\partial_{0}\pm\partial_{1})$$ and the wave operator is $$\partial_{0}^2-\partial_{1}^2=4\partial_{+}\partial_{-}$$.
 
-The Polyakov action becomes 
+The gauge-fixed Polyakov action becomes 
 
 $$S=T\int_{\Sigma}d^2\sigma\;\partial_{+}X^\mu\partial_{-}X_{\mu}$$.
 

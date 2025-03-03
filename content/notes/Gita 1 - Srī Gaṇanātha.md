@@ -19,6 +19,7 @@ O I$_4$ = 2 + 4 = 6 beats
 #### Pallavī
 
 Srī Gaṇanātha Sindhura Varṇa Karuṇa Sāgara Karivadanā
+
 Lambōdara Lakumi Karā Ambā Suta Amara Vinuta
 
 M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
@@ -39,5 +40,5 @@ Am - | bā - Su ta || A ma | ra Vi nu ta ||
 
 (Lambodara...)
 
-#### Charanam 1:
+#### Caraṇam 1:
 
