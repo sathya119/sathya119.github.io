@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/SSB in Local Gauge Theory.md",
+                "file": "notes/Feynman Rules - SM Higgs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSB in Local Gauge Theory"
+              "title": "Feynman Rules - SM Higgs"
             }
           },
           {
@@ -252,7 +252,16 @@
   },
   "active": "dca1ed67a65f6532",
   "lastOpenFiles": [
+    "attachments/hhWW.md",
+    "attachments/hhWW.light.svg",
+    "attachments/hhWW.dark.svg",
+    "notes/Feynman Rules - SM Higgs.md",
+    "attachments/hWW.md",
+    "notes/Untitled.md",
+    "attachments/hWW.light.svg",
+    "attachments/hWW.dark.svg",
     "notes/Standard Model Higgs Sector.md",
+    "notes/Higgs Sector.md",
     "notes/SSB in Local Gauge Theory.md",
     "notes/SSB in a Global Gauge Theory.md",
     "attachments/case 2 ssb.md",
@@ -276,18 +285,8 @@
     "notes/The Nambu-Goto Action.md",
     "index.md",
     "notes/Epiphany (Spring) Term.md",
-    "notes/Particles, Strings and Cosmology - F3K209.md",
-    "My Journey with Physics.md",
-    "Student.md",
-    "notes/Foundational Exercises.md",
-    "notes/Alankaras.md",
-    "notes/Keezhsthayi Varisais.md",
     "attachments/music.light.svg",
     "attachments/music.dark.svg",
-    "attachments/staff-notation-vector-svgrepo-com.svg",
-    "attachments/music-instruments-svgrepo-com.svg",
-    "attachments/piano-svgrepo-com.svg",
-    "attachments/saxophone-2-svgrepo-com.svg",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
