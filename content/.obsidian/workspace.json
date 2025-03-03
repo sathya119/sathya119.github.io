@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Spontaneous Symmetry Breaking.md",
+                "file": "notes/SSB in a Global Gauge Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spontaneous Symmetry Breaking"
+              "title": "SSB in a Global Gauge Theory"
             }
           },
           {
@@ -252,8 +252,16 @@
   },
   "active": "dca1ed67a65f6532",
   "lastOpenFiles": [
+    "attachments/case 2 ssb.md",
+    "attachments/case 2 ssb.light.svg",
+    "attachments/case 2 ssb.dark.svg",
+    "attachments/case 1 ssb.md",
+    "notes/SSB in a Global Gauge Theory.md",
+    "attachments/case 1 ssb.light.svg",
+    "attachments/case 1 ssb.dark.svg",
     "notes/Standard Model Higgs Sector.md",
     "notes/Spontaneous Symmetry Breaking.md",
+    "notes/Examples for SSB.md",
     "notes/Higgs Phenomenology.md",
     "notes/Higgs Signatures in Decay and Production.md",
     "notes/MATH52530.md",
@@ -273,21 +281,12 @@
     "notes/Foundational Exercises.md",
     "notes/Alankaras.md",
     "notes/Keezhsthayi Varisais.md",
-    "notes/Melsthayi Varisais.md",
-    "notes/Daatu Varisais.md",
-    "notes/Janta Varisais.md",
-    "notes/Sarali Varisais.md",
-    "Music.md",
     "attachments/music.light.svg",
     "attachments/music.dark.svg",
     "attachments/staff-notation-vector-svgrepo-com.svg",
     "attachments/music-instruments-svgrepo-com.svg",
     "attachments/piano-svgrepo-com.svg",
     "attachments/saxophone-2-svgrepo-com.svg",
-    "attachments/violin-svgrepo-com.svg",
-    "attachments/heartbeat-svgrepo-com.svg",
-    "attachments/veena-svgrepo-com.svg",
-    "attachments/metronome-tempo-beat-bpm-svgrepo-com.svg",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
