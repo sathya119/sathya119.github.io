@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Feynman Rules - SM Higgs.md",
+                "file": "notes/Higgs Phenomenology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feynman Rules - SM Higgs"
+              "title": "Higgs Phenomenology"
             }
           },
           {
@@ -57,16 +57,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Carnatic Music.md",
+                "file": "notes/Gita 1 - Srī Gaṇanātha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carnatic Music"
+              "title": "Gita 1 - Srī Gaṇanātha"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -250,43 +250,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dca1ed67a65f6532",
+  "active": "012a0778629ddbc9",
   "lastOpenFiles": [
-    "attachments/hhWW.md",
-    "attachments/hhWW.light.svg",
-    "attachments/hhWW.dark.svg",
+    "notes/Alankārās.md",
+    "notes/Foundational Exercises.md",
+    "notes/Carnatic Music.md",
+    "notes/Gitas or Small Songs.md",
+    "notes/Gita 1 - Srī Gaṇanātha.md",
+    "index.md",
+    "notes/Sarali Varisais.md",
+    "notes/Spinor-Helicity Formalism.md",
+    "notes/Scattering Amplitudes.md",
+    "notes/Higgs Phenomenology.md",
+    "notes/Theoretical Constraints on the  Higgs Sector.md",
+    "notes/Standard Model Higgs Sector.md",
     "notes/Feynman Rules - SM Higgs.md",
+    "attachments/hhhh.md",
+    "attachments/hhhh.light.svg",
+    "attachments/hhhh.dark.svg",
+    "attachments/hhZZ.md",
+    "attachments/hhh.md",
+    "attachments/hhh.light.svg",
+    "attachments/hhh.dark.svg",
+    "attachments/hqq.md",
+    "attachments/hZZ.md",
+    "attachments/hqq.light.svg",
+    "attachments/hqq.dark.svg",
+    "attachments/hhZZ.light.svg",
+    "attachments/hhZZ.dark.svg",
+    "attachments/hhWW.md",
+    "attachments/hZZ.light.svg",
+    "attachments/hZZ.dark.svg",
     "attachments/hWW.md",
     "notes/Untitled.md",
-    "attachments/hWW.light.svg",
-    "attachments/hWW.dark.svg",
-    "notes/Standard Model Higgs Sector.md",
     "notes/Higgs Sector.md",
     "notes/SSB in Local Gauge Theory.md",
     "notes/SSB in a Global Gauge Theory.md",
     "attachments/case 2 ssb.md",
-    "attachments/case 2 ssb.light.svg",
-    "attachments/case 2 ssb.dark.svg",
     "attachments/case 1 ssb.md",
-    "attachments/case 1 ssb.light.svg",
-    "attachments/case 1 ssb.dark.svg",
-    "notes/Spontaneous Symmetry Breaking.md",
-    "notes/Examples for SSB.md",
-    "notes/Higgs Phenomenology.md",
-    "notes/Higgs Signatures in Decay and Production.md",
-    "notes/MATH52530.md",
-    "notes/Introduction to String Theory.md",
-    "notes/Classical Bosonic String I.md",
-    "notes/Gauge Fixing.md",
-    "notes/Symmetries of Polyakov Action.md",
-    "notes/Carnatic Music.md",
-    "notes/Spinor-Helicity Formalism.md",
-    "notes/The Polyakov Action.md",
-    "notes/The Nambu-Goto Action.md",
-    "index.md",
-    "notes/Epiphany (Spring) Term.md",
-    "attachments/music.light.svg",
-    "attachments/music.dark.svg",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",

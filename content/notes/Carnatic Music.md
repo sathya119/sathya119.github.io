@@ -6,10 +6,12 @@ People have confused me to have learned Hindustani Music, another amazing classi
 
 New singers and learners of Music ask me, “What did you learn/practise that your pitch and notes are perfect?” All the credit goes to the meticulously crafted Carnatic Music exercises that every beginner goes through, usually early in their life (but no, learning music has no age bounds).
 
+You will often find a different type of notation in the lyrics of Carnatic compositions. They generally use one of the English diacritics for Indian languages like Sanskrit or Tamil. You can find information about that here: [[Diacritic markings in Compositions]]
+
 The below is the usual chronologically followed pattern of learning Carnatic Music. With each new section, the learning gets increasingly harder (exponentially harder after a point).
 
 - [[Foundational Exercises]]
-- [[Geethas or Small Songs]]
+- [[Gitas or Small Songs]]
 - [[Varnas or Long/Complex Songs]]
 - [[Kritis or Advanced Compositions]]
 - [[Raga Alapana]]
