@@ -44,16 +44,10 @@ Sid dha | Cā - ra ṇa || Ga ṇa | Sē - vi ta || Sid dhi | Vi nā ya ka || T�
 
 #### Caraṇam 2:
 
-**Sakala Vidyā Ādi Pūjita
+**Sakala Vidyā Ādi Pūjita Sarvōttama Tē Namo Namo
 
-**Sarvōttama Tē Namo Namo
+M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P || R M | P D M P || D P | M G R S ||
 
-M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
-
-Sa ka | la Vid yā - || Ā di | Pū - ji ta ||
-
-R M | P D M P || D P | M G R S ||
-
-Sar - | vō - tta ma || Tē - | Na mo Na mo ||
+Sa ka | la Vid yā - || Ā di | Pū - ji ta || Sar - | vō - tta ma || Tē - | Na mo Na mo ||
 
 **(Lambodara...)

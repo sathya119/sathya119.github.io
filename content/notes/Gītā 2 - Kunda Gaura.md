@@ -16,25 +16,34 @@ O I$_4$ = 2 + 4 = 6 beats
 
 #### Pallavī
 
-**Kunda Gaura Gaurī Vara
+**Kunda Gaura Gaurī Vara Mandirāya Mānamakuṭa
 
+**Mandara Kusumākara Makarandam Vāsituvā
 
-D P | M G R S || R M | P D M P ||
+D P | M G R S || R M | P D M P || D Ṙ | Ṙ Ṡ D P || D P | M G R S ||
 
-D Ṙ | Ṙ Ṡ D P || D P | M G R S ||
+Kun da | Gau - - ra || Gau - | rī - Va ra || Man di | rā - - ya || Mā - | na ma ku ṭa ||
 
-S , | R , R , || D P | M G R S ||
+S , | R , R , || D P | M G R S || S R | M , G R || S R G R S , ||
 
-S R | M , G R || S R G R S , ||
+Man - | da - ra - || Ku su | mā - ka ra || Ma ka | ran - dam - || Vā - | si tu vā - ||
 
 #### Caraṇam 1:
 
-D P | M G R S || R M | P D M P ||
+**Hēmakūṭa Simhāsana Virūpākṣa Karuṇākara
 
-D Ṙ | Ṙ Ṡ D P || D P | M G R S ||
+D P | M G R S || R M | P D M P || D Ṙ | Ṙ Ṡ D P || D P | M G R S ||
+
+Hē ma | kū - - ṭa || Sim - | hā - sa na || Vi rū | pā - - kṣa || Ka ru | ṇā - ka ra ||
+
+**(Mandara...)
 
 #### Caraṇam 2:
 
-D P | M G R S || R M | P D M P ||
+**Candamāma Mandākini Mandirāya Mānamakuṭa
 
-D Ṙ | Ṙ Ṡ D P || D P | M G R S ||
+D P | M G R S || R M | P D M P || D Ṙ | Ṙ Ṡ D P || D P | M G R S ||
+
+Can da | mā - - ma || Man - | dā - ki ni || Man di | rā - - ya || Mā - | na ma ku ṭa ||
+
+**(Mandara...)
