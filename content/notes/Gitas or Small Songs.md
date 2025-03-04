@@ -2,7 +2,7 @@ Gitas (lit. songs) are small notation based songs praising different forms of th
 
 - [[Gītā 1 - Srī Gaṇanātha]]
 - [[Gītā 2 - Kunda Gaura]]
-- [[Gita 3 - Kereya Neeranu]]
+- [[Gītā 3 - Kereya Nīranu]]
 - [[Gita 4 - Padumanabha]]
 - [[Gita 5 - Analekara]]
 - [[Gita 6 - Vara Veena]]

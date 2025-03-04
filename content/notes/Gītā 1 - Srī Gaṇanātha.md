@@ -2,7 +2,7 @@ This first Gita is a must know for any learner of Carnatic music. In fact, anyon
 
 Srī Gaṇanātha, being the first Gita, is a composition in praise of Lord Ganesha, the Supreme power behind all obstacles. He is the doer (Vighnakarta) as well as the remover (Vighnaharta) or obstacles. In Sanatana Dharma, we always offer our primary prostrations to Lord Ganesha and pray for a seamless process without any disturbances, whatever the task may be.
 
-**Rāgā:** Malahari
+**Rāgā:** Malahari (Janya of Māyāmālavagowla)
 
 Arohana (Ascending) - S R$_1$ M$_1$ P D$_1$ Ṡ
 

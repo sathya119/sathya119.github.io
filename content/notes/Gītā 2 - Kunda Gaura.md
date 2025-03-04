@@ -1,6 +1,6 @@
-The second Gita, being in the same Raga as the first (and the same Tala), is very similar to [[Gītā 1 - Srī Gaṇanātha]]. This Gita too is in praise of Lord Ganesha.
+The second Gita, being in the same Raga as the first (and the same Tala), is very similar to [[Gītā 1 - Srī Gaṇanātha]]. This Gita is in praise of Lord Shiva.
 
-**Rāgā:** Malahari
+**Rāgā:** Malahari (Janya of Māyāmālavagowla)
 
 Arohana (Ascending) - S R$_1$ M$_1$ P D$_1$ Ṡ
 

@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Gītā 2 - Kunda Gaura.md",
+                "file": "notes/Gītā 3 - Kereya Nīranu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gītā 2 - Kunda Gaura"
+              "title": "Gītā 3 - Kereya Nīranu"
             }
           },
           {
@@ -266,9 +266,10 @@
   },
   "active": "012a0778629ddbc9",
   "lastOpenFiles": [
-    "notes/Gītā 1 - Srī Gaṇanātha.md",
-    "notes/Gītā 2 - Kunda Gaura.md",
     "notes/Gitas or Small Songs.md",
+    "notes/Gītā 2 - Kunda Gaura.md",
+    "notes/Gītā 3 - Kereya Nīranu.md",
+    "notes/Gītā 1 - Srī Gaṇanātha.md",
     "notes/Gauge Fixing.md",
     "notes/Classical Bosonic String I.md",
     "notes/Introduction to String Theory.md",
@@ -295,7 +296,6 @@
     "attachments/hhh.md",
     "attachments/hhh.light.svg",
     "attachments/hhh.dark.svg",
-    "attachments/hqq.md",
     "attachments/hqq.light.svg",
     "attachments/hqq.dark.svg",
     "attachments/hhZZ.light.svg",
