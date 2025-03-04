@@ -22,37 +22,23 @@ O I$_4$ = 2 + 4 = 6 beats
 
 **Lambōdara Lakumi Karā Ambā Suta Amara Vinuta
 
-M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
+M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P || R M | P D M P || D P | M G R S ||
 
-Srī - | Ga ṇa nā tha || Sin dhu | - ra Var ṇa ||
+Srī - | Ga ṇa nā tha || Sin dhu | - ra Var ṇa || Ka ru | ṇa Sā ga ra || Ka ri | Va da nā - ||
 
-R M | P D M P || D P | M G R S ||
+S R | M , G R || S R | G R S , || R M | P D M P || D P | M G R S ||
 
-Ka ru | ṇa Sā ga ra || Ka ri | Va da nā - ||
-
-S R | M , G R || S R | G R S , ||
-
-Lam - | bō - da ra || La ku | mi ka rā - ||
-
-R M | P D M P || D P | M G R S ||
-
-Am - | bā - Su ta || A ma | ra Vi nu ta ||
+Lam - | bō - da ra || La ku | mi Ka rā - || Am - | bā - Su ta || A ma | ra Vi nu ta ||
 
 **(Lambodara...)
 
 #### Caraṇam 1:
 
-**Siddha Cāraṇa Gaṇa Sēvita
+**Siddha Cāraṇa Gaṇa Sēvita Siddhi Vināyaka Tē Namo Namo
 
-**Siddhi Vināyaka Tē Namo Namo
+M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P || R M | P D M P || D P | M G R S ||
 
-M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
-
-Sid dha | Cā - ra ṇa || Ga ṇa | Sē - vi ta ||
-
-R M | P D M P || D P | M G R S ||
-
-Sid dhi | Vi nā ya ka || Tē - | Na mo Na mo ||
+Sid dha | Cā - ra ṇa || Ga ṇa | Sē - vi ta || Sid dhi | Vi nā ya ka || Tē - | Na mo Na mo ||
 
 **(Lambodara...)
 
