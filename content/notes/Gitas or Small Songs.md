@@ -11,4 +11,4 @@ Gitas (lit. songs) are small notation based songs praising different forms of th
 - [[Gita 9 - Mandaradhara Re]]
 - [[Gita 10 - Rere Sri Ramachandra]]
 
-These are just the (prescribed) few out of the many! Just like you cannot define the number of stars, you cannot really set a limit to the number of compositions.
+These are just the (prescribed) few out of the many! Just like how you cannot define the number of stars, you cannot really set a limit to the number of compositions.

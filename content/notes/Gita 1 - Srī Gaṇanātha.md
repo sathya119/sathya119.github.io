@@ -42,3 +42,32 @@ Am - | bā - Su ta || A ma | ra Vi nu ta ||
 
 #### Caraṇam 1:
 
+Siddha Cāraṇa Gaṇa Sēvita
+
+Siddhi Vināyaka Tē Namo Namo
+
+M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
+
+Sid dha | Cā - ra ṇa || Ga ṇa | Sē - vi ta ||
+
+R M | P D M P || D P | M G R S ||
+
+Sid dhi | Vi nā ya ka || Tē - | Na mo Na mo ||
+
+(Lambodara...)
+
+#### Caraṇam 2:
+
+Sakala Vidyā Ādi Pūjita
+
+Sarvōttama Tē Namo Namo
+
+M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
+
+Sa ka | la Vid yā - || Ā di | Pū - ji ta ||
+
+R M | P D M P || D P | M G R S ||
+
+Sar - | vō - tta ma || Tē - | Na mo Na mo ||
+
+(Lambodara...)
