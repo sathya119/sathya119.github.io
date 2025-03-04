@@ -8,7 +8,7 @@ Arohana (Ascending) - S R$_1$ M$_1$ P D$_1$ Ṡ
 
 Avarohana (Descending) - Ṡ D$_1$ P M$_1$ G$_2$ R$_1$ S
 
-**Tālā:** Rūpaka
+**Tālā:** Catuśra Jāti Rūpaka
 
 O I$_4$ = 2 + 4 = 6 beats
 
@@ -18,9 +18,9 @@ O I$_4$ = 2 + 4 = 6 beats
 
 #### Pallavī
 
-Srī Gaṇanātha Sindhura Varṇa Karuṇa Sāgara Karivadanā
+**Srī Gaṇanātha Sindhura Varṇa Karuṇa Sāgara Karivadanā
 
-Lambōdara Lakumi Karā Ambā Suta Amara Vinuta
+**Lambōdara Lakumi Karā Ambā Suta Amara Vinuta
 
 M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
 
@@ -38,13 +38,13 @@ R M | P D M P || D P | M G R S ||
 
 Am - | bā - Su ta || A ma | ra Vi nu ta ||
 
-(Lambodara...)
+**(Lambodara...)
 
 #### Caraṇam 1:
 
-Siddha Cāraṇa Gaṇa Sēvita
+**Siddha Cāraṇa Gaṇa Sēvita
 
-Siddhi Vināyaka Tē Namo Namo
+**Siddhi Vināyaka Tē Namo Namo
 
 M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
 
@@ -54,13 +54,13 @@ R M | P D M P || D P | M G R S ||
 
 Sid dhi | Vi nā ya ka || Tē - | Na mo Na mo ||
 
-(Lambodara...)
+**(Lambodara...)
 
 #### Caraṇam 2:
 
-Sakala Vidyā Ādi Pūjita
+**Sakala Vidyā Ādi Pūjita
 
-Sarvōttama Tē Namo Namo
+**Sarvōttama Tē Namo Namo
 
 M P | D Ṡ Ṡ Ṙ || Ṙ Ṡ | D P M P ||
 
@@ -70,4 +70,4 @@ R M | P D M P || D P | M G R S ||
 
 Sar - | vō - tta ma || Tē - | Na mo Na mo ||
 
-(Lambodara...)
+**(Lambodara...)
