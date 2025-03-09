@@ -25,3 +25,12 @@ div.table-container > table {
   justify-content: space-between;
   align-items: start;
 }
+
+.sidebar.right .Neural\ Map, 
+.sidebar.right .Backlinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  gap: 1rem;
+}
