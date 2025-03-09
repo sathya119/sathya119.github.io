@@ -35,7 +35,7 @@ $$x=sin\theta cos\phi,\;y=cos\theta sin\phi,\;z=cos\theta$$
 $$ds^2=d\theta^2+sin^2\theta d\phi^2$$ with $$g_{\mu\nu}=\begin{pmatrix}
 1&0\\0&sin^2\theta
 \end{pmatrix}$$
-1. **Poincare Disc** - $$ds^2=\frac{4}{(1-r^2)^2}(dr^2+r^2d\phi^2)$$
+3. **Poincare Disc** - $$ds^2=\frac{4}{(1-r^2)^2}(dr^2+r^2d\phi^2)$$
 
 This arises as a hyperbolic surface $$-t^2+x^2+y^2=-1$$ 
 in 3d #Minkowski space.
