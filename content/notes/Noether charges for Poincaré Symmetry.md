@@ -41,3 +41,5 @@ which describe the D-dimensional angular momentum density. Then, the total angul
 $$J^{\mu \nu}=T\int^\pi_{0}d\sigma\;(X^\mu \partial_{\tau}X^\nu-X^\nu \partial_{\tau}X^\mu)$$.
 
 For Lorentz rotations, $$J^{\mu \nu}=l^{\mu \nu}+E^{\mu \nu}$$ with $l^{\mu \nu}=x^\mu p^\nu-x^\nu p^\mu$ and $$E^{\mu \nu}=-i\sum_{n=1}^\infty \frac{1}{n}(\alpha_{-n}^\mu \alpha^\nu_{n}-\alpha^\nu_{-n}\alpha^\mu_{n})$$.
+
+We can also show that $P^\mu_{\sigma}=0$ at $\sigma=0,\pi$, meaning that no momentum flows out of the string ends, by taking $\partial_{\mu}X^\mu|_{\sigma=0,\pi}$.
