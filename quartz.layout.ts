@@ -49,14 +49,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search({ enablePreview: true }),
     Component.Darkmode(),
-    // Component.DesktopOnly(
-    //   Component.Explorer({
-    //     folderClickBehavior: "link",
-    //     useSavedState: true,
-    //     title: "All Writing",
-    //     folderDefaultState: "collapsed",
-    //   }),
-    // ),
   ],
   right: [
     Component.RecentNotes({
