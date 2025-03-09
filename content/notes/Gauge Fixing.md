@@ -28,3 +28,8 @@ The gauge-fixed Polyakov action becomes
 
 $$S=T\int_{\Sigma}d^2\sigma\;\partial_{+}X^\mu\partial_{-}X_{\mu}$$.
 
+The equations of motion for the world-sheet metric components $h_{ab}(\boldsymbol{\sigma})$ are $T_{ab}=0$.
+
+In light-cone coordinates, the components of the stress-energy tensor are
+
+$$T_{++}=\partial_{+}X^\mu \partial_{+}X_{\mu}\;\;\;\;\;\;\;T_{--}=\partial_{-}X^\mu \partial_{-}X_{\mu}\;\;\;\;\;\;\;T_{+ -}=T_{- +}=0$$.

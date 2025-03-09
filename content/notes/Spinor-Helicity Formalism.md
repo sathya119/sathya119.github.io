@@ -42,6 +42,8 @@ $$\epsilon_{\alpha\beta}=\epsilon_{\dot\alpha\dot\beta}=\begin{pmatrix}0&-1\\1&0
 
 $$\epsilon_{\alpha\beta}\epsilon^{\beta\gamma}=+\delta^\gamma_\alpha$$.
 
+#### Inner Products
+
 Now, we define the inner products (with particle labels i and j) as:
 1. $$\langle i\;j\rangle=\lambda_i^\alpha\lambda_{j\alpha}$$
 2. $$[i\;j]=\tilde\lambda_{i\dot\alpha}\tilde\lambda^{\dot\alpha}_j$$
@@ -50,3 +52,18 @@ Note: $$\langle i\;j\rangle=\epsilon^{\alpha\beta}\lambda_{i\beta}\lambda_{j\alp
 
 Similarly, $$[i\;j]=-[j\;i]$$ and $$\langle i\;i\rangle=0=[i\;i]$$.
 
+Now, $$p_{\alpha \dot{\alpha}}=\epsilon_{\dot{\alpha}\dot{\beta}}\epsilon_{\alpha \beta}p^{\dot{\beta}\beta}=\lambda_{\alpha}\tilde{\lambda}_{\dot{\alpha}}$$
+
+$$=\epsilon_{\dot{\alpha}\dot{\beta}}\epsilon_{\alpha \beta}p_{\mu}(\bar{\sigma}^\mu)^{\dot{\beta}\beta}\equiv p_{\mu}(\sigma^\mu)_{\alpha \dot{\alpha}}$$
+
+where $(\sigma^\mu)_{\alpha \dot{\alpha}}=(\mathbb{1},\vec{\alpha})=\epsilon_{\alpha \beta}\epsilon_{\dot{\alpha} \dot{\beta}}(\bar{\sigma}^\mu)^{\dot{\beta} \beta}$
+
+Then, $$p_{i\alpha \dot{\alpha}}p_{j}^{\dot{\alpha} \alpha}=\lambda_{i\alpha}\tilde{\lambda}_{i\dot{\alpha}}\tilde{\lambda}^{\dot{\alpha}}_{j}\lambda_{j}^\dot{\alpha}=\langle j\;i\rangle[i\;j]=-\langle i\; j\rangle[i\;j]$$
+
+But, $$p_{i\alpha \dot{\alpha}}p_{j}^{\dot{\alpha} \alpha}=p_{i}^\mu p_{j}^\nu  \underbrace {\sigma_{\mu \alpha \dot{\alpha}}\bar{\sigma}_\nu^{\dot{\alpha} \alpha}}_{Tr(\sigma_{\mu}\bar{\sigma_{\nu}})=2\eta_{\mu\nu}} =2p_{i}.p_{j}=(p_{i}+p_{j})^2\;\;\;\;\;\;\;\; \text{for m=0}$$
+
+Hence, $$\boxed{(p_{i}+p_{j})^2=-\langle i\;j\rangle[i\;j]}$$
+
+#### Polarisation
+
+**Massless Dirac Equation:** $$\mathcal{L}=i\bar{\psi}\gamma^\mu \partial_{\mu}\psi$$
