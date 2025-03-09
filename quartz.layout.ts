@@ -29,27 +29,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    // Component.DesktopOnly(
-    //   Component.Explorer({
-    //     folderClickBehavior: "link",
-    //     title: "All Writing",
-    //     useSavedState: true,
-    //   }),
-    // ),
-    // Component.DesktopOnly(
-    //   Component.RecentNotes({
-    //     linkToMore: "tags" as SimpleSlug,
-    //     filter: (f) =>
-    //       (f.slug?.startsWith("thoughts") ||
-    //         f.slug?.startsWith("LABS") ||
-    //         f.slug?.startsWith("explorations") ||
-    //         f.slug?.startsWith("Music")) ??
-    //       false,
-    //     title: "Recent writing",
-    //     limit: 4,
-    //     showTags: false,
-    //   }),
-    // ),
   ],
   right: [
     Component.Graph({globalGraph: {scale: 1.2}, localGraph: {scale: 1.5}}),
