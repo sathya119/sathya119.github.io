@@ -1,23 +1,27 @@
 A metric is a symmetric non-degenerate (0,2) tensor field:
-- Symmetric: The indices can be interchanged since $$g_{\mu\nu}=g_{\nu\mu}$$
-- Non-degenerate: The determinant of a metric is non-zero; the inverse exists. So, the eigenvalues of a metric (as an nxn matrix) are non-zero.
+- **Symmetric**: The indices can be interchanged since $$g_{\mu\nu}=g_{\nu\mu}$$
+- **Non-degenerate**: The determinant of a metric is non-zero; the inverse exists. So, the eigenvalues of a metric (as an nxn matrix) are non-zero.
+
 The pattern of +ve and -ve eigenvalues is called a metric’s signature.
-- (++++) - Riemannian Signature
-- (-+++) - Lorentzian Signature
+- (++++) - **Riemannian** Signature
+- (-+++) - **Lorentzian** Signature
+
 Although the values of the eigenvalues depend on the choice of coordinate system, Sylvester’s Law of Inertia says that the signature is coordinate-independent.
+
 Uses of a metric:
+
 ##### Defines the inner product on Tₚ 
 
 $$g:T_p \times T_p\rightarrow \mathbb{R}$$
 
 $$(V,W) \equiv g(V,W)=g_{\mu\nu}V^\mu W^\nu$$
+
 ##### Maps vectors to co-vectors 
 
 $$g:T_p\rightarrow T_p^*, \omega_\mu=g_{\mu\nu}V^\nu$$
 
 This map has an inverse too, with a (2,0) tensor called the inverse metric defined such that  $$g^{\mu\nu}g_{\nu\lambda}=\delta^\mu_\lambda$$
 More generally, from tensors of type (r, s) to (r+1, s-1) and (r-1, s+1), called raising and lowering indices.
-
 
 ##### Defines a notion of length
 
@@ -26,6 +30,7 @@ We can define the line element as $$ds^2=g_{\mu\nu}dx^\mu dx^\nu$$and hence the 
 $$l = \int\sqrt {g_{\mu\nu}\mathring{x}^\mu \mathring{x}^\nu}d\lambda$$
 
 $$\tau = \int\sqrt {-g_{\mu\nu}\mathring{x}^\mu \mathring{x}^\nu}d\lambda$$
+
 Examples:
 1. **The #Minkowski  metric** - Although this is not a tensor equation since it is not a tensor under general coordinate transformations.
 2. **Unit Sphere with the “round” metric** - Obtained by restricting the flat metric on the 3-d real space to a unit sphere, i.e., 
