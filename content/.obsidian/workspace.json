@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Theoretical Constraints on the  Higgs Sector.md",
+                "file": "notes/Theoretical Constraints on the Higgs Sector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theoretical Constraints on the  Higgs Sector"
+              "title": "Theoretical Constraints on the Higgs Sector"
             }
           },
           {
@@ -71,16 +71,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Idea of Quantisation.md",
+                "file": "notes/Fock Space and Ghosts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea of Quantisation"
+              "title": "Fock Space and Ghosts"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,13 +264,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dca1ed67a65f6532",
+  "active": "1f36146b1d789913",
   "lastOpenFiles": [
+    "notes/Quantisation I - Covariant Approach.md",
+    "notes/Fock Space and Ghosts.md",
+    "notes/Canonical Quantisation I.md",
+    "notes/Idea of Quantisation.md",
+    "notes/Theoretical Constraints on the Higgs Sector.md",
     "notes/Standard Model Higgs Sector.md",
     "notes/Higgs Phenomenology.md",
-    "notes/Theoretical Constraints on the  Higgs Sector.md",
-    "notes/Idea of Quantisation.md",
-    "notes/Quantisation I - Covariant Approach.md",
     "notes/Introduction to String Theory.md",
     "notes/T-duality II - Open Strings.md",
     "notes/T-duality I - Closed Strings.md",
@@ -292,8 +294,6 @@
     "notes/Gītā 4 - Padumanābhā.md",
     "notes/Spinor-Helicity Formalism.md",
     "notes/Scattering Amplitudes.md",
-    "notes/Gītā 2 - Kunda Gaura.md",
-    "notes/MATH52530.md",
     "attachments/hhhh.light.svg",
     "attachments/hhhh.dark.svg",
     "attachments/hhh.light.svg",
