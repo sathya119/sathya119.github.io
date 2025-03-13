@@ -71,12 +71,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Fock Space and Ghosts.md",
+                "file": "notes/Constraints and no-ghost theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fock Space and Ghosts"
+              "title": "Constraints and no-ghost theorem"
             }
           }
         ],
@@ -267,6 +267,8 @@
   "active": "1f36146b1d789913",
   "lastOpenFiles": [
     "notes/Quantisation I - Covariant Approach.md",
+    "notes/Constraints and no-ghost theorem.md",
+    "notes/Virasoro Algebra.md",
     "notes/Fock Space and Ghosts.md",
     "notes/Canonical Quantisation I.md",
     "notes/Idea of Quantisation.md",
@@ -292,8 +294,6 @@
     "notes/Gitas or Small Songs.md",
     "notes/Gītā 3 - Kereya Nīranu.md",
     "notes/Gītā 4 - Padumanābhā.md",
-    "notes/Spinor-Helicity Formalism.md",
-    "notes/Scattering Amplitudes.md",
     "attachments/hhhh.light.svg",
     "attachments/hhhh.dark.svg",
     "attachments/hhh.light.svg",
