@@ -22,4 +22,4 @@ $$\braket{\varepsilon;k|\varepsilon;k}=\varepsilon^2 \braket{0;k|0;k} $$, which 
 
 This is a direct consequence of the fact that $\eta^{00}=-1$. Such a negative norm state is called a ghost. If ghosts are present in the physical spectrum, it would violate the principles of quantum mechanics and indicates an inconsistency.
 
-However, we have not yet implemented the classical constraints $L_m=0$ in the canonical quantisation. If these constraints are imposed, the ghosts in the spectrum are consistently eliminated such that the quantum mechanical theory is consistent. This is possible when $D\lt26$, with a strong preference for $D=26$.
+However, we have not yet implemented the classical constraints $L_m=0$ in the canonical quantisation. If these constraints are imposed, the ghosts in the spectrum are consistently eliminated such that the quantum mechanical theory is consistent. This is possible when $D\le26$, with a strong preference for $D=26$.

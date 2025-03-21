@@ -8,7 +8,7 @@ with a Lagrangian density
 
 $$\mathcal{L}=(\partial_{\mu}\phi)^*(\partial^{\mu}\phi)-V(\phi)=(\partial_{\mu}\phi)^*(\partial^{\mu}\phi)-\mu^2\phi^*\phi-\lambda(\phi^*\phi)^2$$
 
-$$=\frac{1}{2}\partial_{\mu}\phi_{1}\partial^{\mu}\phi_{1}+\frac{1}{2}\partial_{\mu}\phi_{2}\partial^{\mu}\phi_{2}-\frac{1}{2}\mu^2(\phi_{1}^2+\phi^2_{2})-\frac{1}{4}(\phi_{1}^2+\phi^2_{2})^2$$.
+$$=\frac{1}{2}\partial_{\mu}\phi_{1}\partial^{\mu}\phi_{1}+\frac{1}{2}\partial_{\mu}\phi_{2}\partial^{\mu}\phi_{2}-\frac{1}{2}\mu^2(\phi_{1}^2+\phi^2_{2})-\frac{1}{4}\lambda(\phi_{1}^2+\phi^2_{2})^2$$.
 
 $\mathcal{L}$ is invariant under the global U(1) transformation: $$\phi(x)\rightarrow e^{i\alpha}\phi(x)$$. Here, global refers to the fact that $\alpha$ is not a function of the position x. We now consider two cases.
 

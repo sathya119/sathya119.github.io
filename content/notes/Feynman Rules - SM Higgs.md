@@ -16,17 +16,17 @@ $$=i\frac{g^2}{4}\times 2g_{\mu\nu}=2i\frac{M^2_{W}}{v^2}g_{\mu\nu}$$. The extra
 
 For the coupling to Z bosons, the relevant term in the Lagrangian density is,
 
-$$(D_{\mu}\Phi)^{\dagger}(D^{\mu}\Phi)\supset\frac{1}{8}(g^2+g'^2)(v+h)^2W_{\mu}W^{\mu}$$.
+$$(D_{\mu}\Phi)^{\dagger}(D^{\mu}\Phi)\supset\frac{1}{8}(g^2+g'^2)(v+h)^2Z_{\mu}Z^{\mu}$$.
 
 Expanding this term in the Higgs field h yields as the leading term, the Z boson mass term, $M_Z^2=(g^2+g’^2)v^2/4$. The hZZ and hhZZ vertices are
 
 ![[hZZ.light.svg]]
 
-$$= i\frac{(g^2+g'^2)v}{4}\times 2\times g_{\mu\nu}=2i\frac{M_{Z^2}}{v}g_{\mu\nu}$$
+$$= i\frac{(g^2+g'^2)v}{4}\times 2\times g_{\mu\nu}=2i\frac{M_{Z}^2}{v}g_{\mu\nu}$$
 
 ![[hhZZ.light.svg]]
 
-$$= i\frac{(g^2+g'^2)}{8}\times 2\times 2\times g_{\mu\nu}=2i\frac{M_{Z^2}}{v^2}g_{\mu\nu}$$.
+$$= i\frac{(g^2+g'^2)}{8}\times 2\times 2\times g_{\mu\nu}=2i\frac{M_{Z}^2}{v^2}g_{\mu\nu}$$.
 
 The extra factors of 2 and 2x2 are symmetry factors, accounting for the interchange of the two Z bosons and both the two Z bosons and two h bosons since they cannot be distinguished.
 
