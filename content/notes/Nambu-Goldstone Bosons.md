@@ -1,4 +1,4 @@
-When a continuous symmetry of the Lagragian density is spontaneously broken, the Nambu-Goldstone theory that one or more massless scalar particles emerge $[1,2]$. The number of such Nambu-Goldstone bosons is equal to the number of broken generators of the symmetry group.
+When a continuous symmetry of the Lagrangian density is spontaneously broken, the Nambu-Goldstone theory that one or more massless scalar particles emerge. The number of such Nambu-Goldstone bosons is equal to the number of broken generators of the symmetry group.
 
 In SM, the symmetry group $SU(2)_{L}\times U(1)_{Y}$ breaks down to $U(1)_{em}$. The three emerging Nambu-Goldstone bosons $\phi_{1}$, $\phi_{2}$ and $\phi_{4}$ are absorbed by the $W^\pm$ and $Z$ bosons. As a consequence, each of the $W^\pm$ and $Z$ bosons acquire mass and a third degree of freedom in the form of a longitudinal polarisation of the field. Additionally, these Goldstone bosons are unphysical; they are gauged away.
 

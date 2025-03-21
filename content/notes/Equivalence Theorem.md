@@ -1,6 +1,8 @@
 We require the description of a massive gauge boson V that carries momentum k. It also carries a polarisation state, which we denote as the four-vector $\epsilon$. They are
 
-$$\epsilon(k,\lambda=+1)^\mu=\frac{1}{\sqrt{ 2 }}(0,1,+i,0),\;\;\;\epsilon(k,\lambda=-1)^\mu=\frac{1}{\sqrt{ 2 }}(0,1,-i,0),\;\;\;\epsilon(k,\lambda=0)^\mu=\frac{1}{\sqrt{ 2 }}(0, 0, 0, 1)$$.
+$$\epsilon(k,\lambda=+1)^\mu=\frac{1}{\sqrt{ 2 }}(0,1,+i,0),\;\;\;\epsilon(k,\lambda=-1)^\mu=\frac{1}{\sqrt{ 2 }}(0,1,-i,0)$$
+
+$$\epsilon(k,\lambda=0)^\mu=\frac{1}{\sqrt{ 2 }}(0, 0, 0, 1)$$.
 
 The polarisation states are $\lambda_{i}=\pm1,0$, corresponding to two transverse polarisations and one longitudinal polarisation.
 
