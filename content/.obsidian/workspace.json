@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "dca1ed67a65f6532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Unitarity Constraints.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unitarity Constraints"
-            }
-          },
-          {
             "id": "a2d0c5845973b730",
             "type": "leaf",
             "state": {
@@ -78,9 +64,23 @@
               "icon": "lucide-file",
               "title": "Residual Gauge Transformations"
             }
+          },
+          {
+            "id": "b6e5740cfd9034a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Tree-level Decay Modes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree-level Decay Modes"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -264,12 +263,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dca1ed67a65f6532",
+  "active": "b6e5740cfd9034a4",
   "lastOpenFiles": [
+    "notes/Higgs Decay.md",
+    "notes/Tree-level Decay Modes.md",
+    "notes/Higgs Signatures in Decay and Production.md",
+    "notes/Higgs Phenomenology.md",
     "notes/Theoretical Constraints on the Higgs Sector.md",
+    "notes/Standard Model Higgs Sector.md",
+    "notes/Indirect Constraint from Electroweak Precision Observables.md",
+    "attachments/Pasted image 20250401003442.png",
+    "notes/Constraints from the Renormalisation Group.md",
+    "notes/Unitarity Constraints.md",
+    "notes/MATH52530.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Particles, Strings and Cosmology - F3K209.md",
+    "My Journey with Physics.md",
+    "Student.md",
+    "index.md",
+    "notes/Gītā 1 - Srī Gaṇanātha.md",
     "notes/Equivalence Theorem.md",
     "notes/Nambu-Goldstone Bosons.md",
-    "notes/Unitarity Constraints.md",
     "notes/Partial Wave Amplitudes.md",
     "attachments/Pasted image 20250321204119.png",
     "attachments/WW high.md",
@@ -280,27 +294,13 @@
     "attachments/WW scatter.light.svg",
     "attachments/WW scatter.dark.svg",
     "attachments/hWW.md",
-    "notes/Higgs Phenomenology.md",
-    "notes/Standard Model Higgs Sector.md",
     "notes/Feynman Rules - SM Higgs.md",
     "notes/Higgs Sector.md",
     "notes/SSB in Local Gauge Theory.md",
-    "notes/SSB in a Global Gauge Theory.md",
-    "notes/Spontaneous Symmetry Breaking.md",
-    "notes/Examples for SSB.md",
-    "notes/Spinor-Helicity Formalism.md",
-    "notes/Residual Gauge Transformations.md",
-    "notes/Quantisation II - Light-cone Gauge.md",
-    "notes/Introduction to String Theory.md",
-    "notes/Quantisation I - Covariant Approach.md",
-    "notes/Spectra.md",
-    "notes/Constraints and no-ghost theorem.md",
-    "notes/Virasoro Algebra.md",
     "attachments/noether current.light.svg",
     "attachments/noether current.dark.svg",
     "attachments/hhhh.light.svg",
     "attachments/hhhh.dark.svg",
-    "attachments/hhh.light.svg",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
