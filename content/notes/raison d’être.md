@@ -1,0 +1,1 @@
+The most important reason for the existence of something (like a theory or branch of a subject).

@@ -14,13 +14,15 @@ Then, $$p^2=p_\mu p^\mu=det(p^{\dot\alpha\alpha})=(p^0)^2-\sum_i (p^i)^2=m^2$$.
 
 For the case m=0, $$det(p^{\dot\alpha\alpha})=0\implies\text{rank }1$$.
 
-Then, we can write $$\boxed{p^{\dot\alpha\alpha}=\lambda^\alpha\tilde\lambda^{\dot\alpha}}$$, i.e., the bispinor form, where $$\lambda$$ and $$\tilde\lambda$$ are spinors.
+Then, we can write $$\boxed{p^{\dot\alpha\alpha}=\lambda^\alpha\tilde\lambda^{\dot\alpha}}$$, i.e., the bispinor form, where $\lambda$ and $\tilde\lambda$ are spinors.
 
-If p is real, $$\tilde\lambda=\pm\lambda^*$$
+If p is real, $\tilde\lambda=\pm\lambda^*$.
 
-If p is complex, $$\lambda$$ and $$\tilde\lambda$$ are independent.
+If p is complex, $\lambda$ and $\tilde\lambda$ are independent.
 
-Now, $$p^{\dot\alpha\alpha}$$ is invariant under $$\begin{cases}\lambda\rightarrow e^{-i\phi}\lambda\\\tilde\lambda\rightarrow e^{i\phi}\tilde\lambda\end{cases}$$.
+Now, $p^{\dot\alpha\alpha}$ is invariant under 
+
+$$\begin{cases}\lambda\rightarrow e^{-i\phi}\lambda\\\tilde\lambda\rightarrow e^{i\phi}\tilde\lambda\end{cases}$$.
 
 The generator for this symmetry is called #helicity  and is defined as
 
@@ -66,4 +68,56 @@ Hence, $$\boxed{(p_{i}+p_{j})^2=-\langle i\;j\rangle[i\;j]}$$
 
 #### Polarisation
 
-**Massless Dirac Equation:** $$\mathcal{L}=i\bar{\psi}\gamma^\mu \partial_{\mu}\psi$$
+**Massless Dirac Equation:** $$\mathcal{L}=i\bar{\psi}\gamma^\mu \partial_{\mu}\psi, \;\;\;\;\;\;\;\;\text{with }\bar{\psi}=\psi^+\gamma^0,\;\gamma^\mu=\begin{pmatrix}
+0&\sigma^\mu\\\bar{\sigma}^\mu&0
+\end{pmatrix}$$
+
+But, $$\gamma^\mu \partial_{\mu}\psi=0$$. Multiplying by $\gamma^\nu \partial_{\nu}$, $$\gamma^\mu \gamma^\nu \partial_{\mu}\partial_{\nu}\psi=0=\eta_{\mu \nu}\partial_{\mu}\partial_{\nu}\psi$$.
+
+Hence, $$\partial^{2}\psi=0$$. This means that $\psi$ has a plane wave solution of the form
+
+$$\psi\sim u(p)e^{-ipx}+v(p)e^ipx$$.
+
+In the massless case, $\gamma.pu=\gamma.pv=0$.
+
+For $$u_{+}=\begin{pmatrix}
+x_{\alpha}\\0
+\end{pmatrix},\;v_{+}=\begin{pmatrix}
+0\\\tilde{x}^{\dot{\alpha}}
+\end{pmatrix}$$,
+
+$$\sigma.p \tilde{x}=0\text{ and }\bar{\sigma}.px=0$$.
+
+Recall that $$(\sigma.p)_{\alpha \dot{\alpha}}=\lambda_{\alpha}\tilde{\lambda}_{\dot{\alpha}}\text{ and }(\bar{\sigma}.p)^{\dot{\alpha}\alpha}=\tilde{\lambda}^{\dot{\alpha}\alpha}$$.
+
+Then, we can choose $$x_{\alpha}=\lambda_{\alpha}\text{ and }\tilde{x}^\dot{\alpha}=\tilde{\lambda}^\dot{\alpha}$$, up to an overall constant.
+
+Now, we can denote solutions by
+
+$$\ket{p} =\begin{pmatrix}
+\lambda_{\alpha}\\0
+\end{pmatrix},\;|p] =\begin{pmatrix}
+0\\\tilde{\lambda}^\dot{\alpha}
+\end{pmatrix}$$
+
+$$\bra{p}=\begin{pmatrix}
+\lambda^\alpha\\ 0
+\end{pmatrix},\;[p|=\begin{pmatrix}
+0\\\tilde{\lambda}^\dot{\alpha}
+\end{pmatrix}$$.
+
+We consider all the particles to be ongoing and 
+
+
+| Helicity   | $+\frac{1}{2}$ | $-\frac{1}{2}$ |
+| ---------- | -------------- | -------------- |
+| Quark      | $[p\|$         | $\bra{p}$      |
+| Anti-quark | $\|p]$         | $\ket{p}$      |
+
+For ingoing particles, $p_{\mu}\to-p_{\mu}$ and $h\to-h$.
+
+<u>Note</u>: All spinors above are commuting spinors. To construct a Grassman spinor, write
+
+$$\psi_{G}=\sum_{s=\pm}\int d\tilde{p}\;[b_{s}(p)u_{s}(p)e^{-ipx}+d^+_{s}(p)v_{s}(p)e^{ipx}]$$,
+
+where $b_{s}(p)$ and $d_{s}^+(p)$ are the fermionic creation and annihilation operators respectively.

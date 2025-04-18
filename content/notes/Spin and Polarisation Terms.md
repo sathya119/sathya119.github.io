@@ -45,3 +45,6 @@ $$M_{q\bar q\rightarrow gg}^{\mu_1\mu_2}=(t^{a_2}t^{a_1})M_{\mu_1\mu_2}^{(1)}+(t
 $$=(t^{a_1}t^{a_2})\underbrace{[M_{\mu_1\mu_2}^{(1)}+M_{\mu_1\mu_2}^{(2)}]}_{=QED}+if^{a_1a_2a_3}t^{a_3}[-M_{\mu_1\mu_2}^{(1)}+M_{\mu_1\mu_2}^{(3)}]$$
 
 Hence, in QCD, $$k_{1,\mu_1}M_{q\bar q\rightarrow\gamma\gamma}^{\mu_1\mu_2}\not=k_{2,\mu_2}M_{q\bar q\rightarrow\gamma\gamma}^{\mu_1\mu_2}\not=0$$. Instead, the gluons are physical, i.e., if their polarisations are transverse, $$\epsilon_{\mu_1}k_1^{\mu_1}=\epsilon_{\mu_2}k_2^{\mu_2}=0$$
+
+then, $$\text{QCD: } k_{1,\mu_{1}}M_{q\bar{q}\to \gamma \gamma}^{\mu_{1}\mu_{2}}\varepsilon_{\mu_{2}}^*(k_{2},\lambda_{2})=k_{2,\mu_{2}}M_{q\bar{q}\to \gamma \gamma}^{\mu_{1}\mu_{2}}\varepsilon_{\mu_{1}}^*(k_{1},\lambda_{1})=0$$.
+

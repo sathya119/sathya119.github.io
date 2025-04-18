@@ -20,5 +20,5 @@ $$\Gamma= \frac{1}{16\pi M^{3}}|\mathcal{M}|^{2}\lambda^{1/2}(M^{2},m_{1}^{2},m_
 
 - [[Tree-level Decay Modes]]
 - [[Loop-induced Decay Modes]]
-- [[Higgs Decay Branching Ratio]]
+- [[Higgs Decay Branching Ratios]]
 - [[Status of Higgs Decay Measurements]]

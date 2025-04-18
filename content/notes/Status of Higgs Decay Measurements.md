@@ -1,0 +1,1 @@
+The Higgs coupling to $\mu$ lepton, $c$ quark, $\tau$ lepton, $b$ quark, W & Z bosons, and $t$ quark have been determined experimentally. The measurements are in excellent agreement with the SM predictions.

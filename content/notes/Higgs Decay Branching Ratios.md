@@ -1,0 +1,3 @@
+The total decay rate of the Higgs boson is given by the sum of the partial decay rates (into various final states), $\Gamma_{h}=\sum_{f}\Gamma(h\rightarrow f)$. But this assumption holds only approximately since, e.g., the states $b\bar{b}$ and $c\bar{c}$ are both characterised by total angular momentum $J=0$, vanishing beauty and charm $B=0=C$, and vanishing baryon number. The amplitudes for the mixing $b\bar{b}\rightarrow c \bar{c}$ are QCD-induced and therefore very small at high scales such as $M_h$.
+
+The branching ratio of the Higgs boson is defined as $$\mathcal{B}(h\rightarrow f)=\frac{\Gamma(h\rightarrow f)}{\Gamma_{h}}$$.

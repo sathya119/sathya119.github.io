@@ -1,0 +1,1 @@
+A soliton is a nonlinear, self-reinforcing, localized wave packet that is strongly stable, in that it preserves its shape while propagating freely.

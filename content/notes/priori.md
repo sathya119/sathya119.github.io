@@ -1,0 +1,1 @@
+A priori refers to knowledge or reasoning that is derived from logic and reason alone, rather than from experience or observation.
