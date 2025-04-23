@@ -99,7 +99,7 @@
       "key": "O"
     }
   ],
-  "obsidian-git:push": [
+  "obsidian-git:commit-push-specified-message": [
     {
       "modifiers": [
         "Mod",

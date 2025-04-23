@@ -185,14 +185,14 @@ export function renderPage(
 
   const {
     head: Head,
-    header,
-    beforeBody,
+    header = [],
+    beforeBody = [],
     pageBody: Content,
-    afterBody,
-    left,
-    right,
+    afterBody = [],
+    left = [],
+    right = [],
     footer: Footer,
-  } = components
+  } = components  
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
