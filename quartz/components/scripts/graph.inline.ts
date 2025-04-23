@@ -21,14 +21,14 @@ import { D3Config } from "../Graph"
 
 const FONT_SCALING_FACTOR = 15
 
-export default () => {
+export default function () {
   const globalGraphOuter = document.getElementById("global-graph-outer")
   const globalGraphIcon = document.getElementById("global-graph-icon")
 
-  globalGraphIcon?.addEventListener("click", () => {
+  globalGraphIcon?.addEventListener("click", function () {
     globalGraphOuter?.classList.add("active")
 
-    setTimeout(() => {
+    setTimeout(function () {
       const canvas = globalGraphOuter?.querySelector("canvas")
       if (canvas) {
 
