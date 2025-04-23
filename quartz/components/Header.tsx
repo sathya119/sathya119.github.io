@@ -1,12 +1,16 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-const Header: QuartzComponent = ({ children }: QuartzComponentProps) => {
+const Header: QuartzComponent = ({ children, fileData }: QuartzComponentProps) => {
+  const isHome = fileData.slug === "index" || fileData.slug === "";
+
   return children.length > 0 ? (
     <header>
       <a href="/">
         <img src="/static/brain.png" alt="Sai Brain Logo" className="site-logo" height="48" />
       </a>
-      <span className="site-title">Click here to go to the homepage!</span>
+      {!isHome && (
+        <span className="site-title">Click here to go to the homepage!</span>
+      )}
       {children}
     </header>
   ) : null
