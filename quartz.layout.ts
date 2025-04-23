@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       Portfolio: "",
       LinkedIn: "https://linkedin.com/in/saisanjays",
       Instagram: "https://instagram.com/chasing_tunes",
-      Medium: "https://https://medium.com/@saisanjays"
+      Medium: "//https://medium.com/@saisanjays"
     },
   }),
 }

@@ -21,6 +21,29 @@ import { D3Config } from "../Graph"
 
 const FONT_SCALING_FACTOR = 15
 
+export default () => {
+  const globalGraphOuter = document.getElementById("global-graph-outer")
+  const globalGraphIcon = document.getElementById("global-graph-icon")
+
+  globalGraphIcon?.addEventListener("click", () => {
+    globalGraphOuter?.classList.add("active")
+
+    setTimeout(() => {
+      const canvas = globalGraphOuter?.querySelector("canvas")
+      if (canvas) {
+
+      }
+    }, 100)
+  })
+
+  globalGraphOuter?.addEventListener("click", (e) => {
+    if (e.target === globalGraphOuter) {
+      globalGraphOuter.classList.remove("active")
+    }
+  })
+}
+
+
 type GraphicsInfo = {
   color: string
   gfx: Graphics
