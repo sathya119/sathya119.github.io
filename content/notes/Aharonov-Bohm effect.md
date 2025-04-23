@@ -1,0 +1,1 @@
+A vector potential can affect a particle’s quantum behaviour even in regions where the field is zero. For example, consider a solenoid. A charged particle moving around the exterior of a solenoid is subjected to zero field. But, it picks up a phase with every revolution.

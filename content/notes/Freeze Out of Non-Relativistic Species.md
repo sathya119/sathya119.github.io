@@ -32,3 +32,4 @@ The relic density can be expressed as
 
 $$\Omega h^2=\frac{m_\chi Y_\infty s_0h^2}{\rho_c}\approx \frac{10^{-10}\;GeV^{-2}}{a+\tfrac{b}{40}}\approx \frac{3\times10^{-27}\;cm^3\;s^{-1}}{a+\tfrac{b}{40}}$$.
 
+$$\sum_{a} t^a_{ki} t^a_{lj} t^a_{k'i'} t^{a*}_{l'j'} \rightarrow \frac{1}{4} \delta_{kj} \delta_{li} \delta_{k'j'} \delta_{l'i'} \rightarrow \text{traced over gives } \frac{C_F^2}{N_c^2} \text{ where } C_F = \frac{N_c^2 - 1}{2N_c}$$

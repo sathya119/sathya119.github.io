@@ -7,7 +7,7 @@ Neutrinos get produced via cosmic rays (accelerated protons, He) interacting wit
 $$R_{\tfrac{\mu}{e}}=\frac{N_{\nu_\mu}+N_{\bar\nu_\mu}}{N_{\nu_e}+N_{\bar\nu_e}}\sim2$$
 
 
-## **Two Neutrino Oscillation**
+#### Two Neutrino Oscillation
 
 A neutrino has 3 flavours ($$\nu_e,\;\nu_\mu,\;\nu_\tau$$) and 3 mass states ($$\nu_1,\;\nu_2,\;\nu_3$$).
 

@@ -24,63 +24,21 @@
             }
           },
           {
-            "id": "86baf0384a062ce3",
+            "id": "c701bc40065bbbef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Master Formula.md",
+                "file": "notes/Introduction and Classical Particle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Formula"
-            }
-          },
-          {
-            "id": "b310172915075e31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Feynman Rules - YM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feynman Rules - YM"
-            }
-          },
-          {
-            "id": "df823cfb8daba114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/QCD Beta Function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QCD Beta Function"
-            }
-          },
-          {
-            "id": "df341d3f7b2e623d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Chan-Paton Factors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chan-Paton Factors"
+              "title": "Introduction and Classical Particle"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mandelstam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,36 +221,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df341d3f7b2e623d",
+  "active": "c701bc40065bbbef",
   "lastOpenFiles": [
-    "notes/T-duality II - Open Strings.md",
-    "notes/Chan-Paton Factors.md",
-    "notes/Action of T-duality.md",
+    "notes/Introduction to Strings.md",
+    "notes/Introduction and Classical Particle.md",
     "notes/Introduction to String Theory.md",
-    "notes/T-duality I - Closed Strings.md",
-    "notes/T-duality.md",
-    "notes/Closed Strings on a Circle.md",
-    "attachments/winding number.md",
-    "attachments/winding number.light.svg",
-    "attachments/winding number.dark.svg",
-    "notes/soliton.md",
-    "notes/Field Theory on a Circle.md",
-    "notes/Quantisation II - Light-cone Gauge.md",
-    "notes/The light spectrum.md",
-    "notes/priori.md",
-    "notes/Canonical Quantisation II.md",
-    "notes/Light-cone Gauge.md",
-    "notes/Residual Gauge Transformations.md",
-    "notes/Quantisation I - Covariant Approach.md",
-    "notes/Spectra.md",
     "notes/MATH52530.md",
     "notes/Epiphany (Spring) Term.md",
     "notes/Particles, Strings and Cosmology - F3K209.md",
+    "index.md",
+    "notes/WIMPs.md",
+    "notes/History, Electroweak interactions and Neutrino Scattering.md",
+    "notes/Feynman Rules - YM.md",
+    "notes/Master Formula.md",
     "My Journey with Physics.md",
     "Student.md",
-    "index.md",
-    "notes/QCD Beta Function.md",
-    "notes/QCD at Leading Order & Renormalisation.md",
+    "notes/Time evolution of number density.md",
+    "notes/Organising Colour.md",
+    "notes/Fundamentals of QCD.md",
+    "notes/Graphical Representation of Colour Group Algebra.md",
+    "notes/Colour Algebra.md",
+    "notes/The Strong CP Problem.md",
+    "notes/Feynman Rules - Covariant Gauges.md",
+    "notes/Quantum Chromodynamics.md",
+    "notes/MATH52430.md",
+    "notes/Neutrinos in SM.md",
+    "notes/Neutrino Sources.md",
+    "notes/Neutrino Physics.md",
+    "notes/Freeze Out of Non-Relativistic Species.md",
+    "attachments/winding number.light.svg",
+    "attachments/winding number.dark.svg",
     "attachments/Pasted image 20250414201240.png",
     "attachments/Pasted image 20250410212028.png",
     "attachments/Drawing 2024-10-18 13.30.17.excalidraw.dark.svg",
