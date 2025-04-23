@@ -21,7 +21,7 @@ import { D3Config } from "../Graph"
 
 const FONT_SCALING_FACTOR = 15
 
-export default function () {
+export default function graphInline() {
   const globalGraphOuter = document.getElementById("global-graph-outer")
   const globalGraphIcon = document.getElementById("global-graph-icon")
 
