@@ -37,8 +37,7 @@
               "title": "Introduction and Classical Particle"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,8 +220,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c701bc40065bbbef",
+  "active": "52796e0056a51908",
   "lastOpenFiles": [
+    "notes/Introduction and Classical Particle.md",
     "notes/Non-abelian Yang-Mills.md",
     "attachments/WW high.dark.svg",
     "attachments/Pasted image 20250414201240.png",
@@ -234,7 +234,6 @@
     "attachments/Drawing 2024-11-12 22.43.54.excalidraw.dark.svg",
     "notes/Theoretical Constraints on the  Higgs Sector.md",
     "notes/Introduction to Strings.md",
-    "notes/Introduction and Classical Particle.md",
     "notes/Introduction to String Theory.md",
     "notes/MATH52530.md",
     "notes/Epiphany (Spring) Term.md",
