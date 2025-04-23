@@ -6,17 +6,9 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-
-// Extend the QuartzConfig type to include `components`
-interface ExtendedQuartzConfig extends QuartzConfig {
-  components?: {
-    afterBody: any[]; // Define the type of elements in the array if necessary
-  };
-}
-
-const config: ExtendedQuartzConfig = {
+const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Sai-Brain",
+    pageTitle: "Sai Brain",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -65,9 +57,6 @@ const config: ExtendedQuartzConfig = {
         },
       },
     },
-  },
-  components: {
-    afterBody: [], // 👈 this prevents the crash
   },
   plugins: {
     transformers: [

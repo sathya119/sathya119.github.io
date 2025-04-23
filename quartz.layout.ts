@@ -1,14 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-// import { ColorScheme } from "./quartz/util/theme"
 import { SimpleSlug } from "./quartz/util/path"
 
-// components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [Component.RenderExcalidraw()],
   footer: Component.Footer({
     links: {
+      Portfolio: "",
       LinkedIn: "https://linkedin.com/in/saisanjays",
       Instagram: "https://instagram.com/chasing_tunes",
       Medium: "https://https://medium.com/@saisanjays"
