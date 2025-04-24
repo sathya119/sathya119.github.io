@@ -1,10 +1,9 @@
 ---
 title: Dance
-slug: Home/
+slug: dance
 ---
 
 I have been (graciously) trained in [[Bharatanatyam]] for about 10+ years and yet I struggle to perfect it (obviously). To everyone asking “If you have been learning the dance form for **this** long, have you finished your _[[Arangetram]]_ (first official stage performance)?”, I am sorry to say but my answer is no and may probably remain so in the future too!
 I really do not find the need to do such a grand stage performance in order to learn/excel in the artform (I know, a very controversial and unpopular opinion).
 
 [[Dance/Gallery/index|Gallery]]
-
