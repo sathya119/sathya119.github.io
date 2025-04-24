@@ -45,7 +45,7 @@
               "state": {
                 "file": "notes/Parvati.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Parvati"
