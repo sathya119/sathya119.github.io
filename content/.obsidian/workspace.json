@@ -36,8 +36,37 @@
               "icon": "lucide-file",
               "title": "Introduction and Classical Particle"
             }
+          },
+          {
+            "id": "7b0455978fb2fd07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daydream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daydream"
+            }
+          },
+          {
+            "id": "0970e69670535e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Loop-induced Decay Modes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loop-induced Decay Modes"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -79,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mandelstam",
+                "query": "decay modes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,13 +249,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52796e0056a51908",
+  "active": "0970e69670535e04",
   "lastOpenFiles": [
-    "notes/Introduction and Classical Particle.md",
-    "Student/Student.md",
+    "notes/Tree-level Decay Modes.md",
+    "notes/Higgs Decay.md",
+    "notes/Loop-induced Decay Modes.md",
+    "attachments/Pasted image 20250424172300.png",
+    "notes/Higgs Signatures in Decay and Production.md",
+    "notes/Higgs Production at the LHC.md",
     "index.md",
-    "Student",
+    "Daydream.md",
+    "Music.md",
+    "notes/Higgs Phenomenology.md",
+    "notes/Standard Model Higgs Sector.md",
+    "notes/MATH52530.md",
+    "notes/Epiphany (Spring) Term.md",
+    "notes/Particles, Strings and Cosmology - F3K209.md",
     "My Journey with Physics.md",
+    "Student/Student.md",
+    "notes/Introduction and Classical Particle.md",
+    "Student",
     "Dance/Gallery/index.md",
     "Dance/index.md",
     "Dance/Gallery/As Gods/index.md",
@@ -236,31 +278,18 @@
     "Dance/Gallery/Gallery.md",
     "notes/As Gods.md",
     "Dance/Gallery/Generic.md",
-    "Dance/Gallery/As Gods/Shiva.md",
-    "Dance/Gallery/As Gods/Parvati.md",
-    "Dance/Gallery/As Gods/Krishna.md",
     "Dance/Gallery/As Gods",
-    "Dance/Gallery.md",
     "Dance/Gallery",
-    "Dance/Arangetram.md",
     "Dance",
-    "notes/Action of T-duality.md",
-    "Dance.md",
-    "notes/Gallery.md",
-    "notes/Parvati.md",
     "attachments/Parvati 5.jpg",
     "attachments/Parvati 6.jpg",
     "attachments/girl 3.jpg",
-    "notes/Shiva.md",
     "attachments/Shiva 1.jpg",
     "attachments/Shiva 2.jpg",
     "attachments/Shiva 4.jpg",
     "attachments/Shiva 5.jpg",
     "attachments/Shiva 7.jpg",
     "attachments/Shiva 8.jpg",
-    "notes/Krishna.md",
-    "attachments/IMG_6369 (2).jpg",
-    "notes/Generic.md",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
