@@ -62,7 +62,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     // Hide crumbs on root if enabled
     //if (options.hideOnRoot && fileData.slug === "index") {
       return <></>
-    }
+  
 
     // Format entry for root element
     const firstEntry = formatCrumb(options.rootName, fileData.slug!, "/" as SimpleSlug)
