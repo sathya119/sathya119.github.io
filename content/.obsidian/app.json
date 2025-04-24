@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "notes",
   "attachmentFolderPath": "attachments",
   "livePreview": true

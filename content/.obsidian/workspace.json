@@ -36,23 +36,9 @@
               "icon": "lucide-file",
               "title": "Introduction and Classical Particle"
             }
-          },
-          {
-            "id": "ac960bfff26f6151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Parvati.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Parvati"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,12 +221,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac960bfff26f6151",
+  "active": "c701bc40065bbbef",
   "lastOpenFiles": [
+    "Dance.md",
+    "notes/Gallery.md",
+    "notes/As Gods.md",
+    "notes/Parvati.md",
     "attachments/Parvati 5.jpg",
     "attachments/Parvati 6.jpg",
     "attachments/girl 3.jpg",
-    "notes/As Gods.md",
     "notes/Shiva.md",
     "attachments/Shiva 1.jpg",
     "attachments/Shiva 2.jpg",
@@ -248,14 +237,10 @@
     "attachments/Shiva 5.jpg",
     "attachments/Shiva 7.jpg",
     "attachments/Shiva 8.jpg",
-    "notes/Gallery.md",
-    "Dance.md",
     "index.md",
     "notes/Introduction and Classical Particle.md",
     "notes/Krishna.md",
     "attachments/IMG_6369 (2).jpg",
-    "attachments/IMG_6384 (2).jpg",
-    "notes/Parvati.md",
     "notes/Generic.md",
     "notes/Non-abelian Yang-Mills.md",
     "notes/Theoretical Constraints on the  Higgs Sector.md",
