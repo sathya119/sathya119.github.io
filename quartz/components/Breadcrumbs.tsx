@@ -54,13 +54,13 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
   // computed index of folder name to its associated file data
   let folderIndex: Map<string, QuartzPluginData> | undefined
 
-  const Breadcrumbs: QuartzComponent = ({
-    fileData,
-    allFiles,
-    displayClass,
-  }: QuartzComponentProps) => {
+  const Breadcrumbs: QuartzComponent = () => {
+    //fileData,
+    //allFiles,
+    //displayClass,
+  //}: QuartzComponentProps) => {
     // Hide crumbs on root if enabled
-    if (options.hideOnRoot && fileData.slug === "index") {
+    //if (options.hideOnRoot && fileData.slug === "index") {
       return <></>
     }
 
