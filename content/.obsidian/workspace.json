@@ -36,23 +36,8 @@
               "icon": "lucide-file",
               "title": "Introduction and Classical Particle"
             }
-          },
-          {
-            "id": "cc797da93f9ca39a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dance/Gallery/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +220,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc797da93f9ca39a",
+  "active": "52796e0056a51908",
   "lastOpenFiles": [
-    "Dance/index.md",
-    "Dance/Gallery/index.md",
-    "index.md",
     "notes/Introduction and Classical Particle.md",
+    "Student/Student.md",
+    "index.md",
+    "Student",
+    "My Journey with Physics.md",
+    "Dance/Gallery/index.md",
+    "Dance/index.md",
     "Dance/Gallery/As Gods/index.md",
     "templates/default.md",
     "Dance/Dance.md",
@@ -273,16 +261,12 @@
     "notes/Krishna.md",
     "attachments/IMG_6369 (2).jpg",
     "notes/Generic.md",
-    "notes/Non-abelian Yang-Mills.md",
-    "notes/Theoretical Constraints on the  Higgs Sector.md",
-    "notes/Introduction to Strings.md",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
     "Clippings",
-    "TeachMyself",
     "explorations/Mindmap.canvas",
     "Untitled.canvas"
   ]
