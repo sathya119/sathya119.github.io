@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "Introduction and Classical Particle"
             }
+          },
+          {
+            "id": "ac960bfff26f6151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Parvati.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parvati"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,26 +235,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c701bc40065bbbef",
+  "active": "ac960bfff26f6151",
   "lastOpenFiles": [
-    "notes/Parvati.md",
-    "attachments/CA1_0021.jpg",
-    "attachments/CA1_0012.jpg",
-    "attachments/CA1_0011.jpg",
-    "attachments/CA1_0010.jpg",
-    "attachments/CA1_0004.jpg",
+    "attachments/Parvati 5.jpg",
+    "attachments/Parvati 6.jpg",
+    "attachments/girl 3.jpg",
     "notes/As Gods.md",
     "notes/Shiva.md",
+    "attachments/Shiva 1.jpg",
+    "attachments/Shiva 2.jpg",
+    "attachments/Shiva 4.jpg",
+    "attachments/Shiva 5.jpg",
+    "attachments/Shiva 7.jpg",
+    "attachments/Shiva 8.jpg",
     "notes/Gallery.md",
-    "notes/Generic.md",
-    "attachments/DSC_0553.jpg",
-    "attachments/DSC_0363.jpg",
-    "attachments/DSC_0380.jpg",
-    "attachments/CA1_0144.jpg",
-    "attachments/CA1_0086.jpg",
     "Dance.md",
     "index.md",
     "notes/Introduction and Classical Particle.md",
+    "notes/Krishna.md",
+    "attachments/IMG_6369 (2).jpg",
+    "attachments/IMG_6384 (2).jpg",
+    "notes/Parvati.md",
+    "notes/Generic.md",
     "notes/Non-abelian Yang-Mills.md",
     "notes/Theoretical Constraints on the  Higgs Sector.md",
     "notes/Introduction to Strings.md",
@@ -257,7 +273,6 @@
     "notes/Time evolution of number density.md",
     "notes/Organising Colour.md",
     "notes/Fundamentals of QCD.md",
-    "notes/Graphical Representation of Colour Group Algebra.md",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
