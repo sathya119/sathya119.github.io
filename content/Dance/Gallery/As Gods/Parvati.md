@@ -1,3 +1,8 @@
+---
+slug: parvati
+title: Parvati
+---
+
 ![[CA1_0004.jpg]]
 
 ![[CA1_0010.jpg]]

@@ -1,3 +1,8 @@
+---
+slug: shiva
+title: Shiva
+---
+
 ![[DSC_0380.jpg]]
 
 ![[DSC_0363.jpg]]

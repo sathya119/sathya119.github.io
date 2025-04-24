@@ -38,17 +38,17 @@
             }
           },
           {
-            "id": "2861d20316b29cf6",
+            "id": "c43d515f77cd218c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dance/Dance.md",
+                "file": "Dance/Gallery/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dance"
+              "title": "index"
             }
           }
         ],
@@ -235,15 +235,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a601a5e02c603136",
+  "active": "c43d515f77cd218c",
   "lastOpenFiles": [
+    "Dance/Gallery/As Gods/index.md",
+    "Dance/Gallery/index.md",
+    "Dance/index.md",
+    "templates/default.md",
+    "index.md",
+    "notes/Introduction and Classical Particle.md",
+    "Dance/Dance.md",
     "Dance/Gallery/As Gods/As Gods.md",
     "Dance/Gallery/Gallery.md",
     "notes/As Gods.md",
     "Dance/Gallery/Generic.md",
-    "Dance/Dance.md",
-    "index.md",
-    "notes/Introduction and Classical Particle.md",
     "Dance/Gallery/As Gods/Shiva.md",
     "Dance/Gallery/As Gods/Parvati.md",
     "Dance/Gallery/As Gods/Krishna.md",
@@ -272,10 +276,6 @@
     "notes/Non-abelian Yang-Mills.md",
     "notes/Theoretical Constraints on the  Higgs Sector.md",
     "notes/Introduction to Strings.md",
-    "notes/Introduction to String Theory.md",
-    "notes/MATH52530.md",
-    "notes/Epiphany (Spring) Term.md",
-    "notes/Particles, Strings and Cosmology - F3K209.md",
     "instagram.com",
     "_private/presentations",
     "Excalidraw/Scripts/Downloaded",
