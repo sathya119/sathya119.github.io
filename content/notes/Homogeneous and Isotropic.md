@@ -23,9 +23,13 @@ $$ds^2=dt^2-a(t)^2d \underline{x}^2=dt^2-a(t)^2(dr^2+r^2(d\theta^2+sin^2\theta d
 
 The metric is different in each frame, 
 
-$$g_{\mu\nu}=\pmatrix{1&&&\\&-a^2(t)&&\\&&-a^2(t)&\\&&&-a^2(t)}\;\;\;\;\;x^\mu=(t,x^1,x^2,x^3)$$
+$$g_{\mu\nu}=\begin{pmatrix}
+1&&&\\&-a^2(t)&&\\&&-a^2(t)&\\&&&-a^2(t)
+\end{pmatrix}\;\;\;\;\;x^\mu=(t,x^1,x^2,x^3)$$,
 
-$$g_{\mu\nu}=\pmatrix{1&&&\\&-a^2(t)&&\\&&-a^2(t)r^2&\\&&&-a^2(t)r^2s^2_\theta}\;\;\;\;\;(x')^\mu=(t,r,\theta,\phi)$$
+$$g_{\mu\nu}=\begin{pmatrix}
+1&&&\\&-a^2(t)&&\\&&-a^2(t)r^2&\\&&&-a^2(t)r^2s^2_\theta
+\end{pmatrix}\;\;\;\;\;(x')^\mu=(t,r,\theta,\phi)$$.
 
 #### 1.1 Curvature
 - The metric​ could depend on space as well as time, but isotropy and homogeneity constrain its spatial dependence.
@@ -63,16 +67,30 @@ $$\text{Now, }a(t)\int_t^{t_0}\frac{dt'}{a(t')}<\int_t^{t_0}dt'<a(t_0)\int_t^{t_
 - This means that space itself has expanded in the intervening time ∆t!
 
 ## 3. Measuring Distance
-- There are two methods of distance determination:
-	1. **Luminosity Distance**
-		Some objects have a known luminosity (energy (light) emitted per unit time) which can be compared with how much reaches our detector per unit time (How do we know? Read about it)
-		The energy emitted will dilute into a shell around the emission point of radius (today) a(t0)χ=χ. The area of this shell depends on the geometry. Hence, $$A= 4\pi\begin{cases}R_U^2sin^2(\chi/R_U)\\\chi^2\\R_U^2sinh^2(\chi/R_U)\end{cases}=4\pi S_K^2$$
-		Additionally, the rate at which one receives the photon is dilated with respect to the rate of emission. Since the energy of a photon is proportional to its frequency, with the expansion of the universe, the wavelength is redshifted and hence the photon loses energy.
-		Now, the flux F we observe on earth is related to the Luminosity L, $$F=\frac{a(t)^2L}{4\pi S_K^2(\chi)}=\frac{L}{4\pi d_L^2}$$
-		where dL is the luminosity distance. This equation can be inverted to find χ, which results in the fact that the same star seems dimmer in an open universe and brighter in a closed one.
-	2. **Angular Distance**
-		We could also look at objects whose dimensions are known along with trigonometry, since angles do not change for a homogeneously and isotropically expanding universe.
-		Consider a unidimensional rod of length l laid perpendicular to the line of sight at a far distance such that θ<<1 rad. Tracing time back to when the light reaching us now was emitted, we find that the object was at a distance a(t)χ. As a general case, we obtain $$l=a(t)S_K(\chi)\theta\equiv d_A\theta$$
-		Then, the same object at a distance χ, $$\theta=\frac{l}{a(t)}\begin{cases}(R_Usin(\chi/R_U))^{-1}\\\chi^{-1}\\(R_Usinh(\chi/R_U))^{-1}\end{cases}$$
-		This means that objects seem larger in a positive curvature space and smaller in a negative curvature space.
-		If one knows both luminosity and dimensions, extracting χ from both methods provides a useful consistency check.$$\boxed{d_L=\sqrt{\frac{L}{4\pi F}}=\frac{S_K(\chi)}{a(t)}\;\;\;\;\;\;\;\;\;\;d_A=\frac{l}{\theta}=a(t)S_K(\chi)}$$
+There are two methods of distance determination:
+
+1. **Luminosity Distance**
+	Some objects have a known luminosity (energy (light) emitted per unit time) which can be compared with how much reaches our detector per unit time (How do we know? Read about it)
+	
+	The energy emitted will dilute into a shell around the emission point of radius (today) a(t0)χ=χ. The area of this shell depends on the geometry. Hence, $$A= 4\pi\begin{cases}R_U^2sin^2(\chi/R_U)\\\chi^2\\R_U^2sinh^2(\chi/R_U)\end{cases}=4\pi S_K^2$$.
+	
+	Additionally, the rate at which one receives the photon is dilated with respect to the rate of emission. Since the energy of a photon is proportional to its frequency, with the expansion of the universe, the wavelength is redshifted and hence the photon loses energy.
+	
+	Now, the flux F we observe on earth is related to the Luminosity L, 
+	
+	$$F=\frac{a(t)^2L}{4\pi S_K^2(\chi)}=\frac{L}{4\pi d_L^2}$$
+	
+	where dL is the luminosity distance. This equation can be inverted to find χ, which results in the fact that the same star seems dimmer in an open universe and brighter in a closed one.
+
+
+2. **Angular Distance**
+	We could also look at objects whose dimensions are known along with trigonometry, since angles do not change for a homogeneously and isotropically expanding universe.
+	
+	Consider a unidimensional rod of length l laid perpendicular to the line of sight at a far distance such that θ<<1 rad. Tracing time back to when the light reaching us now was emitted, we find that the object was at a distance a(t)χ. As a general case, we obtain $$l=a(t)S_K(\chi)\theta\equiv d_A\theta$$.
+	
+	Then, the same object at a distance χ, $$\theta=\frac{l}{a(t)}\begin{cases}(R_Usin(\chi/R_U))^{-1}\\\chi^{-1}\\(R_Usinh(\chi/R_U))^{-1}\end{cases}$$
+	This means that objects seem larger in a positive curvature space and smaller in a negative curvature space.
+	
+	If one knows both luminosity and dimensions, extracting χ from both methods provides a useful consistency check
+	
+	$$\boxed{d_L=\sqrt{\frac{L}{4\pi F}}=\frac{S_K(\chi)}{a(t)}\;\;\;\;\;\;\;\;\;\;d_A=\frac{l}{\theta}=a(t)S_K(\chi)}$$.

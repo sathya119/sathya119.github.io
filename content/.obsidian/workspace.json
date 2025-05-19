@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Geodesics, Horizons and Redshifts.md",
+                "file": "notes/Homogeneous and Isotropic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geodesics, Horizons and Redshifts"
+              "title": "Homogeneous and Isotropic"
             }
           }
         ],
@@ -238,8 +238,8 @@
   "active": "2efa25764fc59e71",
   "lastOpenFiles": [
     "notes/Cosmology - I.md",
-    "notes/Einstein’s Equations in Cosmology.md",
     "notes/Geodesics, Horizons and Redshifts.md",
+    "notes/Einstein’s Equations in Cosmology.md",
     "notes/Homogeneous and Isotropic.md",
     "notes/Geodesics.md",
     "notes/PHYS52330.md",
