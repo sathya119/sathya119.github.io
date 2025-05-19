@@ -24,7 +24,7 @@ $$ds^2=dt^2-a(t)^2d \underline{x}^2=dt^2-a(t)^2(dr^2+r^2(d\theta^2+sin^2\theta d
 The metric is different in each frame, 
 
 $$g_{\mu\nu}=\begin{pmatrix}
-1&&&\\&-a^2(t)&&\\&&-a^2(t)&\\&&&-a^2(t)
+1&\\&-a^2(t)&\\&&-a^2(t)&\\&&&-a^2(t)
 \end{pmatrix}\;\;\;\;\;x^\mu=(t,x^1,x^2,x^3)$$,
 
 $$g_{\mu\nu}=\begin{pmatrix}
