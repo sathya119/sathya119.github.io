@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Homogeneous and Isotropic.md",
+                "file": "notes/Modern Cosmology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homogeneous and Isotropic"
+              "title": "Modern Cosmology"
             }
           }
         ],
@@ -238,9 +238,9 @@
   "active": "2efa25764fc59e71",
   "lastOpenFiles": [
     "notes/Cosmology - I.md",
+    "notes/Homogeneous and Isotropic.md",
     "notes/Geodesics, Horizons and Redshifts.md",
     "notes/Einstein’s Equations in Cosmology.md",
-    "notes/Homogeneous and Isotropic.md",
     "notes/Geodesics.md",
     "notes/PHYS52330.md",
     "notes/Michaelmas (Autumn) Term.md",
