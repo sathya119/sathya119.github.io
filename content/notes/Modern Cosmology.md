@@ -1,9 +1,13 @@
-# Modern cosmology
-- “claims” the universe to be continually expanding, where everything we see originated from a primordial hot plasma (basically the ‘big bang’).
-	1 #parsec = 3.0856 × 10^13 km.
-	Earth orbits at a distance of 1 microparsec from the Sun, which is 8 kpc away from the centre of the Milky Way Galaxy (50 kpc in diameter).
-	The nearest neighbouring galaxy, Andromeda, is 770 kpc away and is the largest in our local group (~20 galaxies), placed in the outskirts of the Virgo Supercluster (30 Mpc in size).
-	That being said, Cosmology involves itself only with distances above Mpc. As crazy as this cosmological scale seems, we humans have managed to scale distances from as tiny as 10^-22 m in the LHC to such humungous astronomical scales!
+It “claims” the universe to be continually expanding, where everything we see originated from a primordial hot plasma (basically the ‘big bang’).
+
+1 #parsec = 3.0856 × 10^13 km.
+
+Earth orbits at a distance of 1 microparsec from the Sun, which is 8 kpc away from the centre of the Milky Way Galaxy (50 kpc in diameter).
+
+The nearest neighbouring galaxy, Andromeda, is 770 kpc away and is the largest in our local group (~20 galaxies), placed in the outskirts of the Virgo Supercluster (30 Mpc in size).
+
+That being said, Cosmology involves itself only with distances above Mpc. As crazy as this cosmological scale seems, we humans have managed to scale distances from as tiny as 10^-22 m in the LHC to such humungous astronomical scales!
+
 ## 1. #Hubble Diagram
 
 ![[Pasted image 20241117131158.png]]
