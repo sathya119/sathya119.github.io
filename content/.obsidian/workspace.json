@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/The Synapse.md",
+                "file": "notes/Small Circuits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Synapse"
+              "title": "Small Circuits"
             }
           },
           {
@@ -251,9 +251,11 @@
   },
   "active": "68be8a36a82c8f52",
   "lastOpenFiles": [
+    "notes/Excitation and Inhibition.md",
     "notes/Neurons and Networks - MCB80.2x.md",
-    "notes/The Synapse.md",
+    "notes/Small Circuits.md",
     "notes/The Brain - MCB80.3x.md",
+    "notes/The Synapse.md",
     "notes/Neuroscience.md",
     "notes/Electrical Properties of the Neuron - MCB80.1x.md",
     "Student/Student.md",
@@ -276,8 +278,6 @@
     "attachments/Pasted image 20250424172300.png",
     "notes/Higgs Signatures in Decay and Production.md",
     "notes/Higgs Production at the LHC.md",
-    "Music.md",
-    "notes/Higgs Phenomenology.md",
     "Student",
     "Dance/Gallery/As Gods",
     "Dance/Gallery",
