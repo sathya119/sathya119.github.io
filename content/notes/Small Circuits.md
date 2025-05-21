@@ -20,4 +20,30 @@ slug: small-circuits
 - **Divergence** - A neural mechanism by which one neuron sends a signal to many other neurons, supporting the coordination between multiple systems.
 - **Monosynaptic Reflex** - A simple reflex that involves only one synapse between a sensory and motor neuron.
 - **Myotatic Reflex** - A reflex resulting from a “pure” convergence and divergence in the nervous system.
-- **Stretch/Tap Reflex** - 
+- **Stretch/Tap Reflex** - A monosynaptic reflex that occurs due to stretching within the muscle, the body’s resistance of which results in a muscle contraction; leg kicking when the doctor taps the knee.
+- **Recurrence (Feedback)** - When a chain of connected neurons eventually loop back.
+- **Central Pattern Generator (CPG)** - A recurring circuit in a neuronal network that can produce rhythmic, patterned outputs with or without ongoing sensory inputs.
+- **Connectomics** - Field of neuroscience aimed at understanding the relationship between the physical structure of the nervous system and the information it contains.
+
+# Overview
+
+Neuronal systems must compare thousands of levels and types of synaptic input at once (synaptic integration) and decide whether or not to fire an action potential in response. This process is partially regulated by the following factors:
+1. The types of inputs received (Excitatory and/or Inhibitory).
+2. Where along the dendrite the input occurs.
+3. Frequency and input location.
+4. The interplay of simultaneous signals.
+
+# Information Processing
+
+Distinct regions of the neuron specialise in receiving EPSPs or IPSPs. Excitatory signals are mainly received by synapses on the dendritic spines. Inhibitory signals are mainly received by synapses on the dendritic shafts, soma, and axon initial segments.
+
+# Synaptic Efficacy and Distance
+
+More the distance of receival of an input, more the length constants it must travel over, resulting in a weakening of the signal along its journey. Recall that the length constant is dependent on the axial and membrane resistances; dendrites generally have a smaller diameter the farther they are away from the soma, and the thinner they are, higher is the resistance, which produces a decreased length constant, resulting a greater change in signal loss before reaching the soma.
+
+This signal attenuation is also affected by the fact that peripheral dendrites are unmyelinated and lack voltage-gated channels, which prevents their signals from being regenerative (as opposed to axons, whose voltage-gated Sodium and Potassium channels support signal propagation).
+
+# Synaptic Summation
+
+The nonlinearity of synaptic summation is caused by factors like:
+- **Driving Force** - 

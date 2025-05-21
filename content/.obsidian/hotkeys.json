@@ -107,5 +107,13 @@
       ],
       "key": "`"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-import-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
   ]
 }

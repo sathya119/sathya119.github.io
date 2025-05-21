@@ -3,7 +3,9 @@ title: Sai-Brain
 ---
 # Organised Chaos Ahead!
 
-Hi! I’m Sai and this is an overview of my brain. Why is it called Sai Brain?
+Hi! I’m Sai and this is an overview of my brain, essentially, a Digital Garden.
+
+Why is it called Sai Brain?
 
 **Inspo:** My dad owns a domain called “saibrains” and I have had an email under that forever. So, I stole his idea and used it for this Digital Garden 😆
 

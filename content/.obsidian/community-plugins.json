@@ -15,5 +15,7 @@
   "dataview",
   "obsidian-icon-folder",
   "obsidian-git",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-zotero-desktop-connector",
+  "highlightr-plugin"
 ]
