@@ -1,6 +1,4 @@
 ---
-title: Epiphany Term - Spring
+title: Epiphany (Spring) Term
 slug: epiphany-term---spring
 ---
-
-# Epiphany Term - Spring

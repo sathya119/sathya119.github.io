@@ -1,4 +1,4 @@
 ---
-title: Michaelmas (Autumn)
+title: Michaelmas (Autumn) Term
 slug: michaelmas-(autumn)
 ---
