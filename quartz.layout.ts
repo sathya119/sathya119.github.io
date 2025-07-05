@@ -50,16 +50,16 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
-    Component.RecentNotes({
-      filter: (f) =>
-        (f.slug?.startsWith("Student") ||
-          f.slug?.startsWith("Sing") ||
-          f.slug?.startsWith("Dance") ||
-          f.slug?.startsWith("Daydream")) ??
-        false,
-      title: "Recent writing",
-      limit: 10,
-      showTags: false,
-    }),
+    //Component.RecentNotes({
+      //filter: (f) =>
+        //(f.slug?.startsWith("Student") ||
+          //f.slug?.startsWith("Sing") ||
+          //f.slug?.startsWith("Dance") ||
+          //f.slug?.startsWith("Daydream")) ??
+        //false,
+      //title: "Recent writing",
+      //limit: 10,
+      //showTags: false,
+    //}),
   ],
 }
