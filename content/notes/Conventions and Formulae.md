@@ -1,19 +1,36 @@
 ## Units
+
 We use natural units,
 $$[\hbar]=[c]=1$$
+
 ## Metric
+
 $$x^\mu = (ct,\vec{x})\:\:\:p^\mu=(\frac{E_p}{c},\vec{p})$$
-where μ=0,1,2,3 are the indices (temporal and spatial) corresponding to t,x,y,z.
-#Minkowski Metric, $$\eta_{\mu\nu}=\begin{pmatrix}
+
+where $μ=0,1,2,3$ are the indices (temporal and spatial) corresponding to $t,x,y,z$.
+
+#Minkowski Metric, 
+
+$$\eta_{\mu\nu}=\begin{pmatrix}
 -1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1
 \end{pmatrix}$$
-such that$$x_\mu=\eta_{\mu \nu}x^\nu=(-ct,\vec{x})$$
-## Partial Derivatives and Stuff
+
+such that $$x_\mu=\eta_{\mu \nu}x^\nu=(-ct,\vec{x})$$
+
+## Partial Derivatives
+
 $$\partial_x \implies \frac{\partial}{\partial x}$$
+
 ## Dirac Delta Function
+
 $$\int_{-\infty}^{\infty}dke^{ikx}=2\pi\delta(x)$$
+
 $$\int_{-\infty}^{\infty}d^nke^{ikx}=(2\pi)^n\delta^{(n)}(x)$$
+
 ## Commutators
-$$[A,B]=AB-BA$$
-$$[A,BC]=[A,B]C + B[A,C]$$
-$$\{A,B\} = AB+BA\:\:(called \:the\:anti-commutator)$$
+
+- $$[A,B]=AB-BA$$
+
+- $$[A,BC]=[A,B]C + B[A,C]$$
+
+- $$\{A,B\} = AB+BA\:\:(called \:the\:anti-commutator)$$
