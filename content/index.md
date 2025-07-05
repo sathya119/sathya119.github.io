@@ -5,13 +5,13 @@ title: Sai-Brain
 
 Hi! I’m Sai and this is an overview of my brain, essentially, a Digital Garden.
 
-Why is it called Sai Brain?
+> Why is it called Sai Brain?
 
 **Inspo:** My dad owns a domain called “saibrains” and I have had an email under that forever. So, I stole his idea and used it for this Digital Garden 😆
 
 I publish my academic and co-curricular notes here. 
 
-- I am a [[Student/index|Student]] primarily.
+- I am a [[Student/index|Student]].
 - I am crazy about [[Music]]!
 - I also love to [[Dance/index|Dance]].
 - But, I mostly [[Daydream]].

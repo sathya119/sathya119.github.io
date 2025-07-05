@@ -51,8 +51,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +234,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edfa9c2bb44c0850",
+  "active": "52796e0056a51908",
   "lastOpenFiles": [
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/index.md",
     "Student/My Journey with Physics/PSC/index.md",
     "Student/My Journey with Physics/index.md",
@@ -244,7 +244,6 @@
     "index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Interactions.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/index.md",
     "Student/My Journey with Physics.md",
     "Student/Neuroscience/index.md",
     "Student.md",
