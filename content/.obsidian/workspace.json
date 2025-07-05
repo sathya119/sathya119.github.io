@@ -36,51 +36,9 @@
               "icon": "lucide-file",
               "title": "Low Energy Acoustic Phonons"
             }
-          },
-          {
-            "id": "5aa0e9a5cea6f288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/PHYS52230.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PHYS52230"
-            }
-          },
-          {
-            "id": "e7b5dd1358938726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Student/Student.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Student"
-            }
-          },
-          {
-            "id": "1b4600af16d5acb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dance/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,16 +221,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7b5dd1358938726",
+  "active": "5a82c0cd440c02cd",
   "lastOpenFiles": [
-    "Dance/index.md",
-    "Student/Student.md",
     "Dance/Gallery/index.md",
-    "index.md",
-    "Student/My Journey with Physics/My Journey with Physics.md",
     "notes/Low Energy Acoustic Phonons.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/PHYS52230.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Symmetry/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Review/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Michaelmas (Autumn) Term.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Field Mechanics/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Conventions/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/index.md",
+    "Student/My Journey with Physics/PSC/index.md",
+    "Student/My Journey with Physics/index.md",
+    "Dance/index.md",
+    "index.md",
+    "Student/My Journey with Physics/PSC/Particles, Strings and Cosmology - F3K209.md",
+    "Student/My Journey with Physics/My Journey with Physics.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/PHYS52230.md",
+    "Student/Student.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Symmetry/Symmetry.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Symmetry",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Review/Review of Classical Mechanics.md",
@@ -285,17 +254,6 @@
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Field Mechanics",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 2/PHYS52330.md",
     "Student/My Journey with Physics/PSC/Michaelmas/PHYS52230.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/QFT I/Quantum Field Theory - I.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/GRP/Group Theory.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/GR/General Relativity.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/Introductory Field Theory.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Introductory Field Theory.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Symmetry.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Review of Classical Mechanics.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Conventions and Formulae.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Classical Field Mechanics.md",
-    "Student/My Journey with Physics/PSC/Particles, Strings and Cosmology - F3K209.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/QFT I",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/GRP",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/GR",
