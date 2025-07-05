@@ -11,7 +11,7 @@ Why is it called Sai Brain?
 
 I publish my academic and co-curricular notes here. 
 
-- I am a [[Student]] primarily.
+- I am a [[Student/index|Student]] primarily.
 - I am crazy about [[Music]]!
 - I also love to [[Dance/index|Dance]].
 - But, I mostly [[Daydream]].

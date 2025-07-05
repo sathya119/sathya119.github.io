@@ -1,3 +1,7 @@
+---
+slug: student
+title: Student
+---
 Where and what do I study?
 
 >I am enrolled in a Masters course that covers Particles, Strings and Cosmology in Durham University at Durham, United Kingdom. And yes, I study hardly (yes I meant it the way you thought).
