@@ -11,9 +11,7 @@ where $μ=0,1,2,3$ are the indices (temporal and spatial) corresponding to $t,x,
 
 - #Minkowski Metric, 
 
-$$\eta_{\mu\nu}=\begin{pmatrix}
--1&0&0&0\\0&1&0&0\\0&0&1&0\\0&0&0&1
-\end{pmatrix}$$
+
 
 such that $$x_\mu=\eta_{\mu \nu}x^\nu=(-ct,\vec{x})$$
 

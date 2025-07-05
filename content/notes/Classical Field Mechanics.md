@@ -39,11 +39,25 @@ $$\frac{\partial}{\partial{x^\mu}}\frac{\partial{\mathcal{L}}}{\partial\partial_
 ## Hamiltonian Formulation
 
 $$\int d^3x\delta\dot{\phi}\Pi\equiv\int d^3x\delta\dot{\phi}\frac{\partial\mathcal{L}}{\delta\dot{\phi}}$$
-	$$=\int d^3x\delta\dot{\phi}(\frac{\partial\mathcal{L}}{\partial\dot{\phi}}-\nabla\frac{\partial\mathcal{L}}{\partial\nabla\dot{\phi}})$$
-	such that the canonical coordinate is $$\Pi(\vec{x})=\frac{\partial\mathcal{L}}{\partial\dot{\phi}}-\nabla\frac{\partial\mathcal{L}}{\partial\nabla\dot{\phi}}$$
-	We define the Hamiltonian Density as
-	$$\mathcal{H}=\Pi.\dot{\phi}-\mathcal{L}$$
-	We can now write the Hamiltonian as $$H=\int d^3x\mathcal{H}=\int d^3x(\Pi.\dot{\phi}-\mathcal{L})$$
-	Now the equations of motion follow from the #Legendre inverse transform such that $$\int d^3x\delta\phi(\frac{\delta\mathcal{H}}{\delta\phi})=\int d^3x(\frac{\delta\dot{\phi}}{\delta\phi}(\Pi-\frac{\delta\mathcal{L}}{\delta\dot{\phi}})-\frac{\delta\mathcal{L}}{\delta\phi})$$
-	$$\dot{\phi}=\frac{\partial\mathcal{H}}{\partial\Pi}-\nabla\frac{\partial\mathcal{H}}{\partial\nabla\Pi} \:\:and\:\:\dot{\Pi}=-\frac{\partial\mathcal{H}}{\partial\phi}+\nabla\frac{\partial\mathcal{H}}{\partial\nabla\phi}$$
-	#Poisson Bracket has a generalisation such that $$\frac{d}{dt}\Theta=[H,\Theta]_P+\frac{\partial\Theta}{\partial t}$$
+
+$$=\int d^3x\delta\dot{\phi}(\frac{\partial\mathcal{L}}{\partial\dot{\phi}}-\nabla\frac{\partial\mathcal{L}}{\partial\nabla\dot{\phi}})$$
+
+such that the canonical coordinate is 
+
+$$\Pi(\vec{x})=\frac{\partial\mathcal{L}}{\partial\dot{\phi}}-\nabla\frac{\partial\mathcal{L}}{\partial\nabla\dot{\phi}}$$.
+
+We define the Hamiltonian Density as $$\mathcal{H}=\Pi.\dot{\phi}-\mathcal{L}$$.
+
+We can now write the Hamiltonian as 
+
+$$H=\int d^3x\mathcal{H}=\int d^3x(\Pi.\dot{\phi}-\mathcal{L})$$.
+
+Now the equations of motion follow from the #Legendre inverse transform such that 
+
+$$\int d^3x\delta\phi(\frac{\delta\mathcal{H}}{\delta\phi})=\int d^3x(\frac{\delta\dot{\phi}}{\delta\phi}(\Pi-\frac{\delta\mathcal{L}}{\delta\dot{\phi}})-\frac{\delta\mathcal{L}}{\delta\phi})$$.
+
+$$\dot{\phi}=\frac{\partial\mathcal{H}}{\partial\Pi}-\nabla\frac{\partial\mathcal{H}}{\partial\nabla\Pi}\text{ and }\dot{\Pi}=-\frac{\partial\mathcal{H}}{\partial\phi}+\nabla\frac{\partial\mathcal{H}}{\partial\nabla\phi}$$
+
+#Poisson Bracket has a generalisation,
+
+$$\frac{d}{dt}\Theta=[H,\Theta]_P+\frac{\partial\Theta}{\partial t}$$.
