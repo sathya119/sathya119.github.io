@@ -4,7 +4,7 @@ $$q(t) \longleftrightarrow \phi(t,x)\: and\: p(t) \longleftrightarrow \Pi(t,x)$$
 
 The field can be imagined as:
 
-![[field]]
+![[field.light.svg]]
 
 where the field points can move up & down (we neglect horizontal motion).
 

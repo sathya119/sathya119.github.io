@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Conventions and Formulae.md",
+                "file": "notes/Classical Field Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conventions and Formulae"
+              "title": "Classical Field Mechanics"
             }
           }
         ],
@@ -238,6 +238,8 @@
   "active": "672e2cd93ebfdb54",
   "lastOpenFiles": [
     "notes/Introductory Field Theory.md",
+    "notes/Review of Classical Mechanics.md",
+    "notes/Conventions and Formulae.md",
     "notes/PHYS52230.md",
     "notes/Michaelmas (Autumn) Term.md",
     "notes/Particles, Strings and Cosmology - F3K209.md",
@@ -245,8 +247,6 @@
     "Student/Student.md",
     "index.md",
     "notes/Classical Field Mechanics.md",
-    "notes/Conventions and Formulae.md",
-    "notes/Review of Classical Mechanics.md",
     "notes/Einstein’s Equations in Cosmology.md",
     "notes/The Brain - MCB80.3x.md",
     "notes/Neuroscience.md",
