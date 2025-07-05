@@ -6,7 +6,7 @@ Where and what do I study?
 
 >I am enrolled in a Masters course that covers Particles, Strings and Cosmology in Durham University at Durham, United Kingdom. And yes, I study hardly (yes I meant it the way you thought).
 
-I write my academic notes in [[My Journey with Physics|My Journey with Physics]] and also some other random jazz about my, well as the title suggests, Journey with Physics :P
+I write my academic notes in [[Student/My Journey with Physics/index|My Journey with Physics]] and also some other random jazz about my, well as the title suggests, Journey with Physics :P
 
 > I am also a student of Neuroscience at Harvard University (I attend online) which I am trying to balance alongside my degree at Durham University. 
 
