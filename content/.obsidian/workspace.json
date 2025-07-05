@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Introductory Field Theory.md",
+                "file": "notes/Classical Field Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introductory Field Theory"
+              "title": "Classical Field Mechanics"
             }
           }
         ],
@@ -223,15 +223,16 @@
   },
   "active": "5a82c0cd440c02cd",
   "lastOpenFiles": [
-    "notes/Conventions and Formulae.md",
+    "index.md",
+    "notes/Classical Field Mechanics.md",
     "notes/Introductory Field Theory.md",
     "notes/Review of Classical Mechanics.md",
+    "notes/Conventions and Formulae.md",
     "notes/PHYS52230.md",
     "notes/Michaelmas (Autumn) Term.md",
     "notes/Particles, Strings and Cosmology - F3K209.md",
     "My Journey with Physics.md",
     "Student/Student.md",
-    "index.md",
     "notes/Einstein’s Equations in Cosmology.md",
     "notes/The Brain - MCB80.3x.md",
     "notes/Neuroscience.md",
@@ -249,7 +250,6 @@
     "notes/Geodesics, Horizons and Redshifts.md",
     "notes/Geodesics.md",
     "notes/PHYS52330.md",
-    "notes/Introduction and Classical Particle.md",
     "attachments/Pasted image 20250424172300.png",
     "Student",
     "Dance/Gallery/As Gods",
