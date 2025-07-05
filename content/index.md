@@ -11,7 +11,7 @@ Hi! I’m Sai and this is an overview of my brain, essentially, a Digital Garden
 
 I publish my academic and co-curricular notes here. 
 
-- I am a [[Student/index|Student]].
+- I am a [[Student|Student]].
 - I am crazy about [[Music]]!
 - I also love to [[Dance/index|Dance]].
 - But, I mostly [[Daydream]].
