@@ -1,4 +1,4 @@
-1. [[Schedule]]
+1. [[Schedul]]
 2. [[Skills]]
 3. [[Self-Reliance]]
 4. [[Fitness]]

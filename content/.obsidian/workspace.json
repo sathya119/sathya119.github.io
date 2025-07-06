@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "93a05dc2828462d4",
+            "id": "13196401992bc5ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student/SSSIHL/Achievements 1.md",
+                "file": "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Fock Space and Operators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Achievements 1"
-            }
-          },
-          {
-            "id": "3378608b61717a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Student/SSSIHL/Sai Student 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sai Student 1"
+              "title": "Fock Space and Operators"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,18 +221,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3378608b61717a22",
+  "active": "13196401992bc5ee",
   "lastOpenFiles": [
-    "Student/SSSIHL/schedule.md",
-    "Student/SSSIHL/Sai Student 1.md",
-    "Student/SSSIHL/index.md",
+    "attachments/ripples ift.md",
+    "attachments/ripples ift.light.svg",
+    "attachments/ripples ift.dark.svg",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Fock Space and Operators.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Interactions/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Interactions",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/index.md",
+    "Student/My Journey with Physics/PSC/index.md",
+    "Student/My Journey with Physics/index.md",
     "Student/index.md",
     "index.md",
+    "notes/Why SSSIHL.md",
+    "Student/SSSIHL/index.md",
     "Student/SSSIHL/Achievements 1.md",
+    "Student/SSSIHL/schedule.md",
+    "Student/SSSIHL/Sai Student 1.md",
     "notes/Sai Student.md",
     "notes/Achievements.md",
     "notes/Programmes.md",
-    "notes/Why SSSIHL.md",
     "notes/Skills.md",
     "notes/2022-2023.md",
     "notes/Sri Sathya Sai Institute of Higher Learning.md",
@@ -255,24 +253,13 @@
     "Student/Neurosciences/index.md",
     "Student/Neurosciences/The Brain/index.md",
     "Student/Neurosciences/The Brain",
-    "Student/Neurosciences/Neurons and Networks/index.md",
     "Student/Neurosciences/Neurons and Networks",
-    "notes/Electrical Properties of the Neuron - MCB80.1x.md",
-    "Student/Neurosciences/Electrical Properties of the Neuron/index.md",
     "Student/Neurosciences/Electrical Properties of the Neuron",
-    "notes/Neuroscience.md",
     "Student/Neurosciences",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Classical Mechanics Review/index.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/index.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/index.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/index.md",
-    "Student/My Journey with Physics/PSC/index.md",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Classical Mechanics Review/Classical Field Mechanics 1.md",
     "Student/My Journey with Physics/PSC/Epiphany",
     "Student/My Journey with Physics/PSC/Easter",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/QFT I",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/QHO",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation",
     "attachments/Pasted image 20250424172300.png",
     "attachments/Parvati 5.jpg",
     "attachments/Parvati 6.jpg",
@@ -281,8 +268,6 @@
     "attachments/Shiva 2.jpg",
     "attachments/Shiva 4.jpg",
     "attachments/Shiva 5.jpg",
-    "attachments/Shiva 7.jpg",
-    "attachments/Shiva 8.jpg",
     "explorations/Mindmap.canvas",
     "Untitled.canvas"
   ]

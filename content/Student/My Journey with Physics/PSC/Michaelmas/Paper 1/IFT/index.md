@@ -20,6 +20,6 @@ Topics:
 - [[Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Classical Mechanics Review/index|Classical Mechanics Review]]
 - [[Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/index|Quantisation]]
 - [[Symmetry 1]]
-- [[Interactions 1]]
+- [[Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Interactions/index]]
 - [[Interactions and the Perturbative Expansion]]
 - [[Fermions 1]]
