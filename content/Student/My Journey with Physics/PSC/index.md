@@ -2,6 +2,6 @@
 title: Particles, Strings and Cosmology
 slug: psc
 ---
-- [[Michaelmas Term - Autumn]]
+- [[Student/My Journey with Physics/PSC/Michaelmas/index]]
 - [[Epiphany Term - Spring]]
 

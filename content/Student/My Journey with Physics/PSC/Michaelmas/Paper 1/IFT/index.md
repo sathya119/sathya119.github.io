@@ -17,8 +17,8 @@ But, how do we build a QFT?
 Before delving, check [[Conventions]]
 
 Topics:
-- [[Classical Mechanics Review]]
-- [[Quantisation 1]]
+- [[Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Classical Mechanics Review/index|Classical Mechanics Review]]
+- [[Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/index|Quantisation]]
 - [[Symmetry 1]]
 - [[Interactions 1]]
 - [[Interactions and the Perturbative Expansion]]
