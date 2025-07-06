@@ -30,7 +30,7 @@ It may seem like this could be achieved elsewhere too. Yes, maybe. But I havenâ€
 
 ## How does one become a Sai Student?
 
-The is my favourite section because its a simple yet profound aspect that Swami has reminded us multiple times.
+The is my favourite section because it is a simple yet profound aspect that Swami has reminded us multiple times.
 
 Loosely, a Sri Sathya Sai University student does not imply that you are a Sai Student (WHAT!?). To be a Sai Student, you need to live His message, practise what you preach, and abide by the 5 human values - Sathya (Truth), Dharma, Shanti (Peace), Prema (Love) and Ahimsa (Non-Violence).
 
