@@ -10,9 +10,9 @@ I write my academic notes in [[Student/My Journey with Physics/index|My Journey 
 
 > I am also a student of Neuroscience at Harvard University (I attend online) which I am trying to balance alongside my degree at Durham University. 
 
-I take some notes about [[Neuroscience]] and write about related topics too!
+I take some notes about [[Student/Neurosciences/index|Neuroscience]] and write about related topics too!
 
 <u>Sidenote:</u>
-I was a student {continue to be one - I know that’s weird at first glance but read up to know more ;)} at [[Sri Sathya Sai Institute of Higher Learning]], which I claim to be the best 3 years of my academic journey.
+I was (am) a student at [[Student/SSSIHL/index|Sri Sathya Sai Institute of Higher Learning]], which are ought to be the best years in my academic journey.
 
 You must read to know what amazing stuff the University does to anyone that studies there!
