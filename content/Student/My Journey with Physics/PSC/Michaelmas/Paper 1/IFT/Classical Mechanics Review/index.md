@@ -86,4 +86,4 @@ Few Poisson brackets,
 - $$[x,p]=1$$
 - $$[x,H]=\dot{x},\:[p,H]=\dot{p}$$.
 
-Applying it to fields: [[Classical Field Mechanics 1]]
+Applying it to fields: [[Classical Field Mechanics 1|Classical Field Mechanics]]
