@@ -6,6 +6,36 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-07-24T10:03:33.466Z",
+      "total": 0,
+      "drafts": {
+        "notes/My Journey with Physics.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-07-19T17:29:22.668Z",
+      "total": 0,
+      "drafts": {
+        "notes/My Journey with Physics.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
+      "start": "2025-07-11T03:46:09.761Z",
+      "total": 0,
+      "drafts": {
+        "notes/My Journey with Physics.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2025-07-05T23:03:11.805Z",
       "total": 0,
       "drafts": {

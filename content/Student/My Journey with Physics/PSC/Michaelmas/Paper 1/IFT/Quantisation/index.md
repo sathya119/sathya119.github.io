@@ -10,5 +10,5 @@ Just like we cannot measure momentum and position simultaneously and to arbitrar
 
 - [[Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/QHO/index|The Quantum Harmonic Oscillator]]
 - [[Fock Space and Operators]]
-- [[Connection with "old" QM]]
+- [[Connection with old QM|Connection with “old” QM]]
 - [[Causality]]

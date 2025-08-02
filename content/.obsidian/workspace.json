@@ -29,16 +29,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Fock Space and Operators.md",
+                "file": "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Connection with old QM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fock Space and Operators"
+              "title": "Connection with old QM"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,16 +220,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13196401992bc5ee",
+  "active": "52796e0056a51908",
   "lastOpenFiles": [
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Connection with old QM.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/index.md",
+    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Fock Space and Operators.md",
     "attachments/ripples ift.md",
     "attachments/ripples ift.light.svg",
     "attachments/ripples ift.dark.svg",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/Fock Space and Operators.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Interactions/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Interactions",
-    "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/IFT/Quantisation/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/Paper 1/index.md",
     "Student/My Journey with Physics/PSC/Michaelmas/index.md",
     "Student/My Journey with Physics/PSC/index.md",
