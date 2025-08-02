@@ -1,10 +1,8 @@
 ---
-title: Sai-Brain
+title: Sai-Notes
 ---
 # Organised Chaos Ahead!
 
-Hi! I’m Sai and this is an overview of my brain, essentially, a Digital Garden but with a fun name.
+Hi! I’m Sai and this is a Digital Garden specifically for my academic notes.
 
-I publish my academic notes here: [[Student/index|Student]].
-
-**Inspo:** My dad owns a domain called “saibrains” and I have had an email under that forever. So, I stole his and made it mine 😆
+I publish my academic notes here: [[Student/index|Student]]
